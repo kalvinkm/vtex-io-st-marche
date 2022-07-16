@@ -1,0 +1,27 @@
+.flexRow--header-desktop {
+    background-color: #32593B;
+    padding: 0;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    z-index: 100000;
+    border-radius: 0;
+}
+
+.flexRow--header-desktop-container {
+    /* border: 1px solid #fff; */
+    position: relative;
+    max-width: 1140px;
+    padding: 0 10px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+}
+
+.flexRow--search {
+    border: 1px solid #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 679px;
+}

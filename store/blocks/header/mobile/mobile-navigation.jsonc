@@ -1,0 +1,113 @@
+{
+    "flex-layout.row#mobile-navigation": {
+        "props": {
+          "blockClass": "mobile-navigation",
+          "preventHorizontalStretch": true
+        },
+        "children": [
+          "link.product#our-products-link",
+          "link.product#beers-link",
+          "link.product#butchery-link",
+          "link.product#download-app-link",
+          "link.product#our-store-link"
+        ]
+      },
+
+
+      /* NOSSOS PRODUTO */
+
+      "link.product#our-products-link": {
+        "props": {
+          "blockClass": ["our-products-link", "mobile-header-link-nav"],
+          "href": ""
+        },
+        "children": [
+          "rich-text#our-products"
+        ]
+      },
+
+      "rich-text#our-products": {
+        "props": {
+          "blockClass": ["our-products", "mobile-header-nav-itens"],
+          "text": "Nossos Produtos"
+        }
+      },
+
+
+      /* CERVEJAS */
+
+      "link.product#beers-link": {
+        "props": {
+          "blockClass": ["beers-link", "mobile-header-link-nav"],
+          "href": ""
+        },
+        "children": [
+          "rich-text#beers"
+        ]
+      },
+
+      "rich-text#beers": {
+        "props": {
+          "blockClass": ["beers", "mobile-header-nav-itens"],
+          "text": "Cervejas"
+        }
+      },
+
+      /* AÇOUGUE */
+
+      "link.product#butchery-link": {
+        "props": {
+          "blockClass": ["butchery-link", "mobile-header-link-nav"],
+          "href": ""
+        },
+        "children": [
+          "rich-text#butchery"
+        ]
+      },
+
+      "rich-text#butchery": {
+        "props": {
+          "blockClass": ["butchery", "mobile-header-nav-itens"],
+          "text": "Açougue"
+        }
+      },
+
+
+      /* BAIXE O APP */
+
+      "link.product#download-app-link": {
+        "props": {
+          "blockClass": ["download-app-link", "mobile-header-link-nav"],
+          "href": ""
+        },
+        "children": [
+          "rich-text#download-app"
+        ]
+      },
+
+      "rich-text#download-app": {
+        "props": {
+          "blockClass": ["download-app", "mobile-header-nav-itens"],
+          "text": "Baixe o App"
+        }
+      },
+
+      /* NOSSAS LOJAS */
+
+      "link.product#our-store-link": {
+        "props": {
+          "blockClass": ["our-store-link", "mobile-header-link-nav"],
+          "href": ""
+        },
+        "children": [
+          "rich-text#our-store"
+        ]
+      },
+
+      "rich-text#our-store": {
+        "props": {
+          "blockClass": ["our-store", "mobile-header-nav-itens"],
+          "text": "Nossas Lojas"
+        }
+      }
+}

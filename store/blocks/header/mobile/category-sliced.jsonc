@@ -1,0 +1,122 @@
+{
+    "menu-item#mortadela": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-mortadela",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/mortadela",
+                "noFollow": false,
+                "tagTitle": "mortadela",
+                "text": "Mortadela (9)"
+            }
+        }
+    },
+
+    "menu-item#outros-embutidos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-outros-embutidos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/outros-embutidos",
+                "noFollow": false,
+                "tagTitle": "outros-embutidos",
+                "text": "Outros Embutidos (1)"
+            }
+        }
+    },
+
+    "menu-item#peito-peru-chester-frango": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-peito-peru-chester-frango",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/peito-de-peru-chester-e-frango",
+                "noFollow": false,
+                "tagTitle": "peito-peru-chester-frango",
+                "text": "Peito de Peru, Chester e Frango (9)"
+            }
+        }
+    },
+
+    "menu-item#presunto-cozido": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-presunto-cozido",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/presunto-cozido",
+                "noFollow": false,
+                "tagTitle": "presunto-cozido",
+                "text": "Presunto Cozido (3)"
+            }
+        }
+    },
+
+    "menu-item#presunto-cru-parma": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-presunto-cru-parma",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/presunto-cru-e-parma",
+                "noFollow": false,
+                "tagTitle": "presunto-cru-parma",
+                "text": "Presunto Cru e Parma (18)"
+            }
+        }
+    },
+
+    "menu-item#rosbife-pastrami": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-rosbife-pastrami",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/rosbife-e-pastrami",
+                "noFollow": false,
+                "tagTitle": "rosbife-pastrami",
+                "text": "Rosbife e Pastrami (2)"
+            }
+        }
+    },
+
+    "menu-item#salame-copa": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-salame-copa",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/salame-e-copa",
+                "noFollow": false,
+                "tagTitle": "salame-copa",
+                "text": "Salame e Copa (34)"
+            }
+        }
+    }
+}
+
+//

@@ -1,0 +1,120 @@
+{
+    "menu-item#cogumelo-broto": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cogumelo-broto",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cogumelo-e-broto",
+                "noFollow": false,
+                "tagTitle": "cogumelo-broto",
+                "text": "Cogumelo e Broto (7)"
+            }
+        }
+    },
+    
+    "menu-item#fruta": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fruta",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/fruta",
+                "noFollow": false,
+                "tagTitle": "fruta",
+                "text": "Fruta (89)"
+            }
+        }
+    },
+
+    "menu-item#legume": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-legume",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/legume",
+                "noFollow": false,
+                "tagTitle": "legume",
+                "text": "Legume (83)"
+            }
+        }
+    },
+
+    "menu-item#ovo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-ovo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/ovo",
+                "noFollow": false,
+                "tagTitle": "ovo",
+                "text": "Ovo (12)"
+            }
+        }
+    },
+     
+    "menu-item#salada-fruta": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-salada-fruta",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/salada-de-fruta",
+                "noFollow": false,
+                "tagTitle": "salada-fruta",
+                "text": "Salada de Fruta (1)"
+            }
+        }
+    },
+
+    "menu-item#tempero": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-tempero",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/tempero",
+                "noFollow": false,
+                "tagTitle": "tempero",
+                "text": "Tempero (14)"
+            }
+        }
+    },
+
+    "menu-item#verdura": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-verdura",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/verdura",
+                "noFollow": false,
+                "tagTitle": "verdura",
+                "text": "Verdura (42)"
+            }
+        }
+    }
+}

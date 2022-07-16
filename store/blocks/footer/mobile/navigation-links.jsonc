@@ -1,0 +1,199 @@
+{
+    "flex-layout.row#navigation-links": {
+        "props": {
+            "blockClass": "navigation-links",
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "link.product#about-link",
+            "link.product#doubt-link",
+            "link.product#privacy-link",
+            "link.product#terms-link",
+            "link.product#app-link",
+            "link.product#shops-link",
+            "link.product#work-link",
+            "link.product#contacts-link",
+            "link.product#campaign-link"
+        ]
+    },
+
+    /* LINKS */
+
+    "link.product#about-link": {
+        "props": {
+            "blockClass": [
+                "about-link",
+                "link"
+            ],
+            "href": "https://www.marche.com.br/sobre"
+        },
+        "children": [
+            "rich-text#about"
+        ]
+    },
+    "rich-text#about": {
+        "props": {
+            "blockClass": "about",
+            "text": "Sobre"
+        }
+    },
+
+
+    "link.product#doubt-link": {
+        "props": {
+            "blockClass": [
+                "doubt-link",
+                "link"
+            ],
+            "href": "https://ajuda.marche.com.br/hc/pt-br"
+        },
+        "children": [
+            "rich-text#doubt"
+        ]
+    },
+    "rich-text#doubt": {
+        "props": {
+            "blockClass": "doubt",
+            "text": "Dúvidas"
+        }
+    },
+
+
+    "link.product#privacy-link": {
+        "props": {
+            "blockClass": [
+                "privacy-link",
+                "link"
+            ],
+            "href": "https://www.marche.com.br/privacidade"
+        },
+        "children": [
+            "rich-text#privacy"
+        ]
+    },
+    "rich-text#privacy": {
+        "props": {
+            "blockClass": "privacy",
+            "text": "Privacidade"
+        }
+    },
+
+
+
+    "link.product#terms-link": {
+        "props": {
+            "blockClass": [
+                "terms-link",
+                "link"
+            ],
+            "href": "https://www.marche.com.br/termos"
+        },
+        "children": [
+            "rich-text#terms"
+        ]
+    },
+    "rich-text#terms": {
+        "props": {
+            "blockClass": "terms",
+            "text": "Termos"
+        }
+    },
+
+
+    "link.product#app-link": {
+        "props": {
+            "blockClass": [
+                "app-link",
+                "link"
+            ],
+            "href": "https://www.marche.com.br/apps"
+        },
+        "children": [
+            "rich-text#app"
+        ]
+    },
+    "rich-text#app": {
+        "props": {
+            "blockClass": "app",
+            "text": "Apps"
+        }
+    },
+
+
+    "link.product#shops-link": {
+        "props": {
+            "blockClass": [
+                "shops-link",
+                "link"
+            ],
+            "href": "https://www.marche.com.br/nossas-lojas"
+        },
+        "children": [
+            "rich-text#shops"
+        ]
+    },
+    "rich-text#shops": {
+        "props": {
+            "blockClass": "shops",
+            "text": "Lojas"
+        }
+    },
+
+
+    "link.product#work-link": {
+        "props": {
+            "blockClass": [
+                "work-link",
+                "link"
+            ],
+            "href": "https://stmarche.pandape.com.br/"
+        },
+        "children": [
+            "rich-text#work"
+        ]
+    },
+    "rich-text#work": {
+        "props": {
+            "blockClass": "work",
+            "text": "Trabalhe Conosco"
+        }
+    },
+
+
+    "link.product#contacts-link": {
+        "props": {
+            "blockClass": [
+                "contacts-link",
+                "link"
+            ],
+            "href": "https://www.marche.com.br/contato"
+        },
+        "children": [
+            "rich-text#contacts"
+        ]
+    },
+    "rich-text#contacts": {
+        "props": {
+            "blockClass": "contacts",
+            "text": "Contatos"
+        }
+    },
+    "link.product#campaign-link": {
+        "props": {
+            "blockClass": [
+                "campaign-link",
+                "link"
+            ],
+            "href": "https://campanha.marche.com.br/ofertas-stmarche/"
+        },
+        "children": [
+            "rich-text#campaign"
+        ]
+    },
+    "rich-text#campaign": {
+        "props": {
+            "blockClass": "campaign",
+            "text": "Campanhas"
+        }
+    }
+}

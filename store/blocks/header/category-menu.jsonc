@@ -1,0 +1,997 @@
+{
+  "vtex.menu@2.x:menu#category-menu": {
+    "props": {
+      "experimentalOptimizeRendering": true
+    },
+    "children": [
+      "menu-item#home",
+      "menu-item#login",
+      "menu-item#sign-up",
+      "menu-item#offers-st-marche",
+      "menu-item#wines-month",
+      "disclosure-layout#butchery",
+      "disclosure-layout#baby-infant",
+      "disclosure-layout#drinks",
+      "disclosure-layout#biscuit-snacks-chocolate",
+      "disclosure-layout#home-kitchen",
+      "disclosure-layout#beers",
+      "disclosure-layout#confectionery",
+      "disclosure-layout#spirits",
+      "disclosure-layout#flower-shop",
+      "disclosure-layout#sliced",
+      "disclosure-layout#hygiene-beauty",
+      "disclosure-layout#hortifruti",
+      "disclosure-layout#hortifruti-organico",
+      "disclosure-layout#yogurt",
+      "disclosure-layout#dairy",
+      "disclosure-layout#cleaning",
+      "disclosure-layout#pastas-souces",
+      "disclosure-layout#grocery"
+    ]
+  },
+
+  "menu-item#home": {
+    "props": {
+      "id": "menu-item-home",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "https://www.marche.com.br/login",
+        "noFollow": false,
+        "tagTitle": "Home",
+        "text": "Página Inicial"
+      }
+    }
+  },
+
+  "menu-item#login": {
+    "props": {
+      "id": "menu-item-login",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "Login",
+        "text": "Login"
+      }
+    }
+  },
+
+  "menu-item#sign-up": {
+    "props": {
+      "blockClass": "sign-up",
+      "id": "menu-item-sign-up",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "https://www.marche.com.br/login?sign_up=true",
+        "noFollow": false,
+        "tagTitle": "Login-sign-up",
+        "text": "Criar Conta"
+      }
+    }
+  },
+
+  "menu-item#offers-st-marche": {
+    "props": {
+      "blockClass": ["highlight", "highlight-st-marche"],
+      "id": "menu-item-offers-st-marche",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "https://www.marche.com.br/window_displays/selecao-ofertas-st-marche",
+        "noFollow": false,
+        "tagTitle": "offers",
+        "text": "Seleção Ofertas St Marche"
+        
+      }
+    }
+  },
+
+  "menu-item#wines-month": {
+    "props": {
+      "blockClass": "highlight",
+      "id": "menu-item-wines-month",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "https://www.marche.com.br/window_displays/vinhos-do-mes-74551f32-44c4-4e92-bb9b-e8e0a02e4f0b",
+        "noFollow": false,
+        "tagTitle": "wines-month",
+        "text": "Vinhos do Mês"
+        
+      }
+    }
+  },
+
+  "disclosure-layout#butchery": {
+    "children": ["disclosure-trigger#butchery", "disclosure-content#butchery"]
+  },
+  "disclosure-trigger#butchery": {
+    "props": {
+      "blockClass": "butchery"
+    },
+    "children": ["rich-text#menu-butchery"]
+  },
+  "disclosure-content#butchery": {
+    "children": [
+      "vtex.menu@2.x:menu#category-butchery"
+    ]
+  },
+
+  "rich-text#menu-butchery": {
+    "props": {
+      "blockClass": "menu-butchery",
+      "text": "Açougue"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-butchery": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-butchery"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-butchery": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#aves",
+      "menu-item#aves-congeladas",
+      "menu-item#baby-beef",
+      "menu-item#bacon-e-carne-seca",
+      "menu-item#bovinos-congelados",
+      "menu-item#contrafilé",
+      "menu-item#coxao-duro",
+      "menu-item#coxao-mole",
+      "menu-item#file-mignon",
+      "menu-item#fraldinha",
+      "menu-item#hamburguer",
+      "menu-item#lagarto",
+      "menu-item#linguiça",
+      "menu-item#maminha",
+      "menu-item#outros-cortes",
+      "menu-item#patinhos",
+      "menu-item#picanhas",
+      "menu-item#salsicha",
+      "menu-item#suino",
+      "menu-item#suino-congelado"
+    ]
+  },
+
+  "disclosure-layout#baby-infant": {
+    "children": ["disclosure-trigger#baby-infant", "disclosure-content#baby-infant"]
+  },
+  "disclosure-trigger#baby-infant": {
+    "children": ["rich-text#menu-baby-infant"]
+  },
+  "disclosure-content#baby-infant": {
+    "children": [
+      "vtex.menu@2.x:menu#category-baby-infant"
+    ]
+  },
+
+  "rich-text#menu-baby-infant": {
+    "props": {
+      "blockClass": ["menu-baby-infant", "category"],
+      "text": "Bebê e Infantil"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-baby-infant": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-baby-infant"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-baby-infant": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#formula-infantil",
+      "menu-item#fraldas",
+      "menu-item#higiene",
+      "menu-item#lencos-umedecidos",
+      "menu-item#papinhas"
+    ]
+  },
+
+  "disclosure-layout#drinks": {
+    "children": ["disclosure-trigger#drinks", "disclosure-content#drinks"]
+  },
+  "disclosure-trigger#drinks": {
+    "children": ["rich-text#menu-drinks"]
+  },
+  "disclosure-content#drinks": {
+    "children": [
+      "vtex.menu@2.x:menu#category-drinks"
+    ]
+  },
+
+  "rich-text#menu-drinks": {
+    "props": {
+      "blockClass": ["menu-drinks", "category"],
+      "text": "Bebidas"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-drinks": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-drinks"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-drinks": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#agua",
+      "menu-item#agua-coco",
+      "menu-item#bebidas-lacteas-achocolatado",
+      "menu-item#bebidas-vegetal",
+      "menu-item#cha-pronto",
+      "menu-item#energeticos",
+      "menu-item#isotonicos",
+      "menu-item#kombucha",
+      "menu-item#leite",
+      "menu-item#refrigerante-garrafa",
+      "menu-item#refrigerante-lata",
+      "menu-item#sucos-refrescos",
+      "menu-item#sucos-frescos",
+      "menu-item#tonicas"
+      
+    ]
+  },
+
+  "disclosure-layout#biscuit-snacks-chocolate": {
+    "children": ["disclosure-trigger#biscuit-snacks-chocolate", "disclosure-content#biscuit-snacks-chocolate"]
+  },
+  "disclosure-trigger#biscuit-snacks-chocolate": {
+    "children": ["rich-text#menu-biscuit-snacks-chocolate"]
+  },
+  "disclosure-content#biscuit-snacks-chocolate": {
+    "children": [
+      "vtex.menu@2.x:menu#category-biscuit-snacks-chocolate"
+    ]
+  },
+
+  "rich-text#menu-biscuit-snacks-chocolate": {
+    "props": {
+      "blockClass": ["menu-biscuit-snacks-chocolate", "category"],
+      "text": "Biscoitos, Snacks e Chocolates"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-biscuit-snacks-chocolate": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-biscuit-snacks-chocolate"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-biscuit-snacks-chocolate": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#balas-chicletes",
+      "menu-item#barras-cereal",
+      "menu-item#barras-frutas-nut",
+      "menu-item#barras-proteinas",
+      "menu-item#biscoito-doce",
+      "menu-item#biscoito-salgado",
+      "menu-item#chips-snacks-naturais",
+      "menu-item#chocolates",
+      "menu-item#frutas-desidratadas",
+      "menu-item#nuts",
+      "menu-item#pipoca",
+      "menu-item#salgadinhos",
+      "menu-item#torrada"
+    ]
+  },
+
+
+  "disclosure-layout#home-kitchen": {
+    "children": ["disclosure-trigger#home-kitchen", "disclosure-content#home-kitchen"]
+  },
+  "disclosure-trigger#home-kitchen": {
+    "children": ["rich-text#menu-home-kitchen"]
+  },
+  "disclosure-content#home-kitchen": {
+    "children": [
+      "vtex.menu@2.x:menu#category-home-kitchen"
+    ]
+  },
+
+  "rich-text#menu-home-kitchen": {
+    "props": {
+      "blockClass": ["menu-home-kitchen", "category"],
+      "text": "Casa e Cozinha"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-home-kitchen": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-home-kitchen"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-home-kitchen": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#filtros-de-papel",
+      "menu-item#fosforos-acendedores",
+      "menu-item#guardanapos",
+      "menu-item#papel-aluminio",
+      "menu-item#pilhas",
+      "menu-item#pvc",
+      "menu-item#rolo-adesivo",
+      "menu-item#sacolas",
+      "menu-item#sacos-freezer",
+      "menu-item#toalhas-papel",
+      "menu-item#utilidades",
+      "menu-item#velas"
+    ]
+  },
+
+  "disclosure-layout#beers": {
+    "children": ["disclosure-trigger#beers", "disclosure-content#beers"]
+  },
+  "disclosure-trigger#beers": {
+    "children": ["rich-text#menu-beers"]
+  },
+  "disclosure-content#beers": {
+    "children": [
+      "vtex.menu@2.x:menu#category-beers"
+    ]
+  },
+
+  "rich-text#menu-beers": {
+    "props": {
+      "blockClass": ["menu-beers", "category"],
+      "text": "Cervejas"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-beers": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-beers"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-beers": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#cervejas",
+      "menu-item#cervejas-especiais-artesanais",
+      "menu-item#cervejas-premium"
+    ]
+  },
+
+  "disclosure-layout#confectionery": {
+    "children": ["disclosure-trigger#confectionery", "disclosure-content#confectionery"]
+  },
+  "disclosure-trigger#confectionery": {
+    "children": ["rich-text#menu-confectionery"]
+  },
+  "disclosure-content#confectionery": {
+    "children": [
+      "vtex.menu@2.x:menu#category-confectionery"
+    ]
+  },
+
+  "rich-text#menu-confectionery": {
+    "props": {
+      "blockClass": ["menu-confectionery", "category"],
+      "text": "Confeitaria"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-confectionery": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-confectionery"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-confectionery": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#bolos-industrializados",
+      "menu-item#bolos-recheados-st-marche",
+      "menu-item#bolos-secos-st-marche",
+      "menu-item#brownie-pao-de-mel-doces",
+      "menu-item#tortas-doces-st-marche"
+    ]
+  },
+
+  "disclosure-layout#spirits": {
+    "children": ["disclosure-trigger#spirits", "disclosure-content#spirits"]
+  },
+  "disclosure-trigger#spirits": {
+    "children": ["rich-text#menu-spirits"]
+  },
+  "disclosure-content#spirits": {
+    "children": [
+      "vtex.menu@2.x:menu#category-spirits"
+    ]
+  },
+
+  "rich-text#menu-spirits": {
+    "props": {
+      "blockClass": ["menu-spirits", "category"],
+      "text": "Destilados"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-spirits": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-spirits"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-spirits": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#aguardente-cachaca",
+      "menu-item#aperitivo",
+      "menu-item#conhaque-brandy",
+      "menu-item#gin",
+      "menu-item#licor",
+      "menu-item#prontos-para-beber",
+      "menu-item#rum-tequila",
+      "menu-item#saque",
+      "menu-item#vermouth",
+      "menu-item#vodka",
+      "menu-item#whisky"
+    ]
+  },
+
+  "disclosure-layout#flower-shop": {
+    "children": ["disclosure-trigger#flower-shop", "disclosure-content#flower-shop"]
+  },
+  "disclosure-trigger#flower-shop": {
+    "children": ["rich-text#menu-flower-shop"]
+  },
+  "disclosure-content#flower-shop": {
+    "children": [
+      "vtex.menu@2.x:menu#category-flower-shop"
+    ]
+  },
+
+  "rich-text#menu-flower-shop": {
+    "props": {
+      "blockClass": ["menu-flower-shop", "category"],
+      "text": "Floricultura"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-flower-shop": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-flower-shop"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-flower-shop": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#buques-macos",
+      "menu-item#orquideas",
+      "menu-item#outras-flores",
+      "menu-item#plantas"
+    ]
+  },
+
+  "disclosure-layout#sliced": {
+    "children": ["disclosure-trigger#sliced", "disclosure-content#sliced"]
+  },
+  "disclosure-trigger#sliced": {
+    "children": ["rich-text#menu-sliced"]
+  },
+  "disclosure-content#sliced": {
+    "children": [
+      "vtex.menu@2.x:menu#category-sliced"
+    ]
+  },
+
+  "rich-text#menu-sliced": {
+    "props": {
+      "blockClass": ["menu-sliced", "category"],
+      "text": "Frios"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-sliced": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-sliced"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-sliced": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#mortadela",
+      "menu-item#outros-embutidos",
+      "menu-item#peito-peru-chester-frango",
+      "menu-item#presunto-cozido",
+      "menu-item#rosbife-pastrami",
+      "menu-item#salame-copa"
+    ]
+  },
+
+  "disclosure-layout#hygiene-beauty": {
+    "children": ["disclosure-trigger#hygiene-beauty", "disclosure-content#hygiene-beauty"]
+  },
+  "disclosure-trigger#hygiene-beauty": {
+    "children": ["rich-text#menu-hygiene-beauty"]
+  },
+  "disclosure-content#hygiene-beauty": {
+    "children": [
+      "vtex.menu@2.x:menu#category-hygiene-beauty"
+    ]
+  },
+
+  "rich-text#menu-hygiene-beauty": {
+    "props": {
+      "blockClass": ["menu-hygiene-beauty", "category"],
+      "text": "Higiene e Beleza"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-hygiene-beauty": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-hygiene-beauty"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-hygiene-beauty": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#absorvente",
+      "menu-item#acessorio-banho",
+      "menu-item#acessorio-cabelo",
+      "menu-item#antisseptico-bucal",
+      "menu-item#barba",
+      "menu-item#condicionador",
+      "menu-item#creme-dental",
+      "menu-item#depilacao",
+      "menu-item#descartaveis",
+      "menu-item#desodorantes",
+      "menu-item#escova-dental",
+      "menu-item#fio-dental",
+      "menu-item#hidratacao-finalizador",
+      "menu-item#hidratantes",
+      "menu-item#higiene-intima",
+      "menu-item#papel-higienico",
+      "menu-item#protetor-repelente",
+      "menu-item#sabonetes",
+      "menu-item#shampoo"
+    ]
+  },
+  "disclosure-layout#hortifruti": {
+    "children": ["disclosure-trigger#hortifruti", "disclosure-content#hortifruti"]
+  },
+  "disclosure-trigger#hortifruti": {
+    "children": ["rich-text#menu-hortifruti"]
+  },
+  "disclosure-content#hortifruti": {
+    "children": [
+      "vtex.menu@2.x:menu#category-hortifruti"
+    ]
+  },
+
+  "rich-text#menu-hortifruti": {
+    "props": {
+      "blockClass": ["menu-hortifruti", "category"],
+      "text": "Hortifruti"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-hortifruti": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-hortifruti"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-hortifruti": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#cogumelo-broto",
+      "menu-item#fruta",
+      "menu-item#legume",
+      "menu-item#ovo",
+      "menu-item#salada-fruta",
+      "menu-item#tempero",
+      "menu-item#verdura"
+    ]
+  },
+
+  "disclosure-layout#hortifruti-organico": {
+    "children": ["disclosure-trigger#hortifruti-organico", "disclosure-content#hortifruti-organico"]
+  },
+  "disclosure-trigger#hortifruti-organico": {
+    "children": ["rich-text#menu-hortifruti-organico"]
+  },
+  "disclosure-content#hortifruti-organico": {
+    "children": [
+      "vtex.menu@2.x:menu#category-hortifruti-organico"
+    ]
+  },
+
+  "rich-text#menu-hortifruti-organico": {
+    "props": {
+      "blockClass": ["menu-hortifruti-organico", "category"],
+      "text": "Hortifruti Orgânico"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-hortifruti-organico": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-hortifruti-organico"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-hortifruti-organico": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#cogumelo-broto-organico",
+      "menu-item#fruta-organica",
+      "menu-item#legume-organico",
+      "menu-item#ovo-organico",
+      "menu-item#tempero-organico",
+      "menu-item#verdura-organica"
+    ]
+  },
+
+  "disclosure-layout#yogurt": {
+    "children": ["disclosure-trigger#yogurt", "disclosure-content#yogurt"]
+  },
+  "disclosure-trigger#yogurt": {
+    "children": ["rich-text#menu-yogurt"]
+  },
+  "disclosure-content#yogurt": {
+    "children": [
+      "vtex.menu@2.x:menu#category-yogurt"
+    ]
+  },
+
+  "rich-text#menu-yogurt": {
+    "props": {
+      "blockClass": ["menu-yogurt", "category"],
+      "text": "Iogurte"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-yogurt": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-yogurt"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-yogurt": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#grego",
+      "menu-item#leite-fermentado",
+      "menu-item#liquido-polpa",
+      "menu-item#natural",
+      "menu-item#petit-suisse-sobremesa",
+      "menu-item#proteina",
+      "menu-item#zero-lactose"
+    ]
+  },
+
+  "disclosure-layout#dairy": {
+    "children": ["disclosure-trigger#dairy", "disclosure-content#dairy"]
+  },
+  "disclosure-trigger#dairy": {
+    "children": ["rich-text#menu-dairy"]
+  },
+  "disclosure-content#dairy": {
+    "children": [
+      "vtex.menu@2.x:menu#category-dairy"
+    ]
+  },
+
+  "rich-text#menu-dairy": {
+    "props": {
+      "blockClass": ["menu-dairy", "category"],
+      "text": "Lacticínios"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-dairy": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-dairy"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-dairy": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#cottage-cream-cheese-outros",
+      "menu-item#creme-de-leite-fresco",
+      "menu-item#manteiga",
+      "menu-item#margarina",
+      "menu-item#nata-chantilly",
+      "menu-item#requeijao"
+    ]
+  },
+  
+  "disclosure-layout#cleaning": {
+    "children": ["disclosure-trigger#cleaning", "disclosure-content#cleaning"]
+  },
+  "disclosure-trigger#cleaning": {
+    "children": ["rich-text#menu-cleaning"]
+  },
+  "disclosure-content#cleaning": {
+    "children": [
+      "vtex.menu@2.x:menu#category-cleaning"
+    ]
+  },
+
+  "rich-text#menu-cleaning": {
+    "props": {
+      "blockClass": ["menu-cleaning", "category"],
+      "text": "Limpeza"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-cleaning": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-cleaning"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-cleaning": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#agua-sanitaria",
+      "menu-item#alcool-gel-liquido",
+      "menu-item#alvejante",
+      "menu-item#amaciante",
+      "menu-item#cera-polidor",
+      "menu-item#desentupidor",
+      "menu-item#desinfetante",
+      "menu-item#desodorizadores-anti-mofo",
+      "menu-item#detergente-liquido",
+      "menu-item#detergente-lava-louça",
+      "menu-item#inseticidas",
+      "menu-item#lava-roupa",
+      "menu-item#limpadores",
+      "menu-item#limpador-piso",
+      "menu-item#passa-roupa-goma",
+      "menu-item#removedor-solvente",
+      "menu-item#sabao-barra-pasta",
+      "menu-item#sacos-lixo",
+      "menu-item#saponaceo",
+      "menu-item#utensilio-limpeza"
+    ]
+  },
+
+  "disclosure-layout#pastas-souces": {
+    "children": ["disclosure-trigger#pastas-souces", "disclosure-content#pastas-souces"]
+  },
+  "disclosure-trigger#pastas-souces": {
+    "children": ["rich-text#menu-pastas-souces"]
+  },
+  "disclosure-content#pastas-souces": {
+    "children": [
+      "vtex.menu@2.x:menu#category-pastas-souces"
+    ]
+  },
+
+  "rich-text#menu-pastas-souces": {
+    "props": {
+      "blockClass": ["menu-pastas-souces", "category"],
+      "text": "Massas e Molhos"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-pastas-souces": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-pastas-souces"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-pastas-souces": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#massa-fresca",
+      "menu-item#massas",
+      "menu-item#massa-seca",
+      "menu-item#molho-extrato",
+      "menu-item#molho-fresco"
+    ]
+  },
+  
+  "disclosure-layout#grocery": {
+    "children": ["disclosure-trigger#grocery", "disclosure-content#grocery"]
+  },
+  "disclosure-trigger#grocery": {
+    "children": ["rich-text#menu-grocery"]
+  },
+  "disclosure-content#grocery": {
+    "children": [
+      "vtex.menu@2.x:menu#category-grocery"
+    ]
+  },
+
+  "rich-text#menu-grocery": {
+    "props": {
+      "blockClass": ["menu-grocery", "category"],
+      "text": "Mercearia"
+    }
+  },
+
+  "vtex.menu@2.x:submenu#category-grocery": {
+    "props": {
+      "width": "auto"
+    },
+    "children": [
+      "vtex.menu@2.x:menu#category-grocery"
+    ]
+  },
+
+  "vtex.menu@2.x:menu#category-grocery": {
+    "props": {
+      "orientation": "vertical"
+    },
+    "children": [
+      "menu-item#aceto-balsamico",
+      "menu-item#achocolatados",
+      "menu-item#acucar",
+      "menu-item#arroz",
+      "menu-item#arroz-especial-risoto",
+      "menu-item#atum-sardinha",
+      "menu-item#aveia-mingau",
+      "menu-item#azeite",
+      "menu-item#azeitona",
+      "menu-item#batata-palha",
+      "menu-item#cacau-chocolates-culinarios",
+      "menu-item#cafe-capsula",
+      "menu-item#cafe-graos",
+      "menu-item#cafe-moido",
+      "menu-item#cafe-soluvel-cappuccino",
+      "menu-item#cafe-soluvel-cappuccino2",
+      "menu-item#caldos"
+    ]
+  },
+
+  
+  
+  "menu-item#about-us": {
+    "props": {
+      "id": "menu-item-about-us",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/about-us",
+        "noFollow": true,
+        "tagTitle": "About us",
+        "text": "About us"
+      }
+    }
+  }
+  // "menu-item#faq": {
+  //   "props": {
+  //     "id": "menu-item-faq",
+  //     "type": "custom",
+  //     "iconId": null,
+  //     "highlight": false,
+  //     "itemProps": {
+  //       "type": "internal",
+  //       "href": "/faq",
+  //       "noFollow": true,
+  //       "tagTitle": "FAQ",
+  //       "text": "FAQ"
+  //     }
+  //   }
+  // },
+  // "menu-item#contact-us": {
+  //   "props": {
+  //     "id": "menu-item-contact-us",
+  //     "type": "custom",
+  //     "iconId": null,
+  //     "highlight": false,
+  //     "itemProps": {
+  //       "type": "internal",
+  //       "href": "/contact-us",
+  //       "noFollow": true,
+  //       "tagTitle": "Contact Us",
+  //       "text": "Contact Us"
+  //     }
+  //   }
+  // }
+}

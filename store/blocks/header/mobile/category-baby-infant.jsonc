@@ -1,0 +1,86 @@
+{
+    "menu-item#formula-infantil": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-formula-infantil",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/formula-infantil",
+                "noFollow": false,
+                "tagTitle": "formula-infantil",
+                "text": "Fórmula Infantil (19)"
+            }
+        }
+    },
+
+    "menu-item#fraldas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fraldas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/fraldas",
+                "noFollow": false,
+                "tagTitle": "fraldas",
+                "text": "Fraldas (9)"
+            }
+        }
+    },
+
+    "menu-item#higiene": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-higiene",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/higiene",
+                "noFollow": false,
+                "tagTitle": "higiene",
+                "text": "Higiene (33)"
+            }
+        }
+    },
+
+    "menu-item#lencos-umedecidos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-lencos-umedecidos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/higiene",
+                "noFollow": false,
+                "tagTitle": "lencos-umedecidos",
+                "text": "Lenços Umedecidos (11)"
+            }
+        }
+    },
+
+    "menu-item#papinhas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-papinhas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/higiene",
+                "noFollow": false,
+                "tagTitle": "papinhas",
+                "text": "Papinhas (31)"
+            }
+        }
+    }
+}

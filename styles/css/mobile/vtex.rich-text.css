@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap');
+
+.wrapper {
+    color: #fff;
+    margin: 0;
+    padding: 0 8px;
+}
+
+
+
+.paragraph {
+    margin: 0;
+    height: 24px;
+    padding: 0 0rem;
+    font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.paragraph--search {
+    padding-left: 40px;
+}
+
+.paragraph--mobile-header-nav-itens {
+    color: #1a5632;
+    font-size: 14px;
+    padding: 13px 0;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/* FOOTER */
+
+
+
+.container--email {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+}
+
+.paragraph--disclaimer {
+    font-size: .65rem;
+    color: #e6e6e6;
+    margin: 0 0 16px 0;
+    text-align: center;
+}
+
+.paragraph--menu-butchery,
+.paragraph--category {
+    /* padding: 0.5rem 1rem; */
+    font-weight: 300;
+    color: #fff;
+    font-size: 1.1rem;
+
+}

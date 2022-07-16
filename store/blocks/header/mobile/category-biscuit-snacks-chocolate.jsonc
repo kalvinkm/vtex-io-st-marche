@@ -1,0 +1,222 @@
+{
+    "menu-item#balas-chicletes": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-balas-chicletes",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/balas-e-chicletes",
+                "noFollow": false,
+                "tagTitle": "balas-chicletes",
+                "text": "Balas e Chicletes (112)"
+            }
+        }
+    },
+
+    "menu-item#barras-cereal": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-barras-cereal",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/barras-de-cereal",
+                "noFollow": false,
+                "tagTitle": "barras-cereal",
+                "text": "Barras de Cereal (12)"
+            }
+        }
+    },
+
+    "menu-item#barras-frutas-nut": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-barras-frutas-nut",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/barras-de-frutas-e-nuts",
+                "noFollow": false,
+                "tagTitle": "barras-frutas-nut",
+                "text": "Barras de Frutas e Nut (26)"
+            }
+        }
+    },
+
+    "menu-item#barras-proteinas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-barras-frutas-nut",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/barras-de-proteina",
+                "noFollow": false,
+                "tagTitle": "barras-proteinas",
+                "text": "Barras de Proteínas (25)"
+            }
+        }
+    },
+
+    "menu-item#biscoito-doce": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-biscoito-doce",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/biscoito-doce",
+                "noFollow": false,
+                "tagTitle": "biscoito-doce",
+                "text": "Biscoito Doce (277)"
+            }
+        }
+    },
+
+    "menu-item#biscoito-salgado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-biscoito-salgado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/biscoito-salgado",
+                "noFollow": false,
+                "tagTitle": "biscoito-salgado",
+                "text": "Biscoito Salgado (87)"
+            }
+        }
+    },
+
+    "menu-item#chips-snacks-naturais": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-chips-snacks-naturais",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/chips-e-snacks-naturais",
+                "noFollow": false,
+                "tagTitle": "chips-snacks-naturais",
+                "text": "Chips e Snacks Naturais (52)"
+            }
+        }
+    },
+
+    "menu-item#chocolates": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-chocolates",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/chocolates",
+                "noFollow": false,
+                "tagTitle": "chocolates",
+                "text": "Chocolates (304)"
+            }
+        }
+    },
+
+    "menu-item#frutas-desidratadas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-frutas-desidratadas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/frutas-desidratadas",
+                "noFollow": false,
+                "tagTitle": "frutas-desidratadas",
+                "text": "Frutas Desidratadas (8)"
+            }
+        }
+    },
+
+    "menu-item#nuts": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-nuts",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/nuts",
+                "noFollow": false,
+                "tagTitle": "nuts",
+                "text": "Nuts (61)"
+            }
+        }
+    },
+
+    "menu-item#pipoca": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pipoca",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pipoca",
+                "noFollow": false,
+                "tagTitle": "pipoca",
+                "text": "Pipoca (34)"
+            }
+        }
+    },
+
+    "menu-item#salgadinhos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-salgadinhos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/salgadinho",
+                "noFollow": false,
+                "tagTitle": "salgadinhos",
+                "text": "Salgadinhos (71)"
+            }
+        }
+    },
+
+    "menu-item#torrada": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-torrada",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/torrada",
+                "noFollow": false,
+                "tagTitle": "torrada",
+                "text": "Torrada (33)"
+            }
+        }
+    }
+}

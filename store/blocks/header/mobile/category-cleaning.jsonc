@@ -1,0 +1,341 @@
+{
+    "menu-item#agua-sanitaria": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-agua-sanitaria",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/agua-sanitaria",
+                "noFollow": false,
+                "tagTitle": "agua-sanitaria",
+                "text": "Agua Sanitária (3)"
+            }
+        }
+    }, 
+
+    "menu-item#alcool-gel-liquido": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-alcool-gel-liquido",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/alcool-gel-e-liquido",
+                "noFollow": false,
+                "tagTitle": "alcool-gel-liquido",
+                "text": "Álcool Gel e Líquido (26)"
+            }
+        }
+    },
+
+    "menu-item#alvejante": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-alvejante",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/alvejante",
+                "noFollow": false,
+                "tagTitle": "alvejante",
+                "text": "Alvejante (18)"
+            }
+        }
+    },
+
+    "menu-item#amaciante": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-amaciante",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/amaciante",
+                "noFollow": false,
+                "tagTitle": "amaciante",
+                "text": "Amaciante (27)"
+            }
+        }
+    },
+
+    "menu-item#cera-polidor": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cera-polidor",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cera-e-polidor",
+                "noFollow": false,
+                "tagTitle": "cera-polidor",
+                "text": "Cera e Polidor (14)"
+            }
+        }
+    },
+
+    "menu-item#desentupidor": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-desentupidor",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/desentupidor",
+                "noFollow": false,
+                "tagTitle": "desentupidor",
+                "text": "Desentupidor (2)"
+            }
+        }
+    },
+
+    "menu-item#desinfetante": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-desinfetante",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/desinfetante",
+                "noFollow": false,
+                "tagTitle": "desinfetante",
+                "text": "Desinfetante (32)"
+            }
+        }
+    }, 
+
+    "menu-item#desodorizadores-anti-mofo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-desodorizadores-anti-mofo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/desodorizadores-e-anti-mofo",
+                "noFollow": false,
+                "tagTitle": "desodorizadores-anti-mofo",
+                "text": "Desoridadores e Anti-Mofo (33)"
+            }
+        }
+    },
+
+    "menu-item#detergente-liquido": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-detergente-liquido",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/detergente-liquido",
+                "noFollow": false,
+                "tagTitle": "detergente-liquido",
+                "text": "Detergente Líquido (9)"
+            }
+        }
+    },
+
+    "menu-item#detergente-lava-louça": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-detergente-lava-louça",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/detergente-para-lava-louca",
+                "noFollow": false,
+                "tagTitle": "detergente-lava-louça",
+                "text": "Detergente para Lava-Louça (21)"
+            }
+        }
+    },
+
+    "menu-item#inseticidas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-inseticidas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/inseticidas",
+                "noFollow": false,
+                "tagTitle": "inseticidas",
+                "text": "Inceticidas (28)"
+            }
+        }
+    },
+
+    "menu-item#lava-roupa": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-lava-roupa",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/lava-roupa",
+                "noFollow": false,
+                "tagTitle": "lava-roupa",
+                "text": "Lava Roupa (39)"
+            }
+        }
+    },
+
+    "menu-item#limpadores": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-limpadores",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/limpadores",
+                "noFollow": false,
+                "tagTitle": "limpadores",
+                "text": "Limpadores (77)"
+            }
+        }
+    },
+
+    "menu-item#limpador-piso": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-limpador-piso",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/limpador-para-piso",
+                "noFollow": false,
+                "tagTitle": "limpador-piso",
+                "text": "Limpador para Piso (22)"
+            }
+        }
+    },
+
+    "menu-item#passa-roupa-goma": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-passa-roupa-goma",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/passa-roupa-e-goma",
+                "noFollow": false,
+                "tagTitle": "passa-roupa-goma",
+                "text": "Passa Roupa e Goma (3)"
+            }
+        }
+    },
+
+    "menu-item#removedor-solvente": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-removedor-solvente",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/removedor-e-solvente",
+                "noFollow": false,
+                "tagTitle": "removedor-solvente",
+                "text": "Removedor e Solvente (2)"
+            }
+        }
+    },
+
+    "menu-item#sabao-barra-pasta": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sabao-barra-pasta",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sabao-em-barra-e-em-pasta",
+                "noFollow": false,
+                "tagTitle": "sabao-barra-pasta",
+                "text": "Sabão em Barra e em Pasta (3)"
+            }
+        }
+    },
+
+    "menu-item#sacos-lixo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sacos-lixo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sacos-para-lixo",
+                "noFollow": false,
+                "tagTitle": "sacos-lixo",
+                "text": "Sacos para Lixo (22)"
+            }
+        }
+    },
+
+    "menu-item#saponaceo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-saponaceo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/saponaceo",
+                "noFollow": false,
+                "tagTitle": "saponaceo",
+                "text": "Saponáceo (4)"
+            }
+        }
+    },
+
+    "menu-item#utensilio-limpeza": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-utensilio-limpeza",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/utensilios-de-limpeza",
+                "noFollow": false,
+                "tagTitle": "utensilio-limpeza",
+                "text": "Utensílio de Limpeza (48)"
+            }
+        }
+    }
+}

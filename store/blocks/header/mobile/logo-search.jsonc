@@ -1,0 +1,46 @@
+{
+    "flex-layout.row#logo-search": {
+        "props": {
+          "blockClass": "logo-search",
+          "preventHorizontalStretch": true
+    
+        },
+        "children": [
+          "link.product#logo-link"
+          // "search-bar"
+        ]
+      },
+    
+      "link.product#logo-link": {
+        "props": {
+          "blockClass": "logo-link",
+          "href": "https://www.marche.com.br/home"
+        },
+        "children": [
+          "logo#mobile"
+        ]
+      },
+    
+      "logo#mobile": {
+        "props": {
+          "title": "Logo",
+          "href": "/",
+          "url": "assets/imgs/st-marche-logo.png",
+          "width": "130",
+          "searchBarIcon": true
+        }
+      }
+
+      // "search-bar": {
+      //   "props": {
+      //     "compactMode": true
+      //   }
+      // }
+    
+      // "rich-text#search": {
+      //   "props": {
+      //     "blockClass": "search",
+      //     "text": "![search](https://via.placeholder.com/17x19)"
+      //   }
+      // }
+}

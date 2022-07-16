@@ -1,0 +1,52 @@
+{
+    "menu-item#cervejas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cervejas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cervejas-tradicionais",
+                "noFollow": false,
+                "tagTitle": "cervejas",
+                "text": "Cervejas (12)"
+            }
+        }
+    },
+
+    "menu-item#cervejas-especiais-artesanais": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cervejas-especiais-artesanais",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cervejas-especiais-artesanais",
+                "noFollow": false,
+                "tagTitle": "cervejas-especiais-artesanais",
+                "text": "Cervejas Especiais/Artesanais (215)"
+            }
+        }
+    },
+
+    "menu-item#cervejas-premium": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cervejas-premium",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cervejas-premium",
+                "noFollow": false,
+                "tagTitle": "cervejas-premium",
+                "text": "Cervejas Premium (32)"
+            }
+        }
+    }
+}

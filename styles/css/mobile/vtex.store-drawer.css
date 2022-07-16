@@ -1,0 +1,24 @@
+.menuIcon {
+    width: 16px;
+    height: 19px;
+    margin: auto;
+
+}
+
+.opened {
+    background-color: #373a3c;
+    position: absolute;
+    top: 0;
+    width: 80%;
+    /* left: -80%; */
+    height: 100vh;
+    overflow: auto;
+    z-index: 100000;
+    font-size: 1rem;
+    font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.styledLinkContent {
+    color: #fff;
+}

@@ -1,0 +1,189 @@
+{
+    "menu-item#aguardente-cachaca": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-aguardente-cachaca",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/aguardente-e-cachaca",
+                "noFollow": false,
+                "tagTitle": "aguardente-cachaca",
+                "text": "Aguardente e Cachaça (14)"
+            }
+        }
+    },
+
+    "menu-item#aperitivo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-aperitivo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/aperitivo",
+                "noFollow": false,
+                "tagTitle": "aperitivo",
+                "text": "Aperitivo (7)"
+            }
+        }
+    },
+
+    "menu-item#conhaque-brandy": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-conhaque-brandy",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/conhaque-e-brandy",
+                "noFollow": false,
+                "tagTitle": "conhaque-brandy",
+                "text": "Conhaque e Brandy (3)"
+            }
+        }
+    },
+
+
+    "menu-item#gin": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-gin",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/gin",
+                "noFollow": false,
+                "tagTitle": "gin",
+                "text": "Gin (21)"
+            }
+        }
+    },
+
+    "menu-item#licor": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-licor",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/licor",
+                "noFollow": false,
+                "tagTitle": "licor",
+                "text": "Licor (16)"
+            }
+        }
+    },
+
+    "menu-item#prontos-para-beber": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-prontos-para-beber",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/prontos-para-beber",
+                "noFollow": false,
+                "tagTitle": "prontos-para-beber",
+                "text": "Prontos para Beber (26)"
+            }
+        }
+    },
+
+    "menu-item#rum-tequila": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-rum-tequila",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/rum-e-tequila",
+                "noFollow": false,
+                "tagTitle": "rum-tequila",
+                "text": "Rum e Tequila (7)"
+            }
+        }
+    },
+
+    "menu-item#saque": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-saque",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/saque",
+                "noFollow": false,
+                "tagTitle": "saque",
+                "text": "Saque (4)"
+            }
+        }
+    },
+
+    "menu-item#vermouth": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-vermouth",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/vermouth",
+                "noFollow": false,
+                "tagTitle": "vermouth",
+                "text": "Vermouth (6)"
+            }
+        }
+    },
+
+    "menu-item#vodka": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-vodka",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/vodka",
+                "noFollow": false,
+                "tagTitle": "vodka",
+                "text": "Vodka (27)"
+            }
+        }
+    },
+
+    "menu-item#whisky": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-whisky",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/whisky",
+                "noFollow": false,
+                "tagTitle": "whisky",
+                "text": "Whisky (18)"
+            }
+        }
+    }
+}

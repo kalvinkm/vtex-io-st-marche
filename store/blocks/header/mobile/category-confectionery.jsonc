@@ -1,0 +1,86 @@
+{
+    "menu-item#bolos-industrializados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bolos-industrializados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bolos-industrializados",
+                "noFollow": false,
+                "tagTitle": "bolos-industrializados",
+                "text": "Bolos Industrializados (73)"
+            }
+        }
+    },
+
+    "menu-item#bolos-recheados-st-marche": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bolos-recheados-st-marche",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bolos-recheados-st-marche",
+                "noFollow": false,
+                "tagTitle": "bolos-recheados-st-marche",
+                "text": "Bolos Recheados St Marche (10)"
+            }
+        }
+    },
+
+    "menu-item#bolos-secos-st-marche": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bolos-secos-st-marche",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bolos-secos-st-marche",
+                "noFollow": false,
+                "tagTitle": "bolos-secos-st-marche",
+                "text": "Bolos Secos St Marche (10)"
+            }
+        }
+    },
+
+    "menu-item#brownie-pao-de-mel-doces": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-brownie-pao-de-mel-doces",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/brownie-pao-de-mel-e-doces",
+                "noFollow": false,
+                "tagTitle": "brownie-pao-de-mel-doces",
+                "text": "Brownie, Pão de Mel e Doces (27)"
+            }
+        }
+    },
+
+    "menu-item#tortas-doces-st-marche": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-tortas-doces-st-marche",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/tortas-e-doces-st-marche",
+                "noFollow": false,
+                "tagTitle": "tortas-doces-st-marche",
+                "text": "Tortas e Doces St Marche (14)"
+            }
+        }
+    }
+}

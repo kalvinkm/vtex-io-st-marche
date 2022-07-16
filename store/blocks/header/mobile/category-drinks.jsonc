@@ -1,0 +1,239 @@
+{
+    "menu-item#agua": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-agua",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/agua",
+                "noFollow": false,
+                "tagTitle": "agua",
+                "text": "Água (87)"
+            }
+        }
+    },
+    
+    "menu-item#agua-coco": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-agua-coco",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/agua-de-coco",
+                "noFollow": false,
+                "tagTitle": "agua-coco",
+                "text": "Água de Coco (14)"
+            }
+        }
+    },
+
+    "menu-item#bebidas-lacteas-achocolatado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bebidas-lacteas-achocolatado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bebidas-lacteas-e-achocolatados",
+                "noFollow": false,
+                "tagTitle": "bebidas-lacteas-achocolatado",
+                "text": "Bebidas Lácteas e Achocolatado (11)"
+            }
+        }
+    },
+
+    "menu-item#bebidas-vegetal": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bebidas-vegetal",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bebida-vegetal",
+                "noFollow": false,
+                "tagTitle": "bebidas-vegetal",
+                "text": "Bebidas Vegetal (59)"
+            }
+        }
+    },
+
+    "menu-item#cha-pronto": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cha-pronto",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cha-pronto",
+                "noFollow": false,
+                "tagTitle": "cha-pronto",
+                "text": "Chá Pronto (41)"
+            }
+        }
+    },
+
+    "menu-item#energeticos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-energeticos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/energeticos",
+                "noFollow": false,
+                "tagTitle": "energeticos",
+                "text": "Energéticos (43)"
+            }
+        }
+    },
+
+    "menu-item#isotonicos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-isotonicos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/isotonicos",
+                "noFollow": false,
+                "tagTitle": "isotonicos",
+                "text": "Isotônicos (12)"
+            }
+        }
+    },
+
+    "menu-item#kombucha": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-kombucha",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/kombucha",
+                "noFollow": false,
+                "tagTitle": "kombucha",
+                "text": "Kombucha (29)"
+            }
+        }
+    },
+
+    "menu-item#leite": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-leite",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/leite",
+                "noFollow": false,
+                "tagTitle": "leite",
+                "text": "Leite (36)"
+            }
+        }
+    },
+
+    "menu-item#refrigerante-garrafa": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-refrigerante-garrafa",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/refrigerante-garrafa",
+                "noFollow": false,
+                "tagTitle": "refrigerante-garrafa",
+                "text": "Refrigerante Garrafa (62)"
+            }
+        }
+    },
+
+    "menu-item#refrigerante-lata": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-refrigerante-lata",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/refrigerante-lata",
+                "noFollow": false,
+                "tagTitle": "refrigerante-lata",
+                "text": "Refrigerante Lata (35)"
+            }
+        }
+    },
+
+    "menu-item#sucos-refrescos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sucos-refrescos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sucos-e-refrescos",
+                "noFollow": false,
+                "tagTitle": "sucos-refrescos",
+                "text": "Sucos e Refrescos (143)"
+            }
+        }
+    },
+
+    "menu-item#sucos-frescos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sucos-frescos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sucos-frescos",
+                "noFollow": false,
+                "tagTitle": "sucos-frescos",
+                "text": "Sucos Frescos (46)"
+            }
+        }
+    },
+
+    "menu-item#tonicas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-tonicas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/tonicas",
+                "noFollow": false,
+                "tagTitle": "tonicas",
+                "text": "Tônicas (47)"
+            }
+        }
+    }
+}

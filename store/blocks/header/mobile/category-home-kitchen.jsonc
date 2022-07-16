@@ -1,0 +1,205 @@
+{
+    "menu-item#filtros-de-papel": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-filtros-de-papel",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/filtros-de-papel",
+                "noFollow": false,
+                "tagTitle": "filtros-de-papel",
+                "text": "Filtros de Papel (8)"
+            }
+        }
+    },
+
+    "menu-item#fosforos-acendedores": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fosforos-acendedores",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/fosforo-e-acendedores",
+                "noFollow": false,
+                "tagTitle": "fosforos-acendedores",
+                "text": "Fósforos e Acendedores (15)"
+            }
+        }
+    },
+
+    "menu-item#guardanapos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-guardanapos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/guardanapos",
+                "noFollow": false,
+                "tagTitle": "guardanapos",
+                "text": "Guardanapos (8)"
+            }
+        }
+    },
+
+    "menu-item#papel-aluminio": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-papel-aluminio",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/papel-aluminio",
+                "noFollow": false,
+                "tagTitle": "papel-aluminio",
+                "text": "Papel Alumínio (5)"
+            }
+        }
+    },
+
+    "menu-item#pilhas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pilhas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pilhas",
+                "noFollow": false,
+                "tagTitle": "pilhas",
+                "text": "Pilhas (7)"
+            }
+        }
+    },
+
+    "menu-item#pvc": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pvc",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pvc",
+                "noFollow": false,
+                "tagTitle": "pvc",
+                "text": "PVC (3)"
+            }
+        }
+    },
+
+    "menu-item#rolo-adesivo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-rolo-adesivo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/rolo-adesivo",
+                "noFollow": false,
+                "tagTitle": "rolo-adesivo",
+                "text": "Rolo Adesivo (2)"
+            }
+        }
+    },
+
+    "menu-item#sacolas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sacolas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sacolas",
+                "noFollow": false,
+                "tagTitle": "sacolas",
+                "text": "Sacolas (7)"
+            }
+        }
+    },
+
+    "menu-item#sacos-freezer": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sacos-freezer",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sacos-para-freezer",
+                "noFollow": false,
+                "tagTitle": "sacos-freezer",
+                "text": "Sacos para Freezer (5)"
+            }
+        }
+    },
+
+    "menu-item#toalhas-papel": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-toalhas-papel",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/toalhas-de-papel",
+                "noFollow": false,
+                "tagTitle": "toalhas-papel",
+                "text": "Toalhas de Papel (5)"
+            }
+        }
+    },
+
+    "menu-item#utilidades": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-utilidades",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/utilidades",
+                "noFollow": false,
+                "tagTitle": "utilidades",
+                "text": "Utilidades (41)"
+            }
+        }
+    },
+
+    "menu-item#velas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-velas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/velas",
+                "noFollow": false,
+                "tagTitle": "velas",
+                "text": "Velas (42)"
+            }
+        }
+    }
+}

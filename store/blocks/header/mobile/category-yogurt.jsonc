@@ -1,0 +1,122 @@
+{
+    "menu-item#grego": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-grego",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/grego",
+                "noFollow": false,
+                "tagTitle": "grego",
+                "text": "Grego (28)"
+            }
+        }
+    },
+
+    "menu-item#leite-fermentado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-leite-fermentado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/leite-fermentado",
+                "noFollow": false,
+                "tagTitle": "leite-fermentado",
+                "text": "Leite Fermentado (15)"
+            }
+        }
+    },
+
+    "menu-item#liquido-polpa": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-liquido-polpa",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/liquido-e-polpa",
+                "noFollow": false,
+                "tagTitle": "liquido-polpa",
+                "text": "Líquido e Polpa (107)"
+            }
+        }
+    },
+
+    "menu-item#natural": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-natural",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/natural",
+                "noFollow": false,
+                "tagTitle": "natural",
+                "text": "Natural (33)"
+            }
+        }
+    },
+
+    "menu-item#petit-suisse-sobremesa": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-petit-suisse-sobremesa",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/petit-suisse-e-sobremesa",
+                "noFollow": false,
+                "tagTitle": "petit-suisse-sobremesa",
+                "text": "Petit Suisse e Sobremesa (17)"
+            }
+        }
+    },
+
+    "menu-item#proteina": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-proteina",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/proteina",
+                "noFollow": false,
+                "tagTitle": "proteina",
+                "text": "Proteína (23)"
+            }
+        }
+    },
+
+    "menu-item#zero-lactose": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-zero-lactose",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/zero-lactose",
+                "noFollow": false,
+                "tagTitle": "zero-lactose",
+                "text": "Zero Lactose (28)"
+            }
+        }
+    }
+}
+
+//

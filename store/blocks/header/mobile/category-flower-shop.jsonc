@@ -1,0 +1,71 @@
+{
+    "menu-item#buques-macos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-buques-macos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/buques-e-macos",
+                "noFollow": false,
+                "tagTitle": "buques-macos",
+                "text": "Buques e Maços (3)"
+            }
+        }
+    },
+
+    "menu-item#orquideas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-orquideas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/orquideas",
+                "noFollow": false,
+                "tagTitle": "orquideas",
+                "text": "Orquídeas (8)"
+            }
+        }
+    },
+
+    "menu-item#outras-flores": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-outras-flores",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/outras-flores",
+                "noFollow": false,
+                "tagTitle": "outras-flores",
+                "text": "Outras Flores (5)"
+            }
+        }
+    },
+
+    "menu-item#plantas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-plantas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/plantas",
+                "noFollow": false,
+                "tagTitle": "plantas",
+                "text": "Plantas (6)"
+            }
+        }
+    }
+}
+
+//

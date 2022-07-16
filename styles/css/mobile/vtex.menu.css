@@ -1,0 +1,20 @@
+.styledLink {
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+
+.styledLinkContent--highlight {
+    font-weight: bold;
+    color: #fecc4d;
+}
+
+.menuItem--highlight-st-marche {
+    border-top: 1px solid #ccc;
+}
+
+.styledLinkContent--item-accordion-content {
+    font-size: 1rem;
+    padding-left: 16px;
+}

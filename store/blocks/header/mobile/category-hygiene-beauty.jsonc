@@ -1,0 +1,325 @@
+{
+    "menu-item#absorvente": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-absorvente",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/absorvente",
+                "noFollow": false,
+                "tagTitle": "absorvente",
+                "text": "Absorvente (28)"
+            }
+        }
+    },
+
+    "menu-item#acessorio-banho": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-acessorio-banho",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/acessorio-para-banho",
+                "noFollow": false,
+                "tagTitle": "acessorio-banho",
+                "text": "Acessório para Banho (1)"
+            }
+        }
+    },
+
+    "menu-item#acessorio-cabelo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-acessorio-cabelo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/acessorio-para-cabelo",
+                "noFollow": false,
+                "tagTitle": "acessorio-cabelo",
+                "text": "Acessório para Cabelo (3)"
+            }
+        }
+    },
+
+    "menu-item#antisseptico-bucal": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-antisseptico-bucal",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/antisseptico-bucal",
+                "noFollow": false,
+                "tagTitle": "antisseptico-bucal",
+                "text": "Antisséptico Bucal (8)"
+            }
+        }
+    },
+
+    "menu-item#barba": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-barba",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/barba",
+                "noFollow": false,
+                "tagTitle": "barba",
+                "text": "Barba (11)"
+            }
+        }
+    },
+
+    "menu-item#condicionador": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-condicionador",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/condicionador",
+                "noFollow": false,
+                "tagTitle": "condicionador",
+                "text": "Condicionador (44)"
+            }
+        }
+    },
+
+    "menu-item#creme-dental": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-creme-dental",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/creme-dental",
+                "noFollow": false,
+                "tagTitle": "creme-dental",
+                "text": "Creme Dental (26)"
+            }
+        }
+    },
+
+    "menu-item#depilacao": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-depilacao",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/depilacao",
+                "noFollow": false,
+                "tagTitle": "depilacao",
+                "text": "Depilação (3)"
+            }
+        }
+    },
+
+    "menu-item#descartaveis": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-descartaveis",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/descartaveis",
+                "noFollow": false,
+                "tagTitle": "descartaveis",
+                "text": "Descartáveis (8)"
+            }
+        }
+    },
+
+    "menu-item#desodorantes": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-desodorantes",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/desodorante",
+                "noFollow": false,
+                "tagTitle": "desodorantes",
+                "text": "Desodorante (34)"
+            }
+        }
+    },
+
+    "menu-item#escova-dental": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-escova-dental",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/escova-dental",
+                "noFollow": false,
+                "tagTitle": "escova-dental",
+                "text": "Escova Dental (16)"
+            }
+        }
+    }, 
+
+    "menu-item#fio-dental": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fio-dental",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/fio-dental",
+                "noFollow": false,
+                "tagTitle": "fio-dental",
+                "text": "Fio Dental (3)"
+            }
+        }
+    },
+
+    "menu-item#hidratacao-finalizador": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-hidratacao-finalizador",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/hidratacao-e-finalizador-para-cabelo",
+                "noFollow": false,
+                "tagTitle": "hidratacao-finalizador",
+                "text": "Hidratação e Finalizador para Cabelo (24)"
+            }
+        }
+    },
+
+    "menu-item#hidratantes": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-hidratantes",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/hidratantes",
+                "noFollow": false,
+                "tagTitle": "hidratantes",
+                "text": "Hidratantes (30)"
+            }
+        }
+    },
+
+    "menu-item#higiene-intima": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-higiene-intima",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/higiene-intima",
+                "noFollow": false,
+                "tagTitle": "higiene-intima",
+                "text": "Higiene Íntima (2)"
+            }
+        }
+    },
+
+    "menu-item#papel-higienico": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-papel-higienico",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/papel-higienico",
+                "noFollow": false,
+                "tagTitle": "papel-higienico",
+                "text": "Papel Higiênico (7)"
+            }
+        }
+    },
+
+    "menu-item#protetor-repelente": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-protetor-repelente",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/protetor-e-repelente",
+                "noFollow": false,
+                "tagTitle": "protetor-repelente",
+                "text": "Protetor e Repelente (8)"
+            }
+        }
+    },
+
+    "menu-item#sabonetes": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sabonetes",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sabonetes",
+                "noFollow": false,
+                "tagTitle": "sabonetes",
+                "text": "Sabonentes (133)"
+            }
+        }
+    },
+
+    "menu-item#shampoo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-shampoo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/shampoo",
+                "noFollow": false,
+                "tagTitle": "shampoo",
+                "text": "Shampoo (50)"
+            }
+        }
+    }
+}
+

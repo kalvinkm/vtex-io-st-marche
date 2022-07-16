@@ -1,0 +1,103 @@
+{
+    "menu-item#cogumelo-broto-organico": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cogumelo-broto-organico",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cogumelo-e-broto-organico",
+                "noFollow": false,
+                "tagTitle": "cogumelo-broto-organico",
+                "text": "Cogumelo e Broto (2)"
+            }
+        }
+    },
+    
+    "menu-item#fruta-organica": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fruta-organica",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/fruta-organica",
+                "noFollow": false,
+                "tagTitle": "fruta-organica",
+                "text": "Fruta (29)"
+            }
+        }
+    },
+
+    "menu-item#legume-organico": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-legume-organico",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/legume-organico",
+                "noFollow": false,
+                "tagTitle": "legume-organico",
+                "text": "Legume (49)"
+            }
+        }
+    },
+
+    "menu-item#ovo-organico": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-ovo-organico",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/ovo-organico",
+                "noFollow": false,
+                "tagTitle": "ovo-organico",
+                "text": "Ovo (5)"
+            }
+        }
+    },
+
+    "menu-item#tempero-organico": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-tempero-organico",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/tempero-organico",
+                "noFollow": false,
+                "tagTitle": "tempero-organico",
+                "text": "Tempero (6)"
+            }
+        }
+    },
+
+    "menu-item#verdura-organica": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-verdura-organico",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/verdura-organico",
+                "noFollow": false,
+                "tagTitle": "verdura-organico",
+                "text": "Verdura (11)"
+            }
+        }
+    }
+}

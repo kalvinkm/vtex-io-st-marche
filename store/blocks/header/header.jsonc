@@ -1,0 +1,225 @@
+{
+  "header": {
+    "blocks": [
+      "header-layout.desktop",
+      "header-layout.mobile"
+    ]
+  },
+  "header.full": {
+    "blocks": [
+      "header-layout.desktop",
+      "header-layout.mobile"
+    ]
+  },
+  "header-layout.desktop": {
+    "children": [
+      "flex-layout.row#header-desktop"
+      /* "flex-layout.row#1-desktop",
+      "flex-layout.row#2-desktop",
+      "flex-layout.row#3-desktop",
+      "sticky-layout#4-desktop" */
+    ]
+  },
+  "flex-layout.row#header-desktop": {
+    "props": {
+      "blockClass": "header-desktop"
+    },
+    "children": [
+      "flex-layout.row#header-desktop-container"
+    ]
+  },
+  "flex-layout.row#header-desktop-container": {
+    "props": {
+      "blockClass": "header-desktop-container"
+    },
+    "children": [
+      "flex-layout.row#logo",
+      "flex-layout.row#search"
+    ]
+  },
+  "flex-layout.row#logo": {
+    "props": {
+      "blockClass": "logo"
+    },
+    "children": [
+      "image#st-marche-logo"
+      // "rich-text#teste"
+    ]
+  },
+  "image#st-marche-logo": {
+    "props": {
+      "blockClass": "image-logo",
+      "src": "assets/imgs/st-marche-logo.svg"
+    }
+  },
+  "flex-layout.row#search": {
+    "props": {
+      "blockClass": "search"
+    },
+    "children": [
+      "rich-text#search-teste",
+      "rich-text#ícone-search"
+    ]
+  },
+  "rich-text#search-teste": {
+    "props": {
+      "blockClass": "search",
+      "text": "INPUT SEARCH AND ICON"
+    }
+  },
+  "rich-text#ícone-search": {
+    "props": {
+      "blockClass": "icone-search",
+      "text": "![serach](https://via.placeholder.com/17x19)"
+    }
+  },
+  // "flex-layout.row#1-desktop": {
+  //   "children": ["telemarketing"],
+  //   "props": {
+  //     "fullWidth": true
+  //   }
+  // },
+  // "flex-layout.row#2-desktop": {
+  //   "children": ["notification.bar#home"],
+  //   "props": {
+  //     "fullWidth": "true"
+  //   }
+  // },
+  // "notification.bar#home": {
+  //   "props": {
+  //     "content": "SELECTED ITEMS ON SALE! CHECK IT OUT!"
+  //   }
+  // },
+  // "flex-layout.row#3-desktop": {
+  //   "props": {
+  //     "blockClass": "menu-link",
+  //     "horizontalAlign": "center",
+  //     "preventHorizontalStretch": true,
+  //     "preventVerticalStretch": true,
+  //     "fullWidth": true
+  //   },
+  //   "children": [
+  //     "vtex.menu@2.x:menu#websites",
+  //     "flex-layout.col#spacer",
+  //     "vtex.menu@2.x:menu#institutional"
+  //   ]
+  // },
+  // "flex-layout.col#spacer": {
+  //   "props": {
+  //     "width": "grow"
+  //   }
+  // },
+  // "sticky-layout#4-desktop": {
+  //   "props": {
+  //     "blockClass": "sticky-header"
+  //   },
+  //   "children": ["flex-layout.row#4-desktop"]
+  // },
+  // "flex-layout.row#4-desktop": {
+  //   "props": {
+  //     "blockClass": "main-header",
+  //     "horizontalAlign": "center",
+  //     "verticalAlign": "center",
+  //     "preventHorizontalStretch": true,
+  //     "preventVerticalStretch": true,
+  //     "fullWidth": true
+  //   },
+  //   "children": [
+  //     "flex-layout.col#logo-desktop",
+  //     "flex-layout.col#category-menu",
+  //     "flex-layout.col#spacer",
+  //     "search-bar",
+  //     "locale-switcher",
+  //     "login",
+  //     "minicart.v2"
+  //   ]
+  // },
+  // "flex-layout.col#logo-desktop": {
+  //   "props": {
+  //     "verticalAlign": "middle"
+  //   },
+  //   "children": ["logo#desktop"]
+  // },
+  // "flex-layout.col#category-menu": {
+  //   "props": {
+  //     "verticalAlign": "middle"
+  //   },
+  //   "children": ["vtex.menu@2.x:menu#category-menu"]
+  // },
+  // "logo#desktop": {
+  //   "props": {
+  //     "title": "Logo",
+  //     "href": "/",
+  //     "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
+  //     "width": "180"
+  //   }
+  // },
+  "header-layout.mobile": {
+    "children": [
+      "sticky-layout#1-mobile"
+    ]
+  },
+  "sticky-layout#1-mobile": {
+    "children": [
+      "flex-layout.row#mobile-header",
+      "flex-layout.row#mobile-navigation"
+      // "flex-layout.row#1-mobile"
+    ]
+  },
+  "flex-layout.row#mobile-header": {
+    "props": {
+      "blockClass": "mobile-header",
+      "preventHorizontalStretch": true,
+      "preserveLayoutOnMobile": true,
+      "fullWidth": true
+    },
+    "children": [
+      "link.product#drawer-link",
+      "flex-layout.row#logo-search",
+      "minicart.v2"
+    ]
+  },
+  "link.product#drawer-link": {
+    "props": {
+      "blockClass": "drawer-link"
+    },
+    "children": [
+      "drawer"
+    ]
+  },
+  "drawer": {
+    "children": [
+      "menu#drawer"
+    ]
+  },
+  "menu#drawer": {
+    "children": [
+      "menu-item#home",
+      "menu-item#login",
+      "menu-item#sign-up",
+      "menu-item#offers-st-marche",
+      "menu-item#wines-month",
+      "disclosure-layout#butchery",
+      "disclosure-layout#baby-infant",
+      "disclosure-layout#drinks",
+      "disclosure-layout#biscuit-snacks-chocolate",
+      "disclosure-layout#home-kitchen",
+      "disclosure-layout#beers",
+      "disclosure-layout#confectionery",
+      "disclosure-layout#spirits",
+      "disclosure-layout#flower-shop",
+      "disclosure-layout#sliced",
+      "disclosure-layout#hygiene-beauty",
+      "disclosure-layout#hortifruti",
+      "disclosure-layout#hortifruti-organico",
+      "disclosure-layout#yogurt",
+      "disclosure-layout#dairy",
+      "disclosure-layout#cleaning",
+      "disclosure-layout#pastas-souces",
+      "disclosure-layout#grocery"
+    ],
+    "props": {
+      "orientation": "vertical"
+    }
+  }
+}

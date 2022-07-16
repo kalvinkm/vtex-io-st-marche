@@ -1,0 +1,322 @@
+{
+    "menu-item#aves": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-aves",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/aves",
+                "noFollow": false,
+                "tagTitle": "aves",
+                "text": "Aves (32)"
+            }
+        }
+    },
+    "menu-item#aves-congeladas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-aves-congeladas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/aves-congeladas",
+                "noFollow": false,
+                "tagTitle": "aves-congeladas",
+                "text": "Aves Congeladas (58)"
+            }
+        }
+    },
+    "menu-item#baby-beef": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-baby-beef",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/baby-beef",
+                "noFollow": false,
+                "tagTitle": "baby-beef",
+                "text": "Baby Beef (3)"
+            }
+        }
+    },
+    "menu-item#bacon-e-carne-seca": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bacon-e-carne-seca",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bacon-e-carne-seca",
+                "noFollow": false,
+                "tagTitle": "bacon-e-carne-seca",
+                "text": "Bacon e Carne Seca (14)"
+            }
+        }
+    },
+    "menu-item#bovinos-congelados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bovinos-congelados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bovinos-congelados",
+                "noFollow": false,
+                "tagTitle": "bovinos-congelados",
+                "text": "Bovinos Congelados (11)"
+            }
+        }
+    },
+    "menu-item#contrafilé": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-contrafilé",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/contrafile",
+                "noFollow": false,
+                "tagTitle": "contrafilé",
+                "text": "Contrafilé (6)"
+            }
+        }
+    },
+    "menu-item#coxao-duro": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-coxao-duro",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/coxao-duro",
+                "noFollow": false,
+                "tagTitle": "coxao-duro",
+                "text": "Coxão Duro (3)"
+            }
+        }
+    },
+    "menu-item#coxao-mole": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-coxao-duro",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/coxao-mole",
+                "noFollow": false,
+                "tagTitle": "coxao-mole",
+                "text": "Coxão Mole (5)"
+            }
+        }
+    },
+    "menu-item#file-mignon": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-file-mignon",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/file-mignon",
+                "noFollow": false,
+                "tagTitle": "file-mignon",
+                "text": "Filé Mignon (10)"
+            }
+        }
+    },
+    "menu-item#fraldinha": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fraldinha",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/fraldinha",
+                "noFollow": false,
+                "tagTitle": "fraldinha",
+                "text": "Fraldinha (8)"
+            }
+        }
+    },
+    "menu-item#hamburguer": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-hamburguer",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/hamburgueres",
+                "noFollow": false,
+                "tagTitle": "hamburguer",
+                "text": "Hamburguer (2)"
+            }
+        }
+    },
+    "menu-item#lagarto": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-lagarto",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/lagarto",
+                "noFollow": false,
+                "tagTitle": "lagarto",
+                "text": "Lagarto (1)"
+            }
+        }
+    },
+    "menu-item#linguiça": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-linguiça",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/linguica",
+                "noFollow": false,
+                "tagTitle": "linguiça",
+                "text": "Linguiça (42)"
+            }
+        }
+    },
+    "menu-item#maminha": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-maminha",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/maminha",
+                "noFollow": false,
+                "tagTitle": "maminha",
+                "text": "Maminha (3)"
+            }
+        }
+    },
+    "menu-item#outros-cortes": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-outros-cortes",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/outros-cortes",
+                "noFollow": false,
+                "tagTitle": "outros-cortes",
+                "text": "Outros Cortes (21)"
+            }
+        }
+    },
+    "menu-item#patinhos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-patinho",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/patinho",
+                "noFollow": false,
+                "tagTitle": "patinho",
+                "text": "Patinho (4)"
+            }
+        }
+    },
+    "menu-item#picanhas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-picanhas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/picanhas",
+                "noFollow": false,
+                "tagTitle": "picanhas",
+                "text": "Picanhas (2)"
+            }
+        }
+    },
+    "menu-item#salsicha": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-salsicha",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/salsicha",
+                "noFollow": false,
+                "tagTitle": "salsicha",
+                "text": "Salsicha (17)"
+            }
+        }
+    },
+    "menu-item#suino": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-suino",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/suino",
+                "noFollow": false,
+                "tagTitle": "suino",
+                "text": "Suíno (22)"
+            }
+        }
+    },
+    "menu-item#suino-congelado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-suino-congelado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "interal",
+                "href": "https://www.marche.com.br/categorias/suinos-congelados",
+                "noFollow": false,
+                "tagTitle": "suino-congelado",
+                "text": "Suíno Congelado (22)"
+            }
+        }
+    }
+}

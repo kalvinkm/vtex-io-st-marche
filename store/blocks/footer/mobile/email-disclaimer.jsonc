@@ -1,0 +1,37 @@
+{
+    "flex-layout.row#mobile-footer-email-disclaimer": {
+        "props": {
+          "blockClass": "mobile-footer-email-disclaimer"
+        },
+        "children": [
+          "link.product#email-link",
+          "rich-text#disclaimer"
+        ]
+      },
+    
+      "link.product#email-link": {
+        "props": {
+          "blockClass": "email-link",
+          "href": "mailto:ajuda@marche.com.br"
+        },
+        "children": [
+          "rich-text#email"
+        ]
+      },
+    
+    
+      "rich-text#email": {
+        "props": {
+          "blockClass": "email",
+          "text": "![email](https://via.placeholder.com/16x16) ajuda@marche.com.br"
+        }
+      },
+    
+      "rich-text#disclaimer": {
+        "props": {
+          "blockClass": "disclaimer",
+          "text": "SÃO PROIBIDAS A VENDA E ENTREGA DE BEBIDAS ALCOÓLICAS A MENORES DE 18 (DEZOITO) ANOS (art. 81, II, do Estatuto da Criança e do Adolescente)."
+        }
+      }
+    
+}
