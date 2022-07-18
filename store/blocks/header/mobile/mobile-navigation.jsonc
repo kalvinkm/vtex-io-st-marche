@@ -1,19 +1,4 @@
 {
-    "flex-layout.row#mobile-navigation": {
-        "props": {
-          "blockClass": "mobile-navigation",
-          "preventHorizontalStretch": true
-        },
-        "children": [
-          "link.product#our-products-link",
-          "link.product#beers-link",
-          "link.product#butchery-link",
-          "link.product#download-app-link",
-          "link.product#our-store-link"
-        ]
-      },
-
-
       /* NOSSOS PRODUTO */
 
       "link.product#our-products-link": {

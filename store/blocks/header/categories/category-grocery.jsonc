@@ -1,0 +1,936 @@
+{
+    "menu-item#aceto-balsamico": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-aceto-balsamico",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/aceto-balsamico",
+                "noFollow": false,
+                "tagTitle": "aceto-balsamico",
+                "text": "Aceto Balsâmico (8)"
+            }
+        }
+    },
+
+    "menu-item#achocolatados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-achocolatados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/achocolatados",
+                "noFollow": false,
+                "tagTitle": "achocolatados",
+                "text": "Achocolatado (18)"
+            }
+        }
+    },
+
+    "menu-item#acucar": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-acucar",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/acucar",
+                "noFollow": false,
+                "tagTitle": "acucar",
+                "text": "Açúcar (16)"
+            }
+        }
+    },
+
+    "menu-item#adocante": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-adocante",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/adocante",
+                "noFollow": false,
+                "tagTitle": "adocante",
+                "text": "Adoçante (19)"
+            }
+        }
+    },
+
+    "menu-item#arroz": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-arroz",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/arroz",
+                "noFollow": false,
+                "tagTitle": "arroz",
+                "text": "Arroz (18)"
+            }
+        }
+    },
+
+    "menu-item#arroz-especial-risoto": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-arroz-especial-risoto",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/arroz-especial-e-risoto",
+                "noFollow": false,
+                "tagTitle": "arroz-especial-risoto",
+                "text": "Arroz Especial e Risoto (48)"
+            }
+        }
+    },
+
+    "menu-item#atum-sardinha": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-atum-sardinha",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/atum-e-sardinha",
+                "noFollow": false,
+                "tagTitle": "atum-sardinha",
+                "text": "Atum e Sardinha (29)"
+            }
+        }
+    },
+
+    "menu-item#aveia-mingau": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-aveia-mingau",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/aveia-e-mingau",
+                "noFollow": false,
+                "tagTitle": "aveia-mingau",
+                "text": "Aveia e Mingau (17)"
+            }
+        }
+    },
+
+    "menu-item#azeite": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-azeite",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/azeite",
+                "noFollow": false,
+                "tagTitle": "azeite",
+                "text": "Azeite (78)"
+            }
+        }
+    },
+
+    "menu-item#azeitona": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-azeitona",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/azeitona",
+                "noFollow": false,
+                "tagTitle": "azeitona",
+                "text": "Azeitona (38)"
+            }
+        }
+    },
+
+    "menu-item#batata-palha": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-batata-palha",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/batata-palha",
+                "noFollow": false,
+                "tagTitle": "batata-palha",
+                "text": "Batata Palha (12)"
+            }
+        }
+    },
+
+    "menu-item#cacau-chocolates-culinarios": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cacau-chocolates-culinarios",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cacau-e-chocolates-culinarios",
+                "noFollow": false,
+                "tagTitle": "cacau-chocolates-culinarios",
+                "text": "Cacau e Chocolates Culinários (3)"
+            }
+        }
+    },
+
+    "menu-item#cafe-capsula": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cafe-capsula",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cafe-em-capsula",
+                "noFollow": false,
+                "tagTitle": "cafe-capsula",
+                "text": "Café em Cápsula (152)"
+            }
+        }
+    },
+
+    "menu-item#cafe-graos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cafe-graos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cafe-em-graos",
+                "noFollow": false,
+                "tagTitle": "cafe-graos",
+                "text": "Café em Grãos (20)"
+            }
+        }
+    },
+
+    "menu-item#cafe-moido": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cafe-moido",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cafe-moido",
+                "noFollow": false,
+                "tagTitle": "cafe-moido",
+                "text": "Café Moído (92)"
+            }
+        }
+    },
+
+    "menu-item#cafe-soluvel-cappuccino": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cafe-soluvel-cappuccino",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cafe-soluvel-e-cappuccino",
+                "noFollow": false,
+                "tagTitle": "cafe-soluvel-cappuccino",
+                "text": "Café Solúvel e Cappuccino (36)"
+            }
+        }
+    },
+
+    "menu-item#cafe-soluvel-cappuccino2": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cafe-soluvel-cappuccino2",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cafe-soluvel-e-capuccino",
+                "noFollow": false,
+                "tagTitle": "cafe-soluvel-cappuccino2",
+                "text": "Café Solúvel e Cappuccino (9)"
+            }
+        }
+    },
+
+    "menu-item#caldos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-caldos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/caldos",
+                "noFollow": false,
+                "tagTitle": "caldos",
+                "text": "Caldos (69)"
+            }
+        }
+    },
+
+    "menu-item#catchup-barbecue": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-catchup-barbecue",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/catchup-e-barbecue",
+                "noFollow": false,
+                "tagTitle": "catchup-barbecue",
+                "text": "Catchup e Barbecue (45)"
+            }
+        }
+    },
+
+    "menu-item#cebola-alho": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cebola-alho",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cebola-e-alho",
+                "noFollow": false,
+                "tagTitle": "cebola-alho",
+                "text": "Cebola e Alho (3)"
+            }
+        }
+    },
+
+    "menu-item#cereal-matinal": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cereal-matinal",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cereal-matinal",
+                "noFollow": false,
+                "tagTitle": "cereal-matinal",
+                "text": "Cereal Matina (24)"
+            }
+        }
+    },
+
+    "menu-item#cha": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cha",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cha",
+                "noFollow": false,
+                "tagTitle": "cha",
+                "text": "Chá (65)"
+            }
+        }
+    },
+
+    "menu-item#cobertura-calda": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cobertura-calda",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cobertura-e-calda",
+                "noFollow": false,
+                "tagTitle": "cobertura-calda",
+                "text": "Cobertura e Calda (24)"
+            }
+        }
+    },
+
+    "menu-item#cogumelo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-cogumelo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/cogumelo",
+                "noFollow": false,
+                "tagTitle": "cogumelo",
+                "text": "Cogumelo (10)"
+            }
+        }
+    },
+
+    "menu-item#creme-avela-amendoin-outros": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-creme-avela-amendoin-outros",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/creme-de-avela-amendoim-e-outros",
+                "noFollow": false,
+                "tagTitle": "creme-avela-amendoin-outros",
+                "text": "Creme de Avelã, Amendoin e Outros (35)"
+            }
+        }
+    },
+
+    "menu-item#creme-de-leite": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-creme-de-leite",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/creme-de-leite",
+                "noFollow": false,
+                "tagTitle": "creme-de-leite",
+                "text": "Creme de Leite (5)"
+            }
+        }
+    },
+
+    "menu-item#doces-compotas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-doces-compotas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/doces-e-compotas",
+                "noFollow": false,
+                "tagTitle": "doces-compotas",
+                "text": "Doces e Compotas (108)"
+            }
+        }
+    },
+
+    "menu-item#etnicos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-etnicos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/etnicos",
+                "noFollow": false,
+                "tagTitle": "etnicos",
+                "text": "Étnicos (123)"
+            }
+        }
+    },
+
+    "menu-item#farinhas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-farinhas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/farinhas",
+                "noFollow": false,
+                "tagTitle": "farinhas",
+                "text": "Farinhas (63)"
+            }
+        }
+    },
+    
+    "menu-item#farofas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-farofas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/farofas",
+                "noFollow": false,
+                "tagTitle": "farofas",
+                "text": "Farofas (27)"
+            }
+        }
+    },
+
+    "menu-item#feijao": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-feijao",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/feijao",
+                "noFollow": false,
+                "tagTitle": "feijao",
+                "text": "Feijão (20)"
+            }
+        }
+    },
+
+    "menu-item#fermento": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fermento",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/fermento",
+                "noFollow": false,
+                "tagTitle": "fermento",
+                "text": "Fermento (10)"
+            }
+        }
+    },
+
+    "menu-item#gelatinas-sobremesa-em-po": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-gelatinas-sobremesa-em-po",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/gelatinas-e-sobremesas-em-po",
+                "noFollow": false,
+                "tagTitle": "gelatinas-sobremesa-em-po",
+                "text": "Gelatinas e Sobremesas em Pó (35)"
+            }
+        }
+    },
+
+    "menu-item#geleia": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-geleia",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/geleia",
+                "noFollow": false,
+                "tagTitle": "geleia",
+                "text": "Geleia (70)"
+            }
+        }
+    },
+
+    "menu-item#granola": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-granola",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/granola",
+                "noFollow": false,
+                "tagTitle": "granola",
+                "text": "Granola (28)"
+            }
+        }
+    },
+
+    "menu-item#graos-semente": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-graos-semente",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/graos-e-sementes",
+                "noFollow": false,
+                "tagTitle": "graos-semente",
+                "text": "Grãos e Sementes (27)"
+            }
+        }
+    },
+
+    "menu-item#leite-condensado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-leite-condensado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/leite-condensado",
+                "noFollow": false,
+                "tagTitle": "leite-condensado",
+                "text": "Leite Condensado (6)"
+            }
+        }
+    },
+
+    "menu-item#leite-coco-ralado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-leite-coco-ralado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/leite-de-coco-e-coco-ralado",
+                "noFollow": false,
+                "tagTitle": "leite-coco-ralado",
+                "text": "Leite de Coco e Coco Ralado (9)"
+            }
+        }
+    },
+
+    "menu-item#leite-em-po": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-leite-em-po",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/leite-em-po",
+                "noFollow": false,
+                "tagTitle": "leite-em-po",
+                "text": "Leite em Pó (15)"
+            }
+        }
+    },
+
+    "menu-item#maionese": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-maionese",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/maionese",
+                "noFollow": false,
+                "tagTitle": "maionese",
+                "text": "Maionese (26)"
+            }
+        }
+    },
+
+    "menu-item#mel": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-mel",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/mel",
+                "noFollow": false,
+                "tagTitle": "mel",
+                "text": "Mel (8)"
+            }
+        }
+    },
+
+    "menu-item#mistura-bolo-salgado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-mistura-bolo-salgado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/mistura-de-bolo-e-salgado",
+                "noFollow": false,
+                "tagTitle": "mistura-bolo-salgado",
+                "text": "Mistura de Bolo e Salgado (33)"
+            }
+        }
+    },
+
+    "menu-item#molho-pimenta": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-molho-pimenta",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/molho-de-pimenta",
+                "noFollow": false,
+                "tagTitle": "molho-pimenta",
+                "text": "Molho de Pimenta (39)"
+            }
+        }
+    },
+
+    "menu-item#molho-salada": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-molho-salada",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/molho-para-salada",
+                "noFollow": false,
+                "tagTitle": "molho-salada",
+                "text": "Molho para Salada (14)"
+            }
+        }
+    },
+
+    "menu-item#molhos-diversos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-molhos-diversos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/molhos-diversos",
+                "noFollow": false,
+                "tagTitle": "molhos-diversos",
+                "text": "Molhos Diversos (20)"
+            }
+        }
+    },
+
+    "menu-item#mostarda": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-mostarda",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/mostarda",
+                "noFollow": false,
+                "tagTitle": "mostarda",
+                "text": "Mostarda (24)"
+            }
+        }
+    },
+
+    "menu-item#oleo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-oleo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/oleo",
+                "noFollow": false,
+                "tagTitle": "oleo",
+                "text": "Óleo (15)"
+            }
+        }
+    },
+
+    "menu-item#outras-conservas-enlatados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-outras-conservas-enlatados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/outras-conservas-e-enlatados",
+                "noFollow": false,
+                "tagTitle": "outras-conservas-enlatados",
+                "text": "Outras Conversas e Enlatados (40)"
+            }
+        }
+    },
+
+    "menu-item#palmito": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-palmito",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/palmito",
+                "noFollow": false,
+                "tagTitle": "palmito",
+                "text": "Palmito (4)"
+            }
+        }
+    },
+
+    "menu-item#sal": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sal",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sal",
+                "noFollow": false,
+                "tagTitle": "sal",
+                "text": "Sal (25)"
+            }
+        }
+    },
+
+    "menu-item#suplementos-vitaminas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-suplementos-vitaminas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/suplementos-e-vitaminas",
+                "noFollow": false,
+                "tagTitle": "suplementos-vitaminas",
+                "text": "Suplementos e Vitaminas (46)"
+            }
+        }
+    },
+
+    "menu-item#tapioca": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-tapioca",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/tapioca",
+                "noFollow": false,
+                "tagTitle": "tapioca",
+                "text": "Tapioca (9)"
+            }
+        }
+    },
+
+    "menu-item#temperos-secos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-temperos-secos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/temperos-secos",
+                "noFollow": false,
+                "tagTitle": "temperos-secos",
+                "text": "Temperos Secos (194)"
+            }
+        }
+    },
+
+    "menu-item#vegetais": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-vegetais",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/vegetais",
+                "noFollow": false,
+                "tagTitle": "vegetais",
+                "text": "Vegetais (24)"
+            }
+        }
+    },
+
+    "menu-item#vinagre": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-vinagre",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/vinagre",
+                "noFollow": false,
+                "tagTitle": "vinagre",
+                "text": "Vinagre (20)"
+            }
+        }
+    }
+}

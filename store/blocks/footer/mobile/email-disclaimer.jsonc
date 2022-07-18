@@ -23,7 +23,7 @@
       "rich-text#email": {
         "props": {
           "blockClass": "email",
-          "text": "![email](https://via.placeholder.com/16x16) ajuda@marche.com.br"
+          "text": "![email](assets/imgs/mail.jpg) ajuda@marche.com.br"
         }
       },
     

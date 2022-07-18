@@ -1,0 +1,36 @@
+{
+    "menu-item#bacalhau": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-bacalhau",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/bacalhau",
+                "noFollow": false,
+                "tagTitle": "bacalhau",
+                "text": "Bacalhau (47)"
+            }
+        }
+    },
+
+    "menu-item#peixes-frutos-do-mar-congelados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-peixes-frutos-do-mar-congelados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/peixes-e-frutos-do-mar-congelados",
+                "noFollow": false,
+                "tagTitle": "peixes-frutos-do-mar-congelados",
+                "text": "Peixes e Frutos do Mar Congelados (47)"
+            }
+        }
+    }
+}
+

@@ -1,4 +1,7 @@
-
+.link--minicar-link {
+    width: 35px;
+    height: 30px;
+}
 
 .link--email-link {
     text-decoration: none;
@@ -9,4 +12,9 @@
 .link {
     text-decoration: none;
     color: #FFF;
+}
+
+.childrenContainer--product-link {
+    border: 1px solid rgba(0,0,0,0.125);
+    margin: 5px;
 }

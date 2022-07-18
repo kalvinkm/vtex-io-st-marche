@@ -1,0 +1,52 @@
+{
+    "menu-item#combinados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-combinados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/combinados",
+                "noFollow": false,
+                "tagTitle": "combinados",
+                "text": "Combinados (3)"
+            }
+        }
+    },
+
+    "menu-item#sushi-e-sashimi": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sushi-e-sashimi",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sushi-e-sashimi",
+                "noFollow": false,
+                "tagTitle": "sushi-e-sashimi",
+                "text": "Sushi e Sashimi (20)"
+            }
+        }
+    },
+
+    "menu-item#temaki-e-poke": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-temaki-e-poke",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/temaki-e-poke",
+                "noFollow": false,
+                "tagTitle": "temaki-e-poke",
+                "text": "Temaki e Poke (8)"
+            }
+        }
+    }
+}

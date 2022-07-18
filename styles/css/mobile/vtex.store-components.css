@@ -6,3 +6,9 @@
     width: 231px;
     height: 32px;
 }
+
+.imageElement--product-carousel {
+    width: 100px;
+    height: 100px;
+    margin: 0 38px 8px 38px;
+}

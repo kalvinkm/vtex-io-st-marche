@@ -1,5 +1,9 @@
+/* GREEN HEADER */
+
 .flexRow--mobile-header {
-    /* border: 1px solid #000; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background-color: #32593B;
     color: #fff;
     height: 58px;
@@ -8,10 +12,6 @@
     width: 100%;
     z-index: 100000;
     border-radius: 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    
 }
 
 .flexRowContent--mobile-header {
@@ -22,7 +22,7 @@
     align-content: center;
     justify-content: space-between;
     align-items: baseline;
-    padding-top: 12px;
+    padding: 10px 10px;
 }
 
 .flexRow--logo-search {
@@ -46,6 +46,8 @@
     margin-bottom: 10px;
 }
 
+/* HEADER NAVIGATION */
+
 .flexRow--mobile-navigation {
     display: flex;
     flex-direction: row;
@@ -53,12 +55,45 @@
     height: 77px;
     position: sticky;
     z-index: 100000;
+    overflow-y: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .flexRowContent--mobile-navigation {
-    display: flex;
+    display: -webkit-box;
+    margin-bottom: 0;
+    align-items: center;
+    margin: auto;
+    margin-left: 0;
+    padding: 15px 0px;
 }
 
+/* ------------------------------------------------------ */
+
+/* HOME */
+
+/* CAROUSEL, PRIMARY BANNER  AND PRODUCTS TEXT*/
+
+.flexRow--carousel-images,
+.flexRow--primary-banner,
+.flexRow--products {
+    padding: 5px 10px;
+}
+
+
+/* CAROUSEL BREADS */
+
+.flexRow--carousel-breads {
+    padding: 0px 10px;
+}
+
+.flexRowContent--carousel-breads {
+    display: flex;
+    flex-direction: row;
+}
 
 /* ------------------------------------------------------ */
 

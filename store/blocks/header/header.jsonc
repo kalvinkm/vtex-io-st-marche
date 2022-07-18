@@ -11,13 +11,10 @@
       "header-layout.mobile"
     ]
   },
+  /* HEADER DESKTOP */
   "header-layout.desktop": {
     "children": [
       "flex-layout.row#header-desktop"
-      /* "flex-layout.row#1-desktop",
-      "flex-layout.row#2-desktop",
-      "flex-layout.row#3-desktop",
-      "sticky-layout#4-desktop" */
     ]
   },
   "flex-layout.row#header-desktop": {
@@ -43,7 +40,6 @@
     },
     "children": [
       "image#st-marche-logo"
-      // "rich-text#teste"
     ]
   },
   "image#st-marche-logo": {
@@ -73,87 +69,7 @@
       "text": "![serach](https://via.placeholder.com/17x19)"
     }
   },
-  // "flex-layout.row#1-desktop": {
-  //   "children": ["telemarketing"],
-  //   "props": {
-  //     "fullWidth": true
-  //   }
-  // },
-  // "flex-layout.row#2-desktop": {
-  //   "children": ["notification.bar#home"],
-  //   "props": {
-  //     "fullWidth": "true"
-  //   }
-  // },
-  // "notification.bar#home": {
-  //   "props": {
-  //     "content": "SELECTED ITEMS ON SALE! CHECK IT OUT!"
-  //   }
-  // },
-  // "flex-layout.row#3-desktop": {
-  //   "props": {
-  //     "blockClass": "menu-link",
-  //     "horizontalAlign": "center",
-  //     "preventHorizontalStretch": true,
-  //     "preventVerticalStretch": true,
-  //     "fullWidth": true
-  //   },
-  //   "children": [
-  //     "vtex.menu@2.x:menu#websites",
-  //     "flex-layout.col#spacer",
-  //     "vtex.menu@2.x:menu#institutional"
-  //   ]
-  // },
-  // "flex-layout.col#spacer": {
-  //   "props": {
-  //     "width": "grow"
-  //   }
-  // },
-  // "sticky-layout#4-desktop": {
-  //   "props": {
-  //     "blockClass": "sticky-header"
-  //   },
-  //   "children": ["flex-layout.row#4-desktop"]
-  // },
-  // "flex-layout.row#4-desktop": {
-  //   "props": {
-  //     "blockClass": "main-header",
-  //     "horizontalAlign": "center",
-  //     "verticalAlign": "center",
-  //     "preventHorizontalStretch": true,
-  //     "preventVerticalStretch": true,
-  //     "fullWidth": true
-  //   },
-  //   "children": [
-  //     "flex-layout.col#logo-desktop",
-  //     "flex-layout.col#category-menu",
-  //     "flex-layout.col#spacer",
-  //     "search-bar",
-  //     "locale-switcher",
-  //     "login",
-  //     "minicart.v2"
-  //   ]
-  // },
-  // "flex-layout.col#logo-desktop": {
-  //   "props": {
-  //     "verticalAlign": "middle"
-  //   },
-  //   "children": ["logo#desktop"]
-  // },
-  // "flex-layout.col#category-menu": {
-  //   "props": {
-  //     "verticalAlign": "middle"
-  //   },
-  //   "children": ["vtex.menu@2.x:menu#category-menu"]
-  // },
-  // "logo#desktop": {
-  //   "props": {
-  //     "title": "Logo",
-  //     "href": "/",
-  //     "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
-  //     "width": "180"
-  //   }
-  // },
+  //----------- HEADER MOBILE ----------------------------
   "header-layout.mobile": {
     "children": [
       "sticky-layout#1-mobile"
@@ -163,9 +79,9 @@
     "children": [
       "flex-layout.row#mobile-header",
       "flex-layout.row#mobile-navigation"
-      // "flex-layout.row#1-mobile"
     ]
   },
+  /* GREEN HEADER */
   "flex-layout.row#mobile-header": {
     "props": {
       "blockClass": "mobile-header",
@@ -176,9 +92,10 @@
     "children": [
       "link.product#drawer-link",
       "flex-layout.row#logo-search",
-      "minicart.v2"
+      "link.product#minicar-link"
     ]
   },
+  /* MENU HAMBÚRGUER _ DRAWER */
   "link.product#drawer-link": {
     "props": {
       "blockClass": "drawer-link"
@@ -216,10 +133,43 @@
       "disclosure-layout#dairy",
       "disclosure-layout#cleaning",
       "disclosure-layout#pastas-souces",
-      "disclosure-layout#grocery"
+      "disclosure-layout#grocery",
+      "disclosure-layout#our-pizzeria",
+      "disclosure-layout#bakery",
+      "disclosure-layout#fishmonger",
+      "disclosure-layout#ready-to-eat",
+      "disclosure-layout#cheese",
+      "disclosure-layout#ice-cream-fronzen",
+      "disclosure-layout#sushi",
+      "disclosure-layout#wine-sparkling",
+      "menu-item#about-us",
+      "menu-item#doubt",
+      "menu-item#privacy",
+      "menu-item#therms",
+      "menu-item#apps",
+      "menu-item#our-store",
+      "menu-item#work",
+      "menu-item#contact-us",
+      "menu-item#campaign"
     ],
     "props": {
       "orientation": "vertical"
     }
+  },
+
+  /* HEADER NAVIGATION */
+
+  "flex-layout.row#mobile-navigation": {
+    "props": {
+      "blockClass": "mobile-navigation",
+      "preventHorizontalStretch": true
+    },
+    "children": [
+      "link.product#our-products-link",
+      "link.product#beers-link",
+      "link.product#butchery-link",
+      "link.product#download-app-link",
+      "link.product#our-store-link"
+    ]
   }
 }

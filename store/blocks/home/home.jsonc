@@ -1,36 +1,212 @@
 {
   "store.home": {
+    "props": {
+      "blockClass": "store-home"
+    },
     "blocks": [
-      "list-context.image-list#demo"
-      /* You can make references to blocks defined in other files.
-       * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
-      // "__fold__.experimentalLazyAssets"
-      // "flex-layout.row#deals",
-      // "rich-text#shelf-title",
-      // "flex-layout.row#shelf",
-      // "info-card#home",
-      // "rich-text#question",
-      // "rich-text#link",
-      // "newsletter"
+      "flex-layout.row#carousel-images",
+      "flex-layout.row#primary-banner",
+      "flex-layout.row#products",
+      "flex-layout.row#carousel-breads"
     ]
   },
 
-  "list-context.image-list#demo": {
-    "children": ["slider-layout#demo-images"],
+  /* ------------------------------------------------------- */
+
+  /* CAROUSEL --------------------------------------------- */
+
+  "flex-layout.row#carousel-images": {
     "props": {
-      "height": 720,
-      "images": [
-        {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
-          "mobileImage": "assets/imgs/vinhos.png"
-        },
-        {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
-          "mobileImage": "assets/imgs/chocolate.png"
-        }
-      ]
+      "blockClass": "carousel-images"
+    },
+    "children": [
+      "slider-layout#image-slider"
+    ]
+  },
+  "slider-layout#image-slider": {
+    "props": {
+      "blockClass": "image-slider",
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 1
+      },
+      "infinite": true,
+      "showNavigationArrows": "always",
+      "slideTransition": {
+        "speed": 400,
+        "delay": 0
+      },
+      "autoPlay": {
+        "timeout": 400,
+        "stopOnhOver": true
+      }
+    },
+    "children": [
+      "link.product#frete-gratis-banner-link",
+      "link.product#energetico-mobile-link"
+    ]
+  },
+
+  "link.product#frete-gratis-banner-link": {
+    "props": {
+      "blockClass": "frete-gratis-banner-link",
+      "href": "https://www.marche.com.br/window_displays/pro-friozinho"
+    },
+    "children": [
+      "image#frete-gratis-banner"
+    ]
+  },
+
+  "image#frete-gratis-banner": {
+    "props": {
+      "blockClass": "frete-gratis-banner",
+      "src": "assets/imgs/frete-gratis-banner.png"
     }
   },
+
+  "link.product#energetico-mobile-link": {
+    "props": {
+      "blockClass": "energetico-mobile-link",
+      "href": "https://www.marche.com.br/window_displays/pra-ficar-ligado"
+    },
+    "children": [
+      "image#energetico-mobile"
+    ]
+  },
+
+  "image#energetico-mobile": {
+    "props": {
+      "blockClass": "energetico-mobile",
+      "src": "assets/imgs/energetico-mobile.png"
+    }
+  },
+
+  /* ------------------------------------------------------------ */
+
+  /* PRIMARY BANNER */
+
+  "flex-layout.row#primary-banner": {
+    "props": {
+      "blockClass": "primary-banner"
+    },
+    "children": [
+      "image#image-banner"
+    ]
+  },
+
+  "image#image-banner": {
+    "props": {
+      "blockClass": "image-banner",
+      "src": "assets/imgs/banner-st-marche-app-mobile.png"
+    }
+  },
+
+  /* --------------------------------------------------- */
+
+  /* PRODUCTS TEXT */
+
+  "flex-layout.row#products": {
+    "props": {
+      "blockClass": "products"
+    },
+    "children": [
+      "rich-text#teste1"
+    ]
+  },
+  "rich-text#teste1": {
+    "props": {
+      "blockClass": "teste1",
+      "text": "SUGESTÕES ESPECIAIS PARA VOCÊ"
+    }
+  },
+
+  /* --------------------------------------------------- */
+
+  /* CAROUSEL BREADS */
+
+  "flex-layout.row#carousel-breads": {
+    "props": {
+      "blockClass": "carousel-breads"
+    },
+    "children": [
+      "link.product#pao-de-linguica-link",
+      "link.product#pao-de-linguica-link"
+    ]
+  },
+
+  /* PÃO DE LINGUIÇA */
+  "link.product#pao-de-linguica-link": {
+    "props": {
+      "blockClass": ["pao-de-linguica-link", "product-link"]
+    },
+    "children": [
+      "image#pao-de-linguica",
+      "rich-text#pao-de-linguica",
+      "rich-text#pao-de-linguica-preco"
+    ]
+  },
+
+  "image#pao-de-linguica": {
+    "props": {
+      "blockClass": ["pao-de-linguica", "product-carousel"],
+      "src": "assets/imgs/pao-de-linguica-st-marche.jpg"
+    }
+  },
+
+  "rich-text#pao-de-linguica": {
+    "props": {
+      "blockClass": ["pao-de-linguica", "product-text"],
+      "text": "Pão de Linguiça ST MARCHE Pedaço 254g"
+    }
+  },
+
+  "rich-text#pao-de-linguica-preco": {
+    "props": {
+      "blockClass": ["pao-de-linguica-preco", "products-price"],
+      "text": "R$ 14,04 /un"
+    }
+  },
+
+
+  // "list-context.image-list#st-marche": {
+  //   "children": ["slider-layout#demo-images"],
+  //   "props": {
+  //     "height": 650,
+  //     "images": [
+  //       {
+  //         "image": "assets/imgs/energeticos.png",
+  //         "description": "something something"
+  //       },
+  //       {
+  //         "image": "assets/imgs/frete-gratis-banner.png",
+  //         "description": "something something"
+  //       }
+  //     ]
+  //   }
+  // },
+  
+  
+
+
+  // "list-context.image-list#demo": {
+  //   "children": [
+  //     "slider-layout#demo-images"
+  //   ],
+  //   "props": {
+  //     "height": 720,
+  //     "images": [
+  //       {
+  //         "image": "assets/imgs/vinhos.png",
+  //         "mobileImage": "assets/imgs/vinhos.png"
+  //       }
+        // {
+        //   "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
+        //   "mobileImage": "assets/imgs/chocolate.png"
+  //       // }
+  //     ]
+  //   }
+  // },
   "slider-layout#demo-images": {
     "props": {
       "itemsPerPage": {
@@ -43,7 +219,6 @@
       "blockClass": "carousel"
     }
   },
-
   "rich-text#shelf-title": {
     "props": {
       "text": "## Summer",
@@ -51,11 +226,17 @@
     }
   },
   "flex-layout.row#shelf": {
-    "children": ["list-context.product-list#demo1"]
+    "children": [
+      "list-context.product-list#demo1"
+    ]
   },
   "list-context.product-list#demo1": {
-    "blocks": ["product-summary.shelf"],
-    "children": ["slider-layout#demo-products"],
+    "blocks": [
+      "product-summary.shelf"
+    ],
+    "children": [
+      "slider-layout#demo-products"
+    ],
     "props": {
       "orderBy": "OrderByTopSaleDESC"
     }
@@ -72,7 +253,6 @@
       "blockClass": "shelf"
     }
   },
-
   "info-card#home": {
     "props": {
       "id": "info-card-home",
@@ -86,14 +266,12 @@
       "textAlignment": "center"
     }
   },
-
   "rich-text#question": {
     "props": {
       "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
       "blockClass": "question"
     }
   },
-
   "rich-text#link": {
     "props": {
       "text": "\n**Reach us at**\nwww.vtex.com.br",

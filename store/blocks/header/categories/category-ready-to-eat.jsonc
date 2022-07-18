@@ -1,0 +1,103 @@
+{
+    "menu-item#antepasto": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-antepasto",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/antepasto",
+                "noFollow": false,
+                "tagTitle": "antepasto",
+                "text": "Antepasto (12)"
+            }
+        }
+    },
+
+    "menu-item#esfiha-kibe": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-esfiha-kibe",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/esfiha-e-kibe",
+                "noFollow": false,
+                "tagTitle": "esfiha-kibe",
+                "text": "Esfiha e Kibe (8)"
+            }
+        }
+    },
+
+    "menu-item#homus-babaganuch-coalhada": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-homus-babaganuch-coalhada",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/homus-babaganuch-e-coalhada",
+                "noFollow": false,
+                "tagTitle": "homus-babaganuch-coalhada",
+                "text": "Homus, Babaganuch e Coalhada (3)"
+            }
+        }
+    },
+
+    "menu-item#pate-boursin": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pate-boursin",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pate-e-boursin",
+                "noFollow": false,
+                "tagTitle": "pate-boursin",
+                "text": "Patê e Boursin (3)"
+            }
+        }
+    },
+
+    "menu-item#pratos-prontos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pratos-prontos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pratos-prontos",
+                "noFollow": false,
+                "tagTitle": "pratos-prontos",
+                "text": "Pratos Prontos (11)"
+            }
+        }
+    },
+
+    "menu-item#torta-quiche": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-torta-quiche",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/torta-e-quiche",
+                "noFollow": false,
+                "tagTitle": "torta-quiche",
+                "text": "Torta e Quiche (1)"
+            }
+        }
+    }
+}

@@ -1,7 +1,7 @@
 {
   "flex-layout.row#deals": {
     "children": [
-      // "flex-layout.col#deals1",
+      "flex-layout.col#deals1"
       // "flex-layout.col#deals2",
       // "flex-layout.col#deals3",
       // "flex-layout.col#deals4"
@@ -19,7 +19,7 @@
   },
   "image#deal1": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+      "src": "assets/imgs/banner-st-marche-app-mobile.png",
       "maxHeight": "24px"
     }
   },

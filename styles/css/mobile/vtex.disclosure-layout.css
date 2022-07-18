@@ -1,10 +1,20 @@
 .trigger {
-    background-color: #373a3c;
+    background-color: #333333; 
     border: none;
-    /* margin-left: 10px; */
     font-size: 1.1rem;
     width: 340px;
     padding: 8px 16px;
+}
+
+/* .trigger--hidden {
+    transition: 1s ease-in-out;
+} */
+
+.trigger--visible {
+    transition: 1s ease-in-out;
+    transition-timing-function: ease;
+    transition-duration: .35s;
+    transition-property: height;
 }
 
 .trigger--butchery {

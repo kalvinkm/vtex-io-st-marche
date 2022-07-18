@@ -1,0 +1,86 @@
+{
+    "menu-item#branco": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-branco",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/branco",
+                "noFollow": false,
+                "tagTitle": "branco",
+                "text": "Branco (137)"
+            }
+        }
+    },
+
+    "menu-item#espumante": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-espumante",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/espumante",
+                "noFollow": false,
+                "tagTitle": "espumante",
+                "text": "Espumante (37)"
+            }
+        }
+    },
+
+    "menu-item#rose": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-rose",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/rose",
+                "noFollow": false,
+                "tagTitle": "rose",
+                "text": "Rosé (42)"
+            }
+        }
+    },
+
+    "menu-item#sobremesa": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sobremesa",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sobremesa",
+                "noFollow": false,
+                "tagTitle": "sobremesa",
+                "text": "Sobremesa (42)"
+            }
+        }
+    },
+
+    "menu-item#tinto": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-tinto",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/tinto",
+                "noFollow": false,
+                "tagTitle": "tinto",
+                "text": "Tinto (322)"
+            }
+        }
+    }
+}

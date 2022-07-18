@@ -1,7 +1,17 @@
+.menuContainerNav {
+    background-color: #333;
+    border-bottom: 1px solid #ccc;
+}
+
+
 .styledLink {
     color: #fff;
     font-size: 1.1rem;
     font-weight: 300;
+}
+
+.menuItem--item-accordion-content {
+    background-color: #222;
 }
 
 
@@ -11,10 +21,14 @@
 }
 
 .menuItem--highlight-st-marche {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid rgba(204, 204, 204, 0.516);
 }
 
 .styledLinkContent--item-accordion-content {
     font-size: 1rem;
     padding-left: 16px;
+}
+
+.menuItem--about {
+    border-top: 1px solid #ccc;
 }

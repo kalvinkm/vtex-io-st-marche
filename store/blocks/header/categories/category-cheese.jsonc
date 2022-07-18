@@ -1,0 +1,274 @@
+{
+    "menu-item#brie-camembert": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-brie-camembert",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/brie-e-camembert",
+                "noFollow": false,
+                "tagTitle": "brie-camembert",
+                "text": "Brie e Camembert (25)"
+            }
+        }
+    },
+
+    "menu-item#chancliche-boursin": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-chancliche-boursin",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/chancliche-e-boursin",
+                "noFollow": false,
+                "tagTitle": "chancliche-boursin",
+                "text": "Chancliche Boursin (3)"
+            }
+        }
+    },
+
+    "menu-item#coalho": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-coalho",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/coalho",
+                "noFollow": false,
+                "tagTitle": "coalho",
+                "text": "Coalho (6)"
+            }
+        }
+    },
+
+    "menu-item#edam-gouda": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-edam-gouda",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/edam-e-gouda",
+                "noFollow": false,
+                "tagTitle": "edam-gouda",
+                "text": "Edam e Gouda (13)"
+            }
+        }
+    },
+
+    "menu-item#emmental-estepe-gruyere": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-emmental-estepe-gruyere",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/emmental-estepe-e-gruyere",
+                "noFollow": false,
+                "tagTitle": "emmental-estepe-gruyere",
+                "text": "Emmental, Estepe e Gruyere (20)"
+            }
+        }
+    },
+
+    "menu-item#fondue": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-fondue",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/fondue",
+                "noFollow": false,
+                "tagTitle": "fondue",
+                "text": "Fondue (15)"
+            }
+        }
+    },
+
+    "menu-item#frescal-ricota": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-frescal-ricota",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/frescal-e-ricota",
+                "noFollow": false,
+                "tagTitle": "frescal-ricota",
+                "text": "Frescal e Ricota (32)"
+            }
+        }
+    },
+
+    "menu-item#gorgonzola-roquefort": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-gorgonzola-roquefort",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/gorgonzola-e-roquefort",
+                "noFollow": false,
+                "tagTitle": "gorgonzola-roquefort",
+                "text": "Gorgonzola e Roquefort (11)"
+            }
+        }
+    },
+    
+    "menu-item#maasdam-e-reino": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-maasdam-e-reino",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/maasdam-e-reino",
+                "noFollow": false,
+                "tagTitle": "maasdam-e-reino",
+                "text": "Massdam e Reino (2)"
+            }
+        }
+    },
+
+    "menu-item#mussarela": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-mussarela",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/mussarela",
+                "noFollow": false,
+                "tagTitle": "mussarela",
+                "text": "Mussarela (41)"
+            }
+        }
+    },
+
+    "menu-item#outros-queijos": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-outros-queijos",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/outros-queijos",
+                "noFollow": false,
+                "tagTitle": "outros-queijos",
+                "text": "Outros Queijos (42)"
+            }
+        }
+    },
+
+    "menu-item#ovelha-e-cabra": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-ovelha-e-cabra",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/ovelha-e-cabra",
+                "noFollow": false,
+                "tagTitle": "ovelha-e-cabra",
+                "text": "Ovelha e cabra (9)"
+            }
+        }
+    },
+
+    "menu-item#parmesão": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-parmesão",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/parmesao",
+                "noFollow": false,
+                "tagTitle": "parmesão",
+                "text": "Parmesão (26)"
+            }
+        }
+    },
+
+    "menu-item#prato": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-prato",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/prato",
+                "noFollow": false,
+                "tagTitle": "prato",
+                "text": "Prato (17)"
+            }
+        }
+    },
+
+    "menu-item#provolone": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-provolone",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/provolone",
+                "noFollow": false,
+                "tagTitle": "provolone",
+                "text": "Provolone (6)"
+            }
+        }
+    },
+
+    "menu-item#queijos-artesanais-brasileiros": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-queijos-artesanais-brasileiros",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/queijos-artesanais-brasileiros",
+                "noFollow": false,
+                "tagTitle": "queijos-artesanais-brasileiros",
+                "text": "Queijos Artesanais Brasileiros (21)"
+            }
+        }
+    }
+}
+

@@ -1,0 +1,35 @@
+{
+    "menu-item#focaccias": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-focaccias",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/focaccias",
+                "noFollow": false,
+                "tagTitle": "focaccias",
+                "text": "Focaccias (5)"
+            }
+        }
+    },
+
+    "menu-item#pizza": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pizza",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pizza",
+                "noFollow": false,
+                "tagTitle": "pizza",
+                "text": "Pizza (10)"
+            }
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "menu-item#padaria-st-marche": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-padaria-st-marche",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/padaria-st-marche",
+                "noFollow": false,
+                "tagTitle": "padaria-st-marche",
+                "text": "Padaria St Marche (73)"
+            }
+        }
+    },
+
+    "menu-item#pao-de-alho": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pao-de-alho",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pao-de-alho",
+                "noFollow": false,
+                "tagTitle": "pao-de-alho",
+                "text": "Pão de Alho (4)"
+            }
+        }
+    },
+
+    "menu-item#pao-forma": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pao-forma",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pao-de-forma",
+                "noFollow": false,
+                "tagTitle": "pao-forma",
+                "text": "Pão de Forma (65)"
+            }
+        }
+    },
+
+    "menu-item#pao-hamburguer": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pao-hamburguer",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pao-de-hamburguer",
+                "noFollow": false,
+                "tagTitle": "pao-hamburguer",
+                "text": "Pão de Hamburguer (11)"
+            }
+        }
+    },
+
+    "menu-item#pao-hot-dog": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pao-hot-dog",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pao-de-hot-dog",
+                "noFollow": false,
+                "tagTitle": "pao-hot-dog",
+                "text": "Pão de Hot Dog (4)"
+            }
+        }
+    },
+
+    "menu-item#pao-lanche": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pao-lanche",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pao-para-lanche",
+                "noFollow": false,
+                "tagTitle": "pao-lanche",
+                "text": "Pão para Lanche (24)"
+            }
+        }
+    },
+
+    "menu-item#pao-sirio-outros": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pao-sirio-outros",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pao-sirio-e-outros",
+                "noFollow": false,
+                "tagTitle": "pao-sirio-outros",
+                "text": "Pão Sírio e Outros (25)"
+            }
+        }
+    },
+
+    "menu-item#torradas-crostatas-artesanais": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-torradas-crostatas-artesanais",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/torradas-e-crostatas-artesanais",
+                "noFollow": false,
+                "tagTitle": "torradas-crostatas-artesanais",
+                "text": "Torradas e Crostatas Artesanais (47)"
+            }
+        }
+    }
+}
+
+//

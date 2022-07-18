@@ -1,0 +1,206 @@
+{
+    "menu-item#acai-fruta-e-polpa": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-acai-fruta-e-polpa",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/acai-fruta-e-polpa",
+                "noFollow": false,
+                "tagTitle": "acai-fruta-e-polpa",
+                "text": "Açai, Fruta e Polpa (33)"
+            }
+        }
+    },
+
+    "menu-item#carnes-exoticas-e-especiais": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-carnes-exoticas-e-especiais",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/carnes-exoticas-e-especiais",
+                "noFollow": false,
+                "tagTitle": "carnes-exoticas-e-especiais",
+                "text": "Carnes Exóticas e Especiais (1)"
+            }
+        }
+    },
+
+    "menu-item#hamburguer-congelado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-hamburguer-congelado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/hamburguer",
+                "noFollow": false,
+                "tagTitle": "hamburguer-congelado",
+                "text": "Hambúrguer (23)"
+            }
+        }
+    },
+
+    "menu-item#pao-de-queijo": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pao-de-queijo",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pao-de-queijo",
+                "noFollow": false,
+                "tagTitle": "pao-de-queijo",
+                "text": "Pão de Queijo (15)"
+            }
+        }
+    },
+
+    "menu-item#petiscos-e-empanados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-petiscos-e-empanados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/petiscos-e-empanados",
+                "noFollow": false,
+                "tagTitle": "petiscos-e-empanados",
+                "text": "Petiscos e Empanados (39)"
+            }
+        }
+    },
+
+    "menu-item#pizzas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-pizzas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/pizzas",
+                "noFollow": false,
+                "tagTitle": "pizzas",
+                "text": "Pizzas (17)"
+            }
+        }
+    },
+
+    "menu-item#plant-based": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-plant-based",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/plant-based",
+                "noFollow": false,
+                "tagTitle": "plant-based",
+                "text": "Plant Based (30)"
+            }
+        }
+    },
+
+    "menu-item#prato-pronto": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-prato-pronto",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/prato-pronto",
+                "noFollow": false,
+                "tagTitle": "prato-pronto",
+                "text": "Prato Pronto (35)"
+            }
+        }
+    },
+
+    "menu-item#sobremesas-congeladas": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sobremesas-congeladas",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sobremesas-congeladas",
+                "noFollow": false,
+                "tagTitle": "sobremesas-congeladas",
+                "text": "Sobremesas Congeladas (25)"
+            }
+        }
+    },
+
+    "menu-item#sorvetes": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-sorvetes",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/sorvetes",
+                "noFollow": false,
+                "tagTitle": "sorvetes",
+                "text": "Sorvetes (159)"
+            }
+        }
+    },
+
+    "menu-item#torta-e-quiche-congelado": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-torta-e-quiche-congelado",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/torta-e-quiche-congelado",
+                "noFollow": false,
+                "tagTitle": "torta-e-quiche-congelado",
+                "text": "Torta e Quiche Congelado (8)"
+            }
+        }
+    },
+
+    "menu-item#vegetais-congelados": {
+        "props": {
+            "blockClass": "item-accordion-content",
+            "id": "menu-item-vegetais-congelados",
+            "type": "custom",
+            "iconId": null,
+            "highlight": false,
+            "itemProps": {
+                "type": "internal",
+                "href": "https://www.marche.com.br/categorias/vegetais-congelados",
+                "noFollow": false,
+                "tagTitle": "vegetais-congelados",
+                "text": "Vegetais Congelados (24)"
+            }
+        }
+    }
+}
+
