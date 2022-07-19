@@ -17,4 +17,6 @@
 .childrenContainer--product-link {
     border: 1px solid rgba(0,0,0,0.125);
     margin: 5px;
+    margin-bottom: 0;
+    padding: 2px 0;
 }

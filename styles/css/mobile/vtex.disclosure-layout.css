@@ -1,5 +1,5 @@
 .trigger {
-    background-color: #333333; 
+    background-color: #333333;
     border: none;
     font-size: 1.1rem;
     width: 340px;
@@ -24,11 +24,18 @@
 .content {
     background-color: #222;
     width: 345px;
-    
+    transition: all 0.3s ease-in-out;
+    /* -webkit-transition: max-height 0.5s ease;
+    transition: all 0.35s ease-in-out; */
+
+}
+
+.content--visible {
+    -webkit-transition: max-height 0.5s ease;
+    transition: max-height 0.5s ease;
 }
 
 .styleLinkedContent {
     font-size: 1rem;
-    
-}
 
+}

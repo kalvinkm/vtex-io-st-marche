@@ -55,7 +55,7 @@
     font-size: 0.9rem;
 }
 
-/* CAROUSEL BREADS */
+/* CAROUSEL PRODUCTS */
 
 
 .paragraph--product-text {
@@ -87,9 +87,66 @@
 }
 
 
+.paragraph--minus-signal,
+.paragraph--adicionar,
+.paragraph--plus-signal {
+    color: #32593B;
+    padding-top: 1px;
+}
+
+.paragraph--adicionar {
+    font-size: 11px;
+    padding-top: 6px;
+    
+}
+
+.paragraph--minus-signal,
+.paragraph--plus-signal {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.paragraph--plus-signal {
+    padding-left: 30px;
+}
+
+/* SHELFS */
+
+.paragraph--discount-percentage {
+    width: 76px;
+    display: flex;
+    align-items: center;
+    padding-left: 4px;
+    font-size: .9rem;
+    color: white;
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 30%);
+    border-radius: 4px;
+    background: rgba(213,50,48,0.9);
+    -webkit-clip-path: polygon(0% 0%, 75% 0%, 90% 50%, 75% 100%, 0% 100%);
+    clip-path: polygon(0% 0%, 75% 0%, 90% 50%, 75% 100%, 0% 100%);
+}
+
+.container--old-price-text {
+    margin-left: 18px;
+}
+
+.paragraph--old-price-text {
+    color: #93A4AA;
+    text-decoration: line-through;
+    font-size: 1rem;
+    font-weight: 600;
+}
 
 
+.paragraph--shelf-prices {
+    margin-top: 4px;
+}
 
+
+.paragraph--add-items-shelf {
+    font-size: 1rem;
+    padding-top: 3px;   
+}
 
 /* FOOTER */
 

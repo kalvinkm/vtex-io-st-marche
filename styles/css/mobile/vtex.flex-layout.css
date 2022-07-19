@@ -95,6 +95,44 @@
     flex-direction: row;
 }
 
+.flexRow--button-add {
+    padding-bottom: 9px;
+    border-radius: 0 0 3px 3px;
+    background-color: #E6F5E8;
+    border: 1px solid #E6F5E8;
+    border-top-color: rgba(0,0,0,0.125);
+    width: 189px;
+    height: 30px;
+    margin: 0 0 16px 5px ;
+}
+
+.flexRowContent--button-add {
+    display: flex;
+}
+
+
+/* SHELFS */
+
+.flexRowContent--shelf-row-one,
+.flexRowContent--shelf-row-two,
+.flexRowContent--shelf-row-three {
+    display: flex;
+}
+
+
+.flexRowContent--discount-area {
+    position: absolute;
+    width: 45%;
+    filter: drop-shadow(1px 1px 2px rgba(0,0,0,0.3));
+}
+
+.flexRowContent--prices-area {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
 /* ------------------------------------------------------ */
 
 

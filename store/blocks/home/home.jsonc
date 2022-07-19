@@ -7,14 +7,16 @@
       "flex-layout.row#carousel-images",
       "flex-layout.row#primary-banner",
       "flex-layout.row#products",
-      "flex-layout.row#carousel-breads"
+      "flex-layout.row#carousel-products",
+      "flex-layout.row#shelf-row-one",
+      "flex-layout.row#shelf-row-two",
+      "flex-layout.row#shelf-row-three"
     ]
   },
 
+
   /* ------------------------------------------------------- */
-
   /* CAROUSEL --------------------------------------------- */
-
   "flex-layout.row#carousel-images": {
     "props": {
       "blockClass": "carousel-images"
@@ -25,29 +27,23 @@
   },
   "slider-layout#image-slider": {
     "props": {
-      "blockClass": "image-slider",
       "itemsPerPage": {
         "desktop": 1,
         "tablet": 1,
         "phone": 1
       },
-      "infinite": true,
-      "showNavigationArrows": "always",
-      "slideTransition": {
-        "speed": 400,
-        "delay": 0
+      "autoplay": {
+        "timeout": 3000
       },
-      "autoPlay": {
-        "timeout": 400,
-        "stopOnhOver": true
-      }
+      "infinite": true,
+      "blockClass": "image-slider",
+      "showNavigationArrows": "always"
     },
     "children": [
       "link.product#frete-gratis-banner-link",
       "link.product#energetico-mobile-link"
     ]
   },
-
   "link.product#frete-gratis-banner-link": {
     "props": {
       "blockClass": "frete-gratis-banner-link",
@@ -57,14 +53,12 @@
       "image#frete-gratis-banner"
     ]
   },
-
   "image#frete-gratis-banner": {
     "props": {
       "blockClass": "frete-gratis-banner",
       "src": "assets/imgs/frete-gratis-banner.png"
     }
   },
-
   "link.product#energetico-mobile-link": {
     "props": {
       "blockClass": "energetico-mobile-link",
@@ -74,18 +68,14 @@
       "image#energetico-mobile"
     ]
   },
-
   "image#energetico-mobile": {
     "props": {
       "blockClass": "energetico-mobile",
       "src": "assets/imgs/energetico-mobile.png"
     }
   },
-
   /* ------------------------------------------------------------ */
-
   /* PRIMARY BANNER */
-
   "flex-layout.row#primary-banner": {
     "props": {
       "blockClass": "primary-banner"
@@ -94,18 +84,14 @@
       "image#image-banner"
     ]
   },
-
   "image#image-banner": {
     "props": {
       "blockClass": "image-banner",
       "src": "assets/imgs/banner-st-marche-app-mobile.png"
     }
   },
-
   /* --------------------------------------------------- */
-
   /* PRODUCTS TEXT */
-
   "flex-layout.row#products": {
     "props": {
       "blockClass": "products"
@@ -120,55 +106,72 @@
       "text": "SUGESTÕES ESPECIAIS PARA VOCÊ"
     }
   },
-
   /* --------------------------------------------------- */
-
-  /* CAROUSEL BREADS */
-
-  "flex-layout.row#carousel-breads": {
+  /* CAROUSEL PRODUCTS */
+  "flex-layout.row#carousel-products": {
     "props": {
-      "blockClass": "carousel-breads"
+      "blockClass": "carousel-products"
     },
     "children": [
-      "link.product#pao-de-linguica-link",
-      "link.product#pao-de-linguica-link"
+      "slider-layout#product-slider"
+    ]
+  },
+  "slider-layout#product-slider": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 2
+      },
+      "autoplay": {
+        "timeout": 3000
+      },
+      "infinite": true,
+      "showNavigationArrows": "never",
+      "blockClass": "product-slider",
+      "showPaginationDots": "never"
+    },
+    "children": [
+      "flex-layout.col#folhado-passas-st-marche-column",
+      "flex-layout.col#croissant-calabresa-queijo-column",
+      "flex-layout.col#pao-gorgonzola-damasco-column",
+      "flex-layout.col#baguete-gergilin-st-marche-column",
+      "flex-layout.col#mini-marchezinho-st-marche-column",
+      "flex-layout.col#pao-italiano-st-marche-column"
     ]
   },
 
-  /* PÃO DE LINGUIÇA */
-  "link.product#pao-de-linguica-link": {
+  /* SHELF PRODUCTS */
+
+  "flex-layout.row#shelf-row-one": {
     "props": {
-      "blockClass": ["pao-de-linguica-link", "product-link"]
+      "blockClass": "shelf-row-one"
     },
     "children": [
-      "image#pao-de-linguica",
-      "rich-text#pao-de-linguica",
-      "rich-text#pao-de-linguica-preco"
+      "flex-layout.col#geleia-morango-linea-column",
+      "flex-layout.col#swiss-classic-dark-lindt-column"
     ]
   },
 
-  "image#pao-de-linguica": {
+  "flex-layout.row#shelf-row-two": {
     "props": {
-      "blockClass": ["pao-de-linguica", "product-carousel"],
-      "src": "assets/imgs/pao-de-linguica-st-marche.jpg"
-    }
+      "blockClass": "shelf-row-two"
+    },
+    "children":[
+      "flex-layout.col#scotch-whisky-dewars-column",
+      "flex-layout.col#chocolate-choc-chip-labasque-column"
+    ]
   },
 
-  "rich-text#pao-de-linguica": {
+  "flex-layout.row#shelf-row-three": {
     "props": {
-      "blockClass": ["pao-de-linguica", "product-text"],
-      "text": "Pão de Linguiça ST MARCHE Pedaço 254g"
-    }
-  },
-
-  "rich-text#pao-de-linguica-preco": {
-    "props": {
-      "blockClass": ["pao-de-linguica-preco", "products-price"],
-      "text": "R$ 14,04 /un"
-    }
-  },
-
-
+      "blockClass": "shelf-row-three"
+    },
+    "children":[
+      "flex-layout.col#brooklyn-lager-beer-column",
+      "flex-layout.col#jamon-espanol-rar-column"
+    ]
+  }
   // "list-context.image-list#st-marche": {
   //   "children": ["slider-layout#demo-images"],
   //   "props": {
@@ -185,10 +188,6 @@
   //     ]
   //   }
   // },
-  
-  
-
-
   // "list-context.image-list#demo": {
   //   "children": [
   //     "slider-layout#demo-images"
@@ -200,82 +199,82 @@
   //         "image": "assets/imgs/vinhos.png",
   //         "mobileImage": "assets/imgs/vinhos.png"
   //       }
-        // {
-        //   "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
-        //   "mobileImage": "assets/imgs/chocolate.png"
+  // {
+  //   "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
+  //   "mobileImage": "assets/imgs/chocolate.png"
   //       // }
   //     ]
   //   }
   // },
-  "slider-layout#demo-images": {
-    "props": {
-      "itemsPerPage": {
-        "desktop": 1,
-        "tablet": 1,
-        "phone": 1
-      },
-      "infinite": true,
-      "showNavigationArrows": "desktopOnly",
-      "blockClass": "carousel"
-    }
-  },
-  "rich-text#shelf-title": {
-    "props": {
-      "text": "## Summer",
-      "blockClass": "shelfTitle"
-    }
-  },
-  "flex-layout.row#shelf": {
-    "children": [
-      "list-context.product-list#demo1"
-    ]
-  },
-  "list-context.product-list#demo1": {
-    "blocks": [
-      "product-summary.shelf"
-    ],
-    "children": [
-      "slider-layout#demo-products"
-    ],
-    "props": {
-      "orderBy": "OrderByTopSaleDESC"
-    }
-  },
-  "slider-layout#demo-products": {
-    "props": {
-      "itemsPerPage": {
-        "desktop": 5,
-        "tablet": 3,
-        "phone": 1
-      },
-      "infinite": true,
-      "fullWidth": false,
-      "blockClass": "shelf"
-    }
-  },
-  "info-card#home": {
-    "props": {
-      "id": "info-card-home",
-      "isFullModeStyle": false,
-      "textPosition": "left",
-      "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "Clearance Sale",
-      "callToActionText": "DISCOVER",
-      "callToActionUrl": "/sale/d",
-      "blockClass": "info-card-home",
-      "textAlignment": "center"
-    }
-  },
-  "rich-text#question": {
-    "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
-      "blockClass": "question"
-    }
-  },
-  "rich-text#link": {
-    "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
-      "blockClass": "link"
-    }
-  }
+  // "slider-layout#demo-images": {
+  //   "props": {
+  //     "itemsPerPage": {
+  //       "desktop": 1,
+  //       "tablet": 1,
+  //       "phone": 1
+  //     },
+  //     "infinite": true,
+  //     "showNavigationArrows": "desktopOnly",
+  //     "blockClass": "carousel"
+  //   }
+  // },
+  // "rich-text#shelf-title": {
+  //   "props": {
+  //     "text": "## Summer",
+  //     "blockClass": "shelfTitle"
+  //   }
+  // },
+  // "flex-layout.row#shelf": {
+  //   "children": [
+  //     "list-context.product-list#demo1"
+  //   ]
+  // },
+  // "list-context.product-list#demo1": {
+  //   "blocks": [
+  //     "product-summary.shelf"
+  //   ],
+  //   "children": [
+  //     "slider-layout#demo-products"
+  //   ],
+  //   "props": {
+  //     "orderBy": "OrderByTopSaleDESC"
+  //   }
+  // },
+  // "slider-layout#demo-products": {
+  //   "props": {
+  //     "itemsPerPage": {
+  //       "desktop": 5,
+  //       "tablet": 3,
+  //       "phone": 1
+  //     },
+  //     "infinite": true,
+  //     "fullWidth": false,
+  //     "blockClass": "shelf"
+  //   }
+  // },
+  // "info-card#home": {
+  //   "props": {
+  //     "id": "info-card-home",
+  //     "isFullModeStyle": false,
+  //     "textPosition": "left",
+  //     "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
+  //     "headline": "Clearance Sale",
+  //     "callToActionText": "DISCOVER",
+  //     "callToActionUrl": "/sale/d",
+  //     "blockClass": "info-card-home",
+  //     "textAlignment": "center"
+  //   }
+  // },
+  // "rich-text#question": {
+  //   "props": {
+  //     "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+  //     "blockClass": "question"
+  //   }
+  // },
+  // "rich-text#link": {
+  //   "props": {
+  //     "text": "\n**Reach us at**\nwww.vtex.com.br",
+  //     "blockClass": "link"
+  //   }
+  // }
 }

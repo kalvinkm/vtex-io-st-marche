@@ -1,0 +1,570 @@
+{
+  /* FOLHADO DE PASSAS ST MARCHE*/
+
+  "flex-layout.col#folhado-passas-st-marche-column": {
+    "props": {
+      "blockClass": "folhado-passas-st-marche-column"
+    },
+    "children": [
+      "link.product#folhado-passas-st-marche-link",
+      "flex-layout.row#button-add-folhado-passas-st-marche"
+    ]
+  },
+  
+  "link.product#folhado-passas-st-marche-link": {
+    "props": {
+      "blockClass": [
+        "folhado-passas-st-marche-link",
+        "product-link"
+      ],
+      "href": "https://www.marche.com.br/produtos/folhado-de-passas-st-marche"
+    },
+    "children": [
+      "image#folhado-passas-st-marche",
+      "rich-text#folhado-passas-st-marche",
+      "rich-text#folhado-passas-st-marche-preco"
+    ]
+  },
+  "image#folhado-passas-st-marche": {
+    "props": {
+      "blockClass": [
+        "folhado-passas-st-marche",
+        "product-carousel"
+      ],
+      "src": "assets/imgs/products/folhado-passas-st-marche.png"
+    }
+  },
+  "rich-text#folhado-passas-st-marche": {
+    "props": {
+      "blockClass": [
+        "folhado-passas-st-marche",
+        "product-text"
+      ],
+      "text": "Folhado de Passas ST MARCHE"
+    }
+  },
+  "rich-text#folhado-passas-st-marche-preco": {
+    "props": {
+      "blockClass": [
+        "folhado-passas-st-marche-preco",
+        "products-price"
+      ],
+      "text": "R$ 10,50 /un"
+    }
+  },
+  "flex-layout.row#button-add-folhado-passas-st-marche": {
+    "props": {
+      "blockClass": [
+        "button-add-folhado-passas-st-marche",
+        "button-add"
+      ]
+    },
+    "children": [
+      "rich-text#minus-signal-folhado-passas-st-marche",
+      "rich-text#adicionar-folhado-passas-st-marche",
+      "rich-text#plus-signal-folhado-passas-st-marche"
+    ]
+  },
+  "rich-text#minus-signal-folhado-passas-st-marche": {
+    "props": {
+      "blockClass": [
+        "minus-signal-folhado-passas-st-marche",
+        "minus-signal"
+      ],
+      "text": "-"
+    }
+  },
+  "rich-text#adicionar-folhado-passas-st-marche": {
+    "props": {
+      "blockClass": [
+        "adicionar-folhado-passas-st-marche",
+        "adicionar"
+      ],
+      "text": "Adicionar"
+    }
+  },
+  "rich-text#plus-signal-folhado-passas-st-marche": {
+    "props": {
+      "blockClass": [
+        "plus-signal-folhado-passas-st-marche",
+        "plus-signal"
+      ],
+      "text": "+"
+    }
+  },
+
+  /* CROISSANT CALABRESA E QUEIJO */
+
+  "flex-layout.col#croissant-calabresa-queijo-column": {
+    "props": {
+      "blockClass": "croissant-calabresa-queijo-column"
+    },
+    "children": [
+      "link.product#croissant-calabresa-queijo-link",
+      "flex-layout.row#button-add-croissant-calabresa-queijo"
+    ]
+  },
+  
+  "link.product#croissant-calabresa-queijo-link": {
+    "props": {
+      "blockClass": [
+        "croissant-calabresa-queijo-link",
+        "product-link"
+      ],
+      "href": "https://www.marche.com.br/produtos/croissant-calabresa-e-queijo-st-marche-100g "
+    },
+    "children": [
+      "image#croissant-calabresa-queijo",
+      "rich-text#croissant-calabresa-queijo",
+      "rich-text#croissant-calabresa-queijo-preco"
+    ]
+  },
+  "image#croissant-calabresa-queijo": {
+    "props": {
+      "blockClass": [
+        "croissant-calabresa-queijo",
+        "product-carousel"
+      ],
+      "src": "assets/imgs/products/croissant-calabresa-queijo.jpg"
+    }
+  },
+  "rich-text#croissant-calabresa-queijo": {
+    "props": {
+      "blockClass": [
+        "croissant-calabresa-queijo",
+        "product-text"
+      ],
+      "text": "Croissant  Calabresa E Queijo ST MARCHE 100g"
+    }
+  },
+  "rich-text#croissant-calabresa-queijo-preco": {
+    "props": {
+      "blockClass": [
+        "croissant-calabresa-queijo-preco",
+        "products-price"
+      ],
+      "text": "R$ 9,90 /un"
+    }
+  },
+  "flex-layout.row#button-add-croissant-calabresa-queijo": {
+    "props": {
+      "blockClass": [
+        "button-add-croissant-calabresa-queijo",
+        "button-add"
+      ]
+    },
+    "children": [
+      "rich-text#minus-signal-croissant-calabresa-queijo",
+      "rich-text#adicionar-croissant-calabresa-queijo",
+      "rich-text#plus-signal-croissant-calabresa-queijo"
+    ]
+  },
+  "rich-text#minus-signal-croissant-calabresa-queijo": {
+    "props": {
+      "blockClass": [
+        "minus-signal-croissant-calabresa-queijo",
+        "minus-signal"
+      ],
+      "text": "-"
+    }
+  },
+  "rich-text#adicionar-croissant-calabresa-queijo": {
+    "props": {
+      "blockClass": [
+        "adicionar-croissant-calabresa-queijo",
+        "adicionar"
+      ],
+      "text": "Adicionar"
+    }
+  },
+  "rich-text#plus-signal-croissant-calabresa-queijo": {
+    "props": {
+      "blockClass": [
+        "plus-signal-croissant-calabresa-queijo",
+        "plus-signal"
+      ],
+      "text": "+"
+    }
+  },
+
+  /* PÃO DE GORGONZOLA COM DAMASCO */
+
+  "flex-layout.col#pao-gorgonzola-damasco-column": {
+    "props": {
+      "blockClass": "pao-gorgonzola-damasco-column"
+    },
+    "children": [
+      "link.product#pao-gorgonzola-damasco-link",
+      "flex-layout.row#button-add-pao-gorgonzola-damasco"
+    ]
+  },
+
+
+  "link.product#pao-gorgonzola-damasco-link": {
+    "props": {
+      "blockClass": [
+        "pao-gorgonzola-damasco-link",
+        "product-link"
+      ],
+      "href": "https://www.marche.com.br/produtos/pao-gorgonzola-e-damasco-st-marche"
+    },
+    "children": [
+      "image#pao-gorgonzola-damasco",
+      "rich-text#pao-gorgonzola-damasco",
+      "rich-text#pao-gorgonzola-damasco-preco"
+    ]
+  },
+  "image#pao-gorgonzola-damasco": {
+    "props": {
+      "blockClass": [
+        "pao-gorgonzola-damasco",
+        "product-carousel"
+      ],
+      "src": "assets/imgs/products/pao-gorgonzola-damasco.jpg"
+    }
+  },
+  "rich-text#pao-gorgonzola-damasco": {
+    "props": {
+      "blockClass": [
+        "pao-gorgonzola-damasco",
+        "product-text"
+      ],
+      "text": "Pão Gorgonzola e Damasco ST MARCHE"
+    }
+  },
+  "rich-text#pao-gorgonzola-damasco-preco": {
+    "props": {
+      "blockClass": [
+        "pao-gorgonzola-damasco-preco",
+        "products-price"
+      ],
+      "text": "R$ 22,41 /un"
+    }
+  },
+  "flex-layout.row#button-add-pao-gorgonzola-damasco": {
+    "props": {
+      "blockClass": [
+        "button-add-pao-gorgonzola-damasco",
+        "button-add"
+      ]
+    },
+    "children": [
+      "rich-text#minus-signal-pao-gorgonzola-damasco",
+      "rich-text#adicionar-pao-gorgonzola-damasco",
+      "rich-text#plus-signal-pao-gorgonzola-damasco"
+    ]
+  },
+  "rich-text#minus-signal-pao-gorgonzola-damasco": {
+    "props": {
+      "blockClass": [
+        "minus-signal-pao-gorgonzola-damasco",
+        "minus-signal"
+      ],
+      "text": "-"
+    }
+  },
+  "rich-text#adicionar-pao-gorgonzola-damasco": {
+    "props": {
+      "blockClass": [
+        "adicionar-pao-gorgonzola-damasco",
+        "adicionar"
+      ],
+      "text": "Adicionar"
+    }
+  },
+  "rich-text#plus-signal-pao-gorgonzola-damasco": {
+    "props": {
+      "blockClass": [
+        "plus-signal-pao-gorgonzola-damasco",
+        "plus-signal"
+      ],
+      "text": "+"
+    }
+  },
+
+  /* BAGUETE GERGILIN ST MARCHE */
+
+  "flex-layout.col#baguete-gergilin-st-marche-column": {
+    "props": {
+      "blockClass": "baguete-gergilin-st-marche-column"
+    },
+    "children": [
+      "link.product#baguete-gergilin-st-marche-link",
+      "flex-layout.row#button-add-baguete-gergilin-st-marche"
+    ]
+  },
+
+
+  "link.product#baguete-gergilin-st-marche-link": {
+    "props": {
+      "blockClass": [
+        "baguete-gergilin-st-marche-link",
+        "product-link"
+      ],
+      "href": "https://www.marche.com.br/produtos/baguete-com-gergelim-mini-st-marche"
+    },
+    "children": [
+      "image#baguete-gergilin-st-marche",
+      "rich-text#baguete-gergilin-st-marche",
+      "rich-text#baguete-gergilin-st-marche-preco"
+    ]
+  },
+  "image#baguete-gergilin-st-marche": {
+    "props": {
+      "blockClass": [
+        "baguete-gergilin-st-marche",
+        "product-carousel"
+      ],
+      "src": "assets/imgs/products/baguete-gergilin-st-marche.jpg"
+    }
+  },
+  "rich-text#baguete-gergilin-st-marche": {
+    "props": {
+      "blockClass": [
+        "baguete-gergilin-st-marche",
+        "product-text"
+      ],
+      "text": "Baguete Com Gergelim Mini ST MARCHE"
+    }
+  },
+  "rich-text#baguete-gergilin-st-marche-preco": {
+    "props": {
+      "blockClass": [
+        "baguete-gergilin-st-marche-preco",
+        "products-price"
+      ],
+      "text": "R$ 3,09 /un"
+    }
+  },
+  "flex-layout.row#button-add-baguete-gergilin-st-marche": {
+    "props": {
+      "blockClass": [
+        "button-add-baguete-gergilin-st-marche",
+        "button-add"
+      ]
+    },
+    "children": [
+      "rich-text#minus-signal-baguete-gergilin-st-marche",
+      "rich-text#adicionar-baguete-gergilin-st-marche",
+      "rich-text#plus-signal-baguete-gergilin-st-marche"
+    ]
+  },
+  "rich-text#minus-signal-baguete-gergilin-st-marche": {
+    "props": {
+      "blockClass": [
+        "minus-signal-baguete-gergilin-st-marche",
+        "minus-signal"
+      ],
+      "text": "-"
+    }
+  },
+  "rich-text#adicionar-baguete-gergilin-st-marche": {
+    "props": {
+      "blockClass": [
+        "adicionar-baguete-gergilin-st-marche",
+        "adicionar"
+      ],
+      "text": "Adicionar"
+    }
+  },
+  "rich-text#plus-signal-baguete-gergilin-st-marche": {
+    "props": {
+      "blockClass": [
+        "plus-signal-baguete-gergilin-st-marche",
+        "plus-signal"
+      ],
+      "text": "+"
+    }
+  },
+
+
+  /* MINI MARCHEZINHO ST MARCHE */
+
+  "flex-layout.col#mini-marchezinho-st-marche-column": {
+    "props": {
+      "blockClass": "mini-marchezinho-st-marche-column"
+    },
+    "children": [
+      "link.product#mini-marchezinho-st-marche-link",
+      "flex-layout.row#button-add-mini-marchezinho-st-marche"
+    ]
+  },
+
+
+  "link.product#mini-marchezinho-st-marche-link": {
+    "props": {
+      "blockClass": [
+        "mini-marchezinho-st-marche-link",
+        "product-link"
+      ],
+      "href": ""
+    },
+    "children": [
+      "image#mini-marchezinho-st-marche",
+      "rich-text#mini-marchezinho-st-marche",
+      "rich-text#mini-marchezinho-st-marche-preco"
+    ]
+  },
+  "image#mini-marchezinho-st-marche": {
+    "props": {
+      "blockClass": [
+        "mini-marchezinho-st-marche",
+        "product-carousel"
+      ],
+      "src": "assets/imgs/products/mini-marchezinho-st-marche.jpg"
+    }
+  },
+  "rich-text#mini-marchezinho-st-marche": {
+    "props": {
+      "blockClass": [
+        "mini-marchezinho-st-marche",
+        "product-text"
+      ],
+      "text": "Mini Marchezinho ST MARCHE"
+    }
+  },
+  "rich-text#mini-marchezinho-st-marche-preco": {
+    "props": {
+      "blockClass": [
+        "mini-marchezinho-st-marche-preco",
+        "products-price"
+      ],
+      "text": "R$ 1,24 /un"
+    }
+  },
+  "flex-layout.row#button-add-mini-marchezinho-st-marche": {
+    "props": {
+      "blockClass": [
+        "button-add-mini-marchezinho-st-marche",
+        "button-add"
+      ]
+    },
+    "children": [
+      "rich-text#minus-signal-mini-marchezinho-st-marche",
+      "rich-text#adicionar-mini-marchezinho-st-marche",
+      "rich-text#plus-signal-mini-marchezinho-st-marche"
+    ]
+  },
+  "rich-text#minus-signal-mini-marchezinho-st-marche": {
+    "props": {
+      "blockClass": [
+        "minus-signal-mini-marchezinho-st-marche",
+        "minus-signal"
+      ],
+      "text": "-"
+    }
+  },
+  "rich-text#adicionar-mini-marchezinho-st-marche": {
+    "props": {
+      "blockClass": [
+        "adicionar-mini-marchezinho-st-marche",
+        "adicionar"
+      ],
+      "text": "Adicionar"
+    }
+  },
+  "rich-text#plus-signal-mini-marchezinho-st-marche": {
+    "props": {
+      "blockClass": [
+        "plus-signal-mini-marchezinho-st-marche",
+        "plus-signal"
+      ],
+      "text": "+"
+    }
+  },
+
+  /* PÃO ITALIANO */
+
+  "flex-layout.col#pao-italiano-st-marche-column": {
+    "props": {
+      "blockClass": "pao-italiano-st-marche-column"
+    },
+    "children": [
+      "link.product#pao-italiano-st-marche-link",
+      "flex-layout.row#button-add-pao-italiano-st-marche"
+    ]
+  },
+
+
+  "link.product#pao-italiano-st-marche-link": {
+    "props": {
+      "blockClass": [
+        "pao-italiano-st-marche-link",
+        "product-link"
+      ],
+      "href": "https://www.marche.com.br/produtos/pao-italiano-st-marche-bola-fatiado"
+    },
+    "children": [
+      "image#pao-italiano-st-marche",
+      "rich-text#pao-italiano-st-marche",
+      "rich-text#pao-italiano-st-marche-preco"
+    ]
+  },
+  "image#pao-italiano-st-marche": {
+    "props": {
+      "blockClass": [
+        "pao-italiano-st-marche",
+        "product-carousel"
+      ],
+      "src": "assets/imgs/products/pao-italiano-st-marche.jpg"
+    }
+  },
+  "rich-text#pao-italiano-st-marche": {
+    "props": {
+      "blockClass": [
+        "pao-italiano-st-marche",
+        "product-text"
+      ],
+      "text": "Pão Italiano ST MARCHE Bola Fatiado"
+    }
+  },
+  "rich-text#pao-italiano-st-marche-preco": {
+    "props": {
+      "blockClass": [
+        "pao-italiano-st-marche-preco",
+        "products-price"
+      ],
+      "text": "R$ 20,26 /un"
+    }
+  },
+  "flex-layout.row#button-add-pao-italiano-st-marche": {
+    "props": {
+      "blockClass": [
+        "button-add-pao-italiano-st-marche",
+        "button-add"
+      ]
+    },
+    "children": [
+      "rich-text#minus-signal-pao-italiano-st-marche",
+      "rich-text#adicionar-pao-italiano-st-marche",
+      "rich-text#plus-signal-pao-italiano-st-marche"
+    ]
+  },
+  "rich-text#minus-signal-pao-italiano-st-marche": {
+    "props": {
+      "blockClass": [
+        "minus-signal-pao-italiano-st-marche",
+        "minus-signal"
+      ],
+      "text": "-"
+    }
+  },
+  "rich-text#adicionar-pao-italiano-st-marche": {
+    "props": {
+      "blockClass": [
+        "adicionar-pao-italiano-st-marche",
+        "adicionar"
+      ],
+      "text": "Adicionar"
+    }
+  },
+  "rich-text#plus-signal-pao-italiano-st-marche": {
+    "props": {
+      "blockClass": [
+        "plus-signal-pao-italiano-st-marche",
+        "plus-signal"
+      ],
+      "text": "+"
+    }
+  }
+}
