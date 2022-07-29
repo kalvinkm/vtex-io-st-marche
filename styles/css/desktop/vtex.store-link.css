@@ -1,0 +1,25 @@
+
+.link--header-navigation-desktop-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 53px;
+}
+
+
+
+.link--header-navigation-desktop-link:hover {
+    background-color: #ACB753;
+    
+}
+
+
+
+
+/* FOOTER */
+
+.link--footer-desktop-link {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}

@@ -1,0 +1,163 @@
+{
+    /* GREGO */
+    "link.product#grego-link": {
+        "props": {
+            "blockClass": [
+                "grego-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/grego",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#grego-text"
+        ]
+    },
+    "rich-text#grego-text": {
+        "props": {
+            "blockClass": [
+                "grego-text",
+                "categorias-text"
+            ],
+            "text": "Grego (25)"
+        }
+    },
+    /* LEITE FERMENTADO */
+    "link.product#leite-fermentado-link": {
+        "props": {
+            "blockClass": [
+                "leite-fermentado-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/leite-fermentado",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#leite-fermentado-text"
+        ]
+    },
+    "rich-text#leite-fermentado-text": {
+        "props": {
+            "blockClass": [
+                "leite-fermentado-text",
+                "categorias-text"
+            ],
+            "text": "Leite Fermentado (19)"
+        }
+    },
+    /* LÍQUIDO E POLPA */
+    "link.product#liquido-e-polpa-link": {
+        "props": {
+            "blockClass": [
+                "liquido-e-polpa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/liquido-e-polpa",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#liquido-e-polpa-text"
+        ]
+    },
+    "rich-text#liquido-e-polpa-text": {
+        "props": {
+            "blockClass": [
+                "liquido-e-polpa-text",
+                "categorias-text"
+            ],
+            "text": "Líquido e Polpa (19)"
+        }
+    },
+    /* NATURAL */
+    "link.product#natural-link": {
+        "props": {
+            "blockClass": [
+                "natural-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/natural",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#natural-text"
+        ]
+    },
+    "rich-text#natural-text": {
+        "props": {
+            "blockClass": [
+                "natural-text",
+                "categorias-text"
+            ],
+            "text": "Natural (32)"
+        }
+    },
+    /* PETIT SUISSE E SOBREMESA */
+    "link.product#petit-suisse-e-sobremesa-link": {
+        "props": {
+            "blockClass": [
+                "petit-suisse-e-sobremesa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/petit-suisse-e-sobremesa",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#petit-suisse-e-sobremesa-text"
+        ]
+    },
+    "rich-text#petit-suisse-e-sobremesa-text": {
+        "props": {
+            "blockClass": [
+                "petit-suisse-e-sobremesa-text",
+                "categorias-text"
+            ],
+            "text": "Petit Suísse e Sobremesa (17)"
+        }
+    },
+    /* PROTEÍNA*/
+    "link.product#proteina-link": {
+        "props": {
+            "blockClass": [
+                "proteina-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/proteina",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#proteina-text"
+        ]
+    },
+    "rich-text#proteina-text": {
+        "props": {
+            "blockClass": [
+                "proteina-text",
+                "categorias-text"
+            ],
+            "text": "Proteína (26)"
+        }
+    },
+    /* ZERO LACTOSE*/
+    "link.product#zero-lactose-link": {
+        "props": {
+            "blockClass": [
+                "zero-lactose-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/zero-lactose",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#zero-lactose-text"
+        ]
+    },
+    "rich-text#zero-lactose-text": {
+        "props": {
+            "blockClass": [
+                "zero-lactose-text",
+                "categorias-text"
+            ],
+            "text": "Zero Lactose (33)"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    /* MASSA FRESCA */
+    "link.product#massa-fresca-link": {
+        "props": {
+            "blockClass": [
+                "massa-fresca-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/massa-fresca",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#massa-fresca-text"
+        ]
+    },
+    "rich-text#massa-fresca-text": {
+        "props": {
+            "blockClass": [
+                "massa-fresca-text",
+                "categorias-text"
+            ],
+            "text": "Massa Fresca (59)"
+        }
+    },
+
+    /* MASSAS */
+    "link.product#massa-link": {
+        "props": {
+            "blockClass": [
+                "massa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/massas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#massa-text"
+        ]
+    },
+    "rich-text#massa-text": {
+        "props": {
+            "blockClass": [
+                "massa-text",
+                "categorias-text"
+            ],
+            "text": "Massas (12)"
+        }
+    },
+
+    /* MASSAS SECA */
+    "link.product#massa-seca-link": {
+        "props": {
+            "blockClass": [
+                "massa-seca-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/massa-seca",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#massa-seca-text"
+        ]
+    },
+    "rich-text#massa-seca-text": {
+        "props": {
+            "blockClass": [
+                "massa-seca-text",
+                "categorias-text"
+            ],
+            "text": "Massas Seca (229)"
+        }
+    },
+
+    /* MOLHO E EXTRATO */
+    "link.product#molho-e-extrato-link": {
+        "props": {
+            "blockClass": [
+                "molho-e-extrato-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/molho-e-extrato",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#molho-e-extrato-text"
+        ]
+    },
+    "rich-text#molho-e-extrato-text": {
+        "props": {
+            "blockClass": [
+                "molho-e-extrato-text",
+                "categorias-text"
+            ],
+            "text": "Molho e Extrato (71)"
+        }
+    },
+
+    /* MOLHO FRESCO */
+    "link.product#molho-fresco-link": {
+        "props": {
+            "blockClass": [
+                "molho-fresco-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/molho-fresco",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#molho-fresco-text"
+        ]
+    },
+    "rich-text#molho-fresco-text": {
+        "props": {
+            "blockClass": [
+                "molho-fresco-text",
+                "categorias-text"
+            ],
+            "text": "Molho Fresco (6)"
+        }
+    }
+}

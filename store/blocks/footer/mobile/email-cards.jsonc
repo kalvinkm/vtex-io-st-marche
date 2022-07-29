@@ -1,0 +1,71 @@
+{
+    "flex-layout.row#mobile-footer-email-cards": {
+        "props": {
+          "blockClass": "mobile-footer-email-disclaimer"
+        },
+        "children": [
+          "flex-layout.row#cards-row",
+          "link.product#email-link"
+        ]
+      },
+
+      "flex-layout.row#cards-row": {
+        "props": {
+          "blockClass": "cards-row"
+        },
+        "children": [
+          "image#american-express-card",
+          "image#elo-card",
+          "image#master-card",
+          "image#visa-card"
+        ]
+      },
+      "image#american-express-card": {
+        "props": {
+          "blockClass": ["american-express-card", "cards-image"],
+          "src": "assets/imgs/cards/american-express-cards.png"
+        }
+      },
+
+      "image#elo-card": {
+        "props": {
+          "blockClass": ["elo-card", "cards-image"],
+          "src": "assets/imgs/cards/elo-cards.png"
+        }
+      },
+
+      "image#master-card": {
+        "props": {
+          "blockClass": ["master-card", "cards-image"],
+          "src": "assets/imgs/cards/master-card-cards.png"
+        }
+      },
+
+      "image#visa-card": {
+        "props": {
+          "blockClass": ["visa-cards", "cards-image"],
+          "src": "assets/imgs/cards/visa-cards.png"
+        }
+      },
+
+
+    
+      "link.product#email-link": {
+        "props": {
+          "blockClass": "email-link",
+          "href": "mailto:ajuda@marche.com.br"
+        },
+        "children": [
+          "rich-text#email"
+        ]
+      },
+    
+    
+      "rich-text#email": {
+        "props": {
+          "blockClass": "email",
+          "text": "![email](assets/imgs/mail.jpg) ajuda@marche.com.br"
+        }
+      }
+    
+}

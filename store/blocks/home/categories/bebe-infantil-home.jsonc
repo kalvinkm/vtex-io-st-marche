@@ -1,0 +1,121 @@
+{
+    /* FÓRMULA INFANTIL */
+    "link.product#formula-infantil-link": {
+        "props": {
+            "blockClass": [
+                "formula-infantil-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/formula-infantil",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#formula-infantil-text"
+        ]
+    },
+    "rich-text#formula-infantil-text": {
+        "props": {
+            "blockClass": [
+                "formula-infantil-text",
+                "categorias-text"
+            ],
+            "text": "Fórmula Infantil (21)"
+        }
+    },
+
+    /* FRALDAS */
+    "link.product#fraldas-link": {
+        "props": {
+            "blockClass": [
+                "fraldas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/fraldas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#fraldas-text"
+        ]
+    },
+    "rich-text#fraldas-text": {
+        "props": {
+            "blockClass": [
+                "fraldas-text",
+                "categorias-text"
+            ],
+            "text": "Fraldas (8)"
+        }
+    },
+
+    /* HIGIENE */
+    "link.product#higiene-link": {
+        "props": {
+            "blockClass": [
+                "higiene-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/higiene",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#higiene-text"
+        ]
+    },
+    "rich-text#higiene-text": {
+        "props": {
+            "blockClass": [
+                "higiene-text",
+                "categorias-text"
+            ],
+            "text": "Higiene (35)"
+        }
+    },
+
+    /* LENÇOS UMEDECIDOS */
+    "link.product#lencos-umedecidos-link": {
+        "props": {
+            "blockClass": [
+                "lencos-umedecidos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/lencos-umedecidos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#lencos-umedecidos-text"
+        ]
+    },
+    "rich-text#lencos-umedecidos-text": {
+        "props": {
+            "blockClass": [
+                "lencos-umedecidos-text",
+                "categorias-text"
+            ],
+            "text": "Lenços Umedecidos (15)"
+        }
+    },
+
+    /* PAPINHAS */
+    "link.product#papinhas-link": {
+        "props": {
+            "blockClass": [
+                "papinhas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/papinhas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#papinhas-text"
+        ]
+    },
+    "rich-text#papinhas-text": {
+        "props": {
+            "blockClass": [
+                "papinhas-text",
+                "categorias-text"
+            ],
+            "text": "Papinhas (30)"
+        }
+    }
+}

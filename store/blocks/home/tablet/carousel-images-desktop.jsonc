@@ -1,0 +1,119 @@
+{
+     /* CAROUSEL DESKTOP */
+
+  "flex-layout.row#carousel-images": {
+    "props": {
+      "blockClass": "carousel-images"
+    },
+    "children": [
+      "slider-layout#image-slider"
+    ]
+  },
+
+  "slider-layout#image-slider": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 1
+      },
+      "autoplay": {
+        "timeout": 3000
+      },
+      "infinite": true,
+      "blockClass": "image-slider-desktop",
+      "showNavigationArrows": "always"
+    },
+    "children": [
+      "link.product#cafe-da-manha-image-link",
+      "link.product#selecao-adega-image-link",
+      "link.product#ofertas-exclusivas-st-marche-image-link",
+      "link.product#cervejas-artesanais-image-link",
+      "link.product#pra-ficar-ligado-image-link"
+    ]
+  },
+  "link.product#cafe-da-manha-image-link": {
+    "props": {
+      "blockClass": "cafe-da-manha-bem-link",
+      "href": "https://www.marche.com.br/window_displays/cafe-da-manha"
+    },
+    "children": [
+      "image#cafe-da-manha-image-tablet"
+    ]
+  },
+
+  "image#cafe-da-manha-image-tablet":{
+    "props": {
+      "blockClass": ["cafe-da-manha-image-tablet", "images-tablet"],
+      "src": "assets/imgs/banner-desktop/cafe-da-manha.png"
+    }
+  },
+
+  "link.product#selecao-adega-image-link": {
+    "props": {
+      "blockClass": "selecao-adega-link",
+      "href": "https://www.marche.com.br/window_displays/selecao-adega"
+    },
+    "children": [
+      "image#selecao-adega-image-tablet"
+    ]
+  },
+
+  "image#selecao-adega-image-tablet":{
+    "props": {
+      "blockClass": ["selecao-adega-image-tablet", "images-tablet"],
+      "src": "assets/imgs/banner-desktop/bebidas-33.png"
+    }
+  },
+
+  "link.product#ofertas-exclusivas-st-marche-image-link": {
+    "props": {
+      "blockClass": "ofertas-exclusivas-st-marche-link",
+      "href": "http://www.marche.com.br/window_displays/ofertas-exclusivas-st-marche-de-21-07-a-24-07/"
+    },
+    "children": [
+      "image#ofertas-exclusivas-st-marche-image-tablet"
+    ]
+  },
+
+  "image#ofertas-exclusivas-st-marche-image-tablet":{
+    "props": {
+      "blockClass": ["ofertas-exclusivas-st-marche-image-tablet", "images-tablet"],
+      "src": "assets/imgs/banner-desktop/ofertas-exclusivas-st-marche.png"
+    }
+  },
+
+  "link.product#cervejas-artesanais-image-link": {
+    "props": {
+      "blockClass": "cervejas-artesanais-link",
+      "href": "https://www.marche.com.br/window_displays/especial-cervejas-artesanais"
+    },
+    "children": [
+      "image#cervejas-artesanais-image-tablet"
+    ]
+  },
+
+  "image#cervejas-artesanais-image-tablet":{
+    "props": {
+      "blockClass": ["cervejas-artesanais-image-tablet", "images-tablet"],
+      "src": "assets/imgs/banner-desktop/cervejas-artesanais.png"
+    }
+  },
+
+  "link.product#pra-ficar-ligado-image-link": {
+    "props": {
+      "blockClass": "pra-ficar-ligado-link",
+      "href": "https://www.marche.com.br/window_displays/pra-ficar-ligado"
+    },
+    "children": [
+      "image#pra-ficar-ligado-image-tablet"
+    ]
+  },
+
+  "image#pra-ficar-ligado-image-tablet":{
+    "props": {
+      "blockClass": ["pra-ficar-ligado-image-tablet", "images-tablet"],
+      "src": "assets/imgs/banner-desktop/pra-ficar-ligado.png"
+    }
+  }
+}

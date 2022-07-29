@@ -128,9 +128,6 @@
     }
   },
   "disclosure-layout#butchery": {
-    "props": {
-      "animated": true
-    },
     "children": [
       "disclosure-trigger#butchery",
       "disclosure-content#butchery"

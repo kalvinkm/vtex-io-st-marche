@@ -1,0 +1,169 @@
+{
+    /* MORTADELA */
+    "link.product#mortadela-link": {
+        "props": {
+            "blockClass": [
+                "mortadela-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/mortadela",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#mortadela-text"
+        ]
+    },
+    "rich-text#mortadela-text": {
+        "props": {
+            "blockClass": [
+                "mortadela-text",
+                "categorias-text"
+            ],
+            "text": "Mortadela (8)"
+        }
+    },
+
+    /* OUTROS EMBUTIDOS */
+    "link.product#outros-embutidos-link": {
+        "props": {
+            "blockClass": [
+                "outros-embutidos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/outros-embutidos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#outros-embutidos-text"
+        ]
+    },
+    "rich-text#outros-embutidos-text": {
+        "props": {
+            "blockClass": [
+                "outros-embutidos-text",
+                "categorias-text"
+            ],
+            "text": "Outros Embutidos (1)"
+        }
+    },
+
+    /* PEITO DE PERU< CHESTER E FRANGO */
+    "link.product#peito-de-peru-chester-e-frango-link": {
+        "props": {
+            "blockClass": [
+                "peito-de-peru-chester-e-frango-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/peito-de-peru-chester-e-frango",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#peito-de-peru-chester-e-frango-text"
+        ]
+    },
+    "rich-text#peito-de-peru-chester-e-frango-text": {
+        "props": {
+            "blockClass": [
+                "peito-de-peru-chester-e-frango-text",
+                "categorias-text"
+            ],
+            "text": "Peito de Peru, Chester e Frango (13)"
+        }
+    },
+
+    /* PRESUNTO COZIDO */
+    "link.product#presunto-cozido-link": {
+        "props": {
+            "blockClass": [
+                "presunto-cozido-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/presunto-cozido",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#presunto-cozido-text"
+        ]
+    },
+    "rich-text#presunto-cozido-text": {
+        "props": {
+            "blockClass": [
+                "presunto-cozido-text",
+                "categorias-text"
+            ],
+            "text": "Presunto Cozido (1)"
+        }
+    },
+
+    /* PRESUNTO CRU E PARMA */
+    "link.product#presunto-cru-e-parma-link": {
+        "props": {
+            "blockClass": [
+                "presunto-cru-e-parma-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/presunto-cru-e-parma",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#presunto-cru-e-parma-text"
+        ]
+    },
+    "rich-text#presunto-cru-e-parma-text": {
+        "props": {
+            "blockClass": [
+                "presunto-cru-e-parma-text",
+                "categorias-text"
+            ],
+            "text": "Presunto Cru e Parma (20)"
+        }
+    },
+
+    /* ROSBIFE E PASTRAMI */
+    "link.product#rosbife-e-pastrami-link": {
+        "props": {
+            "blockClass": [
+                "rosbife-e-pastrami-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/rosbife-e-pastrami",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#rosbife-e-pastrami-text"
+        ]
+    },
+    "rich-text#rosbife-e-pastrami-text": {
+        "props": {
+            "blockClass": [
+                "rosbife-e-pastrami-text",
+                "categorias-text"
+            ],
+            "text": "Rosbife e Pastrami (2)"
+        }
+    },
+
+    /* SALAME E COPA */
+    "link.product#salame-e-copa-link": {
+        "props": {
+            "blockClass": [
+                "salame-e-copa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/salame-e-copa",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#salame-e-copa-text"
+        ]
+    },
+    "rich-text#salame-e-copa-text": {
+        "props": {
+            "blockClass": [
+                "salame-e-copa-text",
+                "categorias-text"
+            ],
+            "text": "Salame e Copa (37)"
+        }
+    }
+}

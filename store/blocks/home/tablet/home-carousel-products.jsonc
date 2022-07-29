@@ -1,0 +1,36 @@
+{
+     /* --------------------------------------------------- */
+  /* CAROUSEL PRODUCTS */
+  "flex-layout.row#home-carousel-products": {
+    "props": {
+      "blockClass": "carousel-products-mobile"
+    },
+    "children": [
+      "slider-layout#home-product-slider"
+    ]
+  },
+  "slider-layout#home-product-slider": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 4,
+        "tablet": 2,
+        "phone": 2
+      },
+      "autoplay": {
+        "timeout": 3000
+      },
+      "infinite": true,
+      "showNavigationArrows": "desktopOnly",
+      "blockClass": "home-products-slider",
+      "showPaginationDots": "never"
+    },
+    "children": [
+      "flex-layout.col#folhado-passas-st-marche-column",
+      "flex-layout.col#croissant-calabresa-queijo-column",
+      "flex-layout.col#pao-gorgonzola-damasco-column",
+      "flex-layout.col#baguete-gergilin-st-marche-column",
+      "flex-layout.col#mini-marchezinho-st-marche-column",
+      "flex-layout.col#pao-italiano-st-marche-column"
+    ]
+  }
+}

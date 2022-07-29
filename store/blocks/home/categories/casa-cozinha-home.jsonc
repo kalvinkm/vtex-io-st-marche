@@ -1,0 +1,289 @@
+{
+    /* FILTROS DE PAPEL */
+    "link.product#filtros-de-papel-link": {
+        "props": {
+            "blockClass": [
+                "filtros-de-papel-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/filtros-de-papel",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#filtros-de-papel-text"
+        ]
+    },
+    "rich-text#filtros-de-papel-text": {
+        "props": {
+            "blockClass": [
+                "filtros-de-papel-text",
+                "categorias-text"
+            ],
+            "text": "Filtros de Papel (8)"
+        }
+    },
+
+    /* FÓSFOROS E ACENDEDORES */
+    "link.product#fosforo-e-acendedores-link": {
+        "props": {
+            "blockClass": [
+                "fosforo-e-acendedores-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/fosforo-e-acendedores",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#fosforo-e-acendedores-text"
+        ]
+    },
+    "rich-text#fosforo-e-acendedores-text": {
+        "props": {
+            "blockClass": [
+                "fosforo-e-acendedores-text",
+                "categorias-text"
+            ],
+            "text": "Fósforo e Acendedores (16)"
+        }
+    },
+
+    /* FÓSFOROS E ACENDEDORES */
+    "link.product#guardanapos-link": {
+        "props": {
+            "blockClass": [
+                "guardanapos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/guardanapos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#guardanapos-text"
+        ]
+    },
+    "rich-text#guardanapos-text": {
+        "props": {
+            "blockClass": [
+                "guardanapos-text",
+                "categorias-text"
+            ],
+            "text": "Guardanapos (8)"
+        }
+    },
+
+    /* PAPEL ALUMÍNIO */
+    "link.product#papel-aluminio-link": {
+        "props": {
+            "blockClass": [
+                "papel-aluminio-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/papel-aluminio",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#papel-aluminio-text"
+        ]
+    },
+    "rich-text#papel-aluminio-text": {
+        "props": {
+            "blockClass": [
+                "papel-aluminio-text",
+                "categorias-text"
+            ],
+            "text": "Papel Alumínio (5)"
+        }
+    },
+
+    /* PILHAS*/
+    "link.product#pilhas-link": {
+        "props": {
+            "blockClass": [
+                "pilhas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pilhas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pilhas-text"
+        ]
+    },
+    "rich-text#pilhas-text": {
+        "props": {
+            "blockClass": [
+                "pilhas-text",
+                "categorias-text"
+            ],
+            "text": "Pilhas (7)"
+        }
+    },
+
+    /* PVC*/
+    "link.product#pvc-link": {
+        "props": {
+            "blockClass": [
+                "pvc-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pvc",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pvc-text"
+        ]
+    },
+    "rich-text#pvc-text": {
+        "props": {
+            "blockClass": [
+                "pvc-text",
+                "categorias-text"
+            ],
+            "text": "PVC (3)"
+        }
+    },
+
+    /* ROLO ADESIVO*/
+    "link.product#rolo-adesivo-link": {
+        "props": {
+            "blockClass": [
+                "rolo-adesivo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/rolo-adesivo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#rolo-adesivo-text"
+        ]
+    },
+    "rich-text#rolo-adesivo-text": {
+        "props": {
+            "blockClass": [
+                "rolo-adesivo-text",
+                "categorias-text"
+            ],
+            "text": "Rolo Adesivo (2)"
+        }
+    },
+
+    /* SACOLAS*/
+    "link.product#sacolas-link": {
+        "props": {
+            "blockClass": [
+                "sacolas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sacolas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sacolas-text"
+        ]
+    },
+    "rich-text#sacolas-text": {
+        "props": {
+            "blockClass": [
+                "sacolas-text",
+                "categorias-text"
+            ],
+            "text": "Sacolas (3)"
+        }
+    },
+
+    /* SACOS PARA FREEZER*/
+    "link.product#sacos-para-freezer-link": {
+        "props": {
+            "blockClass": [
+                "sacos-para-freezer-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sacos-para-freezer",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sacos-para-freezer-text"
+        ]
+    },
+    "rich-text#sacos-para-freezer-text": {
+        "props": {
+            "blockClass": [
+                "sacos-para-freezer-text",
+                "categorias-text"
+            ],
+            "text": "Sacos para Freezer (5)"
+        }
+    },
+
+    /* TOALHA DE PAPEL */
+    "link.product#toalhas-de-papel-link": {
+        "props": {
+            "blockClass": [
+                "toalhas-de-papel-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/toalhas-de-papel",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#toalhas-de-papel-text"
+        ]
+    },
+    "rich-text#toalhas-de-papel-text": {
+        "props": {
+            "blockClass": [
+                "toalhas-de-papel-text",
+                "categorias-text"
+            ],
+            "text": "Toalha de Papel (7)"
+        }
+    },
+
+    /* UTILIDADES*/
+    "link.product#utilidades-link": {
+        "props": {
+            "blockClass": [
+                "utilidades-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/utilidades",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#utilidades-text"
+        ]
+    },
+    "rich-text#utilidades-text": {
+        "props": {
+            "blockClass": [
+                "utilidades-text",
+                "categorias-text"
+            ],
+            "text": "Utilidades (39)"
+        }
+    },
+
+    /* VELAS*/
+    "link.product#Velas-link": {
+        "props": {
+            "blockClass": [
+                "Velas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/velas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#Velas-text"
+        ]
+    },
+    "rich-text#Velas-text": {
+        "props": {
+            "blockClass": [
+                "Velas-text",
+                "categorias-text"
+            ],
+            "text": "Velas (44)"
+        }
+    }
+}

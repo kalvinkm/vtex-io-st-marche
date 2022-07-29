@@ -1,0 +1,110 @@
+{
+    
+    "disclosure-layout#especial-disclosure": {
+        "props": {
+            "initialVisibility": "visible",
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "disclosure-trigger#especial-trigger",
+            "disclosure-content#especial-content"
+        ]
+    },
+    "disclosure-trigger#especial-trigger": {
+        "props": {
+            "blockClass": [
+                "especial-trigger",
+                "disclosure-trigger"
+            ],
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "rich-text#especial-text",
+            "rich-text#trigger-icon"
+        ]
+    },
+    "rich-text#especial-text": {
+        "props": {
+            "blockClass": [
+                "trigger-text"
+            ],
+            "text": "Especial"
+        }
+    },
+    "rich-text#trigger-icon": {
+        "props": {
+            "blockClass": "trigger-icon",
+            "text": "^"
+        }
+    },
+    "disclosure-content#especial-content": {
+        "props": {
+            "blockClass": [
+                "especial-content",
+                "disclosure-content"
+            ]
+        },
+        "children": [
+            "flex-layout.col#especial-column"
+        ]
+    },
+
+    "flex-layout.col#especial-column": {
+        "props": {
+            "blockClass": "especial-column",
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "link.product#selecao-oferta-st-marche",
+            "link.product#vinhos-do-mes"
+        ]
+    },
+
+    /* SELEÇÃO DE OFERTAS ST MARCHE */
+
+    "link.product#selecao-oferta-st-marche": {
+        "props": {
+            "blockClass": "selecao-oferta-st-marche",
+            "href": "https://www.marche.com.br/window_displays/selecao-ofertas-st-marche",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#selecao-oferta-st-marche-answer"
+        ]
+    },
+    "rich-text#selecao-oferta-st-marche-answer": {
+        "props": {
+            "blockClass": [
+                "selecao-oferta-st-marche-answer",
+                "disclosure-answer"    
+            ],
+            "text": "Seleção Ofertas St Marche"
+        }
+    },
+
+    
+    /* VINHOS DO MÊS */
+
+    "link.product#vinhos-do-mes": {
+        "props": {
+            "blockClass": "vinhos-do-mes",
+            "href": "https://www.marche.com.br/window_displays/vinhos-do-mes-74551f32-44c4-4e92-bb9b-e8e0a02e4f0b",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#vinhos-do-mes-answer"
+        ]
+    },
+    "rich-text#vinhos-do-mes-answer": {
+        "props": {
+            "blockClass": [
+                "vinhos-do-mes-answer",
+                "disclosure-answer"    
+            ],
+            "text": "Vinhos Do Mês"
+        }
+    }
+
+    
+    
+}

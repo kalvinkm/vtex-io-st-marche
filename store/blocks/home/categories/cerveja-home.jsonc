@@ -1,0 +1,73 @@
+{
+    /* CERVEJAS TRADICIONAIS*/
+    "link.product#cervejas-tradicionais-link": {
+        "props": {
+            "blockClass": [
+                "cervejas-tradicionais-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cervejas-tradicionais",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#cervejas-tradicionais-text"
+        ]
+    },
+    "rich-text#cervejas-tradicionais-text": {
+        "props": {
+            "blockClass": [
+                "cervejas-tradicionais-text",
+                "categorias-text"
+            ],
+            "text": "Cervejas Tradicionais (11)"
+        }
+    },
+
+    /* CERVEJAS ESPECIAIS ARTESANAIS*/
+    "link.product#cervejas-especiais-artesanais-link": {
+        "props": {
+            "blockClass": [
+                "cervejas-especiais-artesanais-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cervejas-especiais-artesanais",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#cervejas-especiais-artesanais-text"
+        ]
+    },
+    "rich-text#cervejas-especiais-artesanais-text": {
+        "props": {
+            "blockClass": [
+                "cervejas-especiais-artesanais-text",
+                "categorias-text"
+            ],
+            "text": "Cervejas Especiais /Artesanais (213)"
+        }
+    },
+
+    /* CERVEJAS PREMIUM */
+    "link.product#cervejas-premium-link": {
+        "props": {
+            "blockClass": [
+                "cervejas-premium-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cervejas-premium",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#cervejas-premium-text"
+        ]
+    },
+    "rich-text#cervejas-premium-text": {
+        "props": {
+            "blockClass": [
+                "cervejas-premium-text",
+                "categorias-text"
+            ],
+            "text": "Cervejas Premium (26)"
+        }
+    }
+}

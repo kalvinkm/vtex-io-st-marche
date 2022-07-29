@@ -1,0 +1,97 @@
+{
+    "flex-layout.row#cards-email-footer-desktop": {
+        "props": {
+            "blockClass": "cards-email-footer-desktop",
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "flex-layout.row#cards-footer-desktop",
+            "flex-layout.row#email-footer-desktop"
+        ]
+    },
+
+
+    /* CARDS ------------------------------------------------------ */
+
+    "flex-layout.row#cards-footer-desktop": {
+        "props": {
+            "blockClass": "cards-footer-desktop"
+        },
+        "children": [
+            "image#american-express-desktop",
+            "image#elo-desktop",
+            "image#master-card-desktop",
+            "image#visa-desktop"
+        ]
+    },
+
+    "image#american-express-desktop": {
+        "props": {
+            "blockClass": [
+                "cards-desktop",
+                "american-express-desktop"
+            ],
+            "src": "assets/imgs/cards/american-express-cards.png"
+        }
+    },
+
+    "image#elo-desktop": {
+        "props": {
+            "blockClass": [
+                "cards-desktop",
+                "elo-desktop"
+            ],
+            "src": "assets/imgs/cards/elo-cards.png"
+        }
+    },
+
+    "image#master-card-desktop": {
+        "props": {
+            "blockClass": [
+                "cards-desktop",
+                "master-card-desktop"
+            ],
+            "src": "assets/imgs/cards/master-card-cards.png"
+        }
+    },
+
+    "image#visa-desktop": {
+        "props": {
+            "blockClass": [
+                "cards-desktop",
+                "visa-desktop"
+            ],
+            "src": "assets/imgs/cards/visa-cards.png"
+        }
+    },
+
+
+
+    /* EMAIL --------------------------------------- */
+
+    "flex-layout.row#email-footer-desktop": {
+        "props": {
+            "blockClass": "email-footer-desktop"
+        },
+        "children": [
+            "link.product#email-footer-desktop-link"
+        ]
+    },
+
+    "link.product#email-footer-desktop-link": {
+        "props": {
+            "blockClass": "email-footer-desktop-link",
+            "href": "mailto:ajuda@marche.com.br"
+        },
+        "children": [
+            "rich-text#email-desktop"
+        ]
+    },
+
+    "rich-text#email-desktop": {
+        "props": {
+            "blockClass": "email-desktop",
+            "text": "![email](assets/imgs/maill-help.jpg) ajuda@marche.com.br"
+        }
+    }
+}

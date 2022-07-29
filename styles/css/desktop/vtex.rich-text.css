@@ -1,0 +1,121 @@
+/* HEADER DESKTOP */
+
+.paragraph--login-desktop-paragraph {
+    padding: 0 16px;
+    font-size: 1.2rem !important;
+}
+
+
+.wrapper--minicar-desktop-paragraph {
+    padding: 0 !important;
+}
+
+.paragraph--minicar-desktop-paragraph {
+    color: #1a5632;
+    background: #edf2ef;
+    font-size: 0.875rem !important;
+    padding: 0.25rem 0.5rem !important;
+    border-radius: 4px;
+    height: 30px !important;
+}
+
+.paragraph--minicar-desktop-paragraph:hover {
+    color: #fff;
+    background-color: #839041; 
+}
+
+.container--minicar-desktop {
+    margin-left: 120px;
+}
+
+
+/* HEADER NAVIGATION */
+
+.paragraph--header-navigation-desktop-paragraph {
+    color: #1a5632;
+    font-size: 18px !important;
+    height: 53px;
+}
+
+.paragraph--header-navigation-desktop-paragraph:hover {
+    color: #fff;
+}
+
+/* HOME  */
+
+/* DISCLOSURE */
+
+.paragraph--trigger-icon,
+.paragraph--trigger-text {
+    color: #5E696D;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: "Source Sans Pro";
+}
+
+.paragraph--trigger-icon {
+    color: #32593B
+}
+
+.paragraph--content-answer {
+    color: #5E696D;
+    font-weight: 700;
+    padding: 0;
+}
+
+.paragraph--content-answer:hover {
+    text-decoration: underline;
+}
+
+
+.wrapper {
+    padding: 0 !important;
+}
+
+.paragraph--selecao-oferta-st-marche-answer,
+.paragraph--vinhos-do-mes-answer {
+    color: rgba(213,50,48,0.9);
+    font-weight: 700;
+}
+
+.paragraph--selecao-oferta-st-marche-answer:hover,
+.paragraph--vinhos-do-mes-answer:hover {
+    text-decoration: underline;
+}
+
+.paragraph--categorias-text {
+    color: #000;
+}
+
+.paragraph--categorias-text {
+    color: #5E696D;
+    font-weight: 100;
+    padding-left: 0.5rem !important;
+}
+
+.paragraph--categorias-text:hover {
+    font-weight: bolder;
+}
+
+/* FOOTER */
+
+.paragraph--paragraph-desktop-footer {
+    height: 20px !important;
+}
+
+.wrapper--paragraph-desktop-footer {
+    padding: 0 0.5rem !important;
+}
+
+.paragraph--disclaimer-desktop,
+.paragraph--cnpj-desktop {
+    font-size: .65rem !important;
+}
+
+
+/* -------------------------------------- */
+
+.paragraph--teste {
+    color: #000;
+}
+

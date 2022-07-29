@@ -1,0 +1,314 @@
+{
+    /* BALAS E CHICLETES */
+    "link.product#balas-e-chicletes-link": {
+        "props": {
+            "blockClass": [
+                "balas-e-chicletes-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/balas-e-chicletes",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#balas-e-chicletes-text"
+        ]
+    },
+    "rich-text#balas-e-chicletes-text": {
+        "props": {
+            "blockClass": [
+                "balas-e-chicletes-text",
+                "categorias-text"
+            ],
+            "text": "Balas e Chicletes (114)"
+        }
+    },
+
+    /* BARRAS DE CEREAL */
+    "link.product#barras-de-cereal-link": {
+        "props": {
+            "blockClass": [
+                "barras-de-cereal-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/barras-de-cereal",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#barras-de-cereal-text"
+        ]
+    },
+    "rich-text#barras-de-cereal-text": {
+        "props": {
+            "blockClass": [
+                "barras-de-cereal-text",
+                "categorias-text"
+            ],
+            "text": "Barras de Cereal (12)"
+        }
+    },
+
+    /* BARRAS DE FRUTAS E NUTS */
+    "link.product#barras-de-frutas-e-nuts-link": {
+        "props": {
+            "blockClass": [
+                "barras-de-frutas-e-nuts-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/barras-de-frutas-e-nuts",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#barras-de-frutas-e-nuts-text"
+        ]
+    },
+    "rich-text#barras-de-frutas-e-nuts-text": {
+        "props": {
+            "blockClass": [
+                "barras-de-frutas-e-nuts-text",
+                "categorias-text"
+            ],
+            "text": "Barras de Frutas e Nuts (26)"
+        }
+    },
+
+    /* BARRAS DE PROTEÍNA */
+    "link.product#barras-de-frutas-proteina-link": {
+        "props": {
+            "blockClass": [
+                "barras-de-frutas-proteina-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/barras-de-proteina",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#barras-de-frutas-proteina-text"
+        ]
+    },
+    "rich-text#barras-de-frutas-proteina-text": {
+        "props": {
+            "blockClass": [
+                "barras-de-frutas-proteina-text",
+                "categorias-text"
+            ],
+            "text": "Barras de Proteína (28)"
+        }
+    },
+
+    /* BISCOITO DOCE */
+    "link.product#biscoito-doce-link": {
+        "props": {
+            "blockClass": [
+                "biscoito-doce-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/biscoito-doce",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#biscoito-doce-text"
+        ]
+    },
+    "rich-text#biscoito-doce-text": {
+        "props": {
+            "blockClass": [
+                "biscoito-doce-text",
+                "categorias-text"
+            ],
+            "text": "Biscoito Doce (264)"
+        }
+    },
+
+    /* BISCOITO SALGADO */
+    "link.product#biscoito-salgado-link": {
+        "props": {
+            "blockClass": [
+                "biscoito-salgado-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/biscoito-salgado",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#biscoito-salgado-text"
+        ]
+    },
+    "rich-text#biscoito-salgado-text": {
+        "props": {
+            "blockClass": [
+                "biscoito-salgado-text",
+                "categorias-text"
+            ],
+            "text": "Biscoito Salgado (89)"
+        }
+    },
+
+    /* CHIPS E SNACKS NATURAIS */
+    "link.product#chips-e-snacks-naturais-link": {
+        "props": {
+            "blockClass": [
+                "chips-e-snacks-naturais-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/chips-e-snacks-naturais",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#chips-e-snacks-naturais-text"
+        ]
+    },
+    "rich-text#chips-e-snacks-naturais-text": {
+        "props": {
+            "blockClass": [
+                "chips-e-snacks-naturais-text",
+                "categorias-text"
+            ],
+            "text": "Chips e Snacks Naturais (50)"
+        }
+    },
+
+    /* CHOCOLATES */
+    "link.product#chocolates-link": {
+        "props": {
+            "blockClass": [
+                "chocolates-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/chocolates",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#chocolates-text"
+        ]
+    },
+    "rich-text#chocolates-text": {
+        "props": {
+            "blockClass": [
+                "chocolates-text",
+                "categorias-text"
+            ],
+            "text": "Chocolates (297)"
+        }
+    },
+
+    /* FRUTAS DESIDRATAS */
+    "link.product#frutas-desidratadas-link": {
+        "props": {
+            "blockClass": [
+                "frutas-desidratadas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/frutas-desidratadas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#frutas-desidratadas-text"
+        ]
+    },
+    "rich-text#frutas-desidratadas-text": {
+        "props": {
+            "blockClass": [
+                "frutas-desidratadas-text",
+                "categorias-text"
+            ],
+            "text": "Frutas Desidratadas (10)"
+        }
+    },
+
+    /* NUTS */
+    "link.product#nuts-link": {
+        "props": {
+            "blockClass": [
+                "nuts-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/nuts",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#nuts-text"
+        ]
+    },
+    "rich-text#nuts-text": {
+        "props": {
+            "blockClass": [
+                "nuts-text",
+                "categorias-text"
+            ],
+            "text": "Nuts (62)"
+        }
+    },
+
+    /* PIPOCA */
+    "link.product#pipoca-link": {
+        "props": {
+            "blockClass": [
+                "pipoca-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pipoca",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pipoca-text"
+        ]
+    },
+    "rich-text#pipoca-text": {
+        "props": {
+            "blockClass": [
+                "pipoca-text",
+                "categorias-text"
+            ],
+            "text": "Pipoca (31)"
+        }
+    },
+
+    /* SALGADINHO */
+    "link.product#salgadinho-link": {
+        "props": {
+            "blockClass": [
+                "salgadinho-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/salgadinho",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#salgadinho-text"
+        ]
+    },
+    "rich-text#salgadinho-text": {
+        "props": {
+            "blockClass": [
+                "salgadinho-text",
+                "categorias-text"
+            ],
+            "text": "Salgadinho (69)"
+        }
+    },
+
+    /* TORRADA */
+    "link.product#torrada-link": {
+        "props": {
+            "blockClass": [
+                "torrada-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/torrada",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#torrada-text"
+        ]
+    },
+    "rich-text#torrada-text": {
+        "props": {
+            "blockClass": [
+                "torrada-text",
+                "categorias-text"
+            ],
+            "text": "Torrada (34)"
+        }
+    }
+}
+

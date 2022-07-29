@@ -1,0 +1,97 @@
+{
+    /* BUQUES E MAÇOS */
+    "link.product#buques-e-macos-link": {
+        "props": {
+            "blockClass": [
+                "buques-e-macos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/buques-e-macos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#buques-e-macos-text"
+        ]
+    },
+    "rich-text#buques-e-macos-text": {
+        "props": {
+            "blockClass": [
+                "buques-e-macos-text",
+                "categorias-text"
+            ],
+            "text": "Buques e Maços (9)"
+        }
+    },
+
+    /* ORQUÍDEAS */
+    "link.product#orquideas-link": {
+        "props": {
+            "blockClass": [
+                "orquideas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/orquideas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#orquideas-text"
+        ]
+    },
+    "rich-text#orquideas-text": {
+        "props": {
+            "blockClass": [
+                "orquideas-text",
+                "categorias-text"
+            ],
+            "text": "Orquídeas (8)"
+        }
+    },
+
+    /* OUTRAS FLORES */
+    "link.product#outras-flores-link": {
+        "props": {
+            "blockClass": [
+                "outras-flores-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/outras-flores",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#outras-flores-text"
+        ]
+    },
+    "rich-text#outras-flores-text": {
+        "props": {
+            "blockClass": [
+                "outras-flores-text",
+                "categorias-text"
+            ],
+            "text": "Outras Flores (4)"
+        }
+    },
+
+    /* PLANTAS */
+    "link.product#plantas-link": {
+        "props": {
+            "blockClass": [
+                "plantas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/plantas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#plantas-text"
+        ]
+    },
+    "rich-text#plantas-text": {
+        "props": {
+            "blockClass": [
+                "plantas-text",
+                "categorias-text"
+            ],
+            "text": "Plantas (10)"
+        }
+    }
+}

@@ -1,0 +1,382 @@
+{
+    /* BRIE E CAMEMBERT */
+    "link.product#brie-e-camembert-link": {
+        "props": {
+            "blockClass": [
+                "brie-e-camembert-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/brie-e-camembert",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#brie-e-camembert-text"
+        ]
+    },
+    "rich-text#brie-e-camembert-text": {
+        "props": {
+            "blockClass": [
+                "brie-e-camembert-text",
+                "categorias-text"
+            ],
+            "text": "Brie e Camembert(25)"
+        }
+    },
+
+    /* CHANCLICHE E BOURSIN */
+    "link.product#chancliche-e-boursin-link": {
+        "props": {
+            "blockClass": [
+                "chancliche-e-boursin-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/chancliche-e-boursin",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#chancliche-e-boursin-text"
+        ]
+    },
+    "rich-text#chancliche-e-boursin-text": {
+        "props": {
+            "blockClass": [
+                "chancliche-e-boursin-text",
+                "categorias-text"
+            ],
+            "text": "Chancliche e Boursin (3)"
+        }
+    },
+
+    /* COALHO */
+    "link.product#coalho-link": {
+        "props": {
+            "blockClass": [
+                "coalho-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/coalho",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#coalho-text"
+        ]
+    },
+    "rich-text#coalho-text": {
+        "props": {
+            "blockClass": [
+                "coalho-text",
+                "categorias-text"
+            ],
+            "text": "Coalho (6)"
+        }
+    },
+
+    /* EDAM E GOUDA */
+    "link.product#edam-e-gouda-link": {
+        "props": {
+            "blockClass": [
+                "edam-e-gouda-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/edam-e-gouda",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#edam-e-gouda-text"
+        ]
+    },
+    "rich-text#edam-e-gouda-text": {
+        "props": {
+            "blockClass": [
+                "edam-e-gouda-text",
+                "categorias-text"
+            ],
+            "text": "Edam e Gouda (13)"
+        }
+    },
+
+    /* EMMENTAL, ESTEPE E GRUYERE */
+    "link.product#emmental-estepe-e-gruyere-link": {
+        "props": {
+            "blockClass": [
+                "emmental-estepe-e-gruyere-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/emmental-estepe-e-gruyere",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#emmental-estepe-e-gruyere-text"
+        ]
+    },
+    "rich-text#emmental-estepe-e-gruyere-text": {
+        "props": {
+            "blockClass": [
+                "emmental-estepe-e-gruyere-text",
+                "categorias-text"
+            ],
+            "text": "Emmental, Estepe e Gruyere(20)"
+        }
+    },
+
+    /* FONDUE */
+    "link.product#fondue-link": {
+        "props": {
+            "blockClass": [
+                "fondue-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/fondue",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#fondue-text"
+        ]
+    },
+    "rich-text#fondue-text": {
+        "props": {
+            "blockClass": [
+                "fondue-text",
+                "categorias-text"
+            ],
+            "text": "Fondue (15)"
+        }
+    },
+
+    /* FRESCAL E RICOTA */
+    "link.product#frescal-e-ricota-link": {
+        "props": {
+            "blockClass": [
+                "frescal-e-ricota-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/frescal-e-ricota",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#frescal-e-ricota-text"
+        ]
+    },
+    "rich-text#frescal-e-ricota-text": {
+        "props": {
+            "blockClass": [
+                "frescal-e-ricota-text",
+                "categorias-text"
+            ],
+            "text": "Frescal e Ricota (15)"
+        }
+    },
+
+    /* GORGONZOLA E ROQUEFORT */
+    "link.product#gorgonzola-e-roquefort-link": {
+        "props": {
+            "blockClass": [
+                "gorgonzola-e-roquefort-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/gorgonzola-e-roquefort",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#gorgonzola-e-roquefort-text"
+        ]
+    },
+    "rich-text#gorgonzola-e-roquefort-text": {
+        "props": {
+            "blockClass": [
+                "gorgonzola-e-roquefort-text",
+                "categorias-text"
+            ],
+            "text": "Gorgonzola e Roquefort (11)"
+        }
+    },
+
+    /* MAASDAM E REINO */
+    "link.product#maasdam-e-reino-link": {
+        "props": {
+            "blockClass": [
+                "maasdam-e-reino-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/maasdam-e-reino",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#maasdam-e-reino-text"
+        ]
+    },
+    "rich-text#maasdam-e-reino-text": {
+        "props": {
+            "blockClass": [
+                "maasdam-e-reino-text",
+                "categorias-text"
+            ],
+            "text": "Maasdam e Reino (2)"
+        }
+    },
+    /* MUSSARELA */
+    "link.product#mussarela-link": {
+        "props": {
+            "blockClass": [
+                "mussarela-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/mussarela",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#mussarela-text"
+        ]
+    },
+    "rich-text#mussarela-text": {
+        "props": {
+            "blockClass": [
+                "mussarela-text",
+                "categorias-text"
+            ],
+            "text": "Mussarela (41)"
+        }
+    },
+
+    /* OUTROS QUEIJOS */
+    "link.product#outros-queijos-link": {
+        "props": {
+            "blockClass": [
+                "outros-queijos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/outros-queijos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#outros-queijos-text"
+        ]
+    },
+    "rich-text#outros-queijos-text": {
+        "props": {
+            "blockClass": [
+                "outros-queijos-text",
+                "categorias-text"
+            ],
+            "text": "Outros Queijos (42)"
+        }
+    },
+
+    /* OVELHA E CABRA */
+    "link.product#ovelha-e-cabra-link": {
+        "props": {
+            "blockClass": [
+                "ovelha-e-cabra-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/ovelha-e-cabra",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#ovelha-e-cabra-text"
+        ]
+    },
+    "rich-text#ovelha-e-cabra-text": {
+        "props": {
+            "blockClass": [
+                "ovelha-e-cabra-text",
+                "categorias-text"
+            ],
+            "text": "Ovelha e Cabra (9)"
+        }
+    },
+
+    /* PARMESÃO */
+    "link.product#parmesao-link": {
+        "props": {
+            "blockClass": [
+                "parmesao-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/parmesao",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#parmesao-text"
+        ]
+    },
+    "rich-text#parmesao-text": {
+        "props": {
+            "blockClass": [
+                "parmesao-text",
+                "categorias-text"
+            ],
+            "text": "Parmesão (26)"
+        }
+    },
+
+    /* PARMESÃO */
+    "link.product#prato-link": {
+        "props": {
+            "blockClass": [
+                "prato-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/prato",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#prato-text"
+        ]
+    },
+    "rich-text#prato-text": {
+        "props": {
+            "blockClass": [
+                "prato-text",
+                "categorias-text"
+            ],
+            "text": "Prato (17)"
+        }
+    },
+    /* PROVOLONE */
+    "link.product#provolone-link": {
+        "props": {
+            "blockClass": [
+                "provolone-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/provolone",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#provolone-text"
+        ]
+    },
+    "rich-text#provolone-text": {
+        "props": {
+            "blockClass": [
+                "provolone-text",
+                "categorias-text"
+            ],
+            "text": "Provolone (6)"
+        }
+    },
+    /* QUEIJOS ARTESANAIS BRASILEIROS */
+    "link.product#queijos-artesanais-brasileiros-link": {
+        "props": {
+            "blockClass": [
+                "queijos-artesanais-brasileiros-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/queijos-artesanais-brasileiros",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#queijos-artesanais-brasileiros-text"
+        ]
+    },
+    "rich-text#queijos-artesanais-brasileiros-text": {
+        "props": {
+            "blockClass": [
+                "queijos-artesanais-brasileiros-text",
+                "categorias-text"
+            ],
+            "text": "Queijos Artesanais Brasileiros (21)"
+        }
+    }
+}

@@ -1,0 +1,338 @@
+{
+    /* ÁGUA */
+    "link.product#agua-link": {
+        "props": {
+            "blockClass": [
+                "agua-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/agua",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#agua-text"
+        ]
+    },
+    "rich-text#agua-text": {
+        "props": {
+            "blockClass": [
+                "agua-text",
+                "categorias-text"
+            ],
+            "text": "Água (89)"
+        }
+    },
+
+    /* ÁGUA DE COCO */
+    "link.product#agua-de-coco-link": {
+        "props": {
+            "blockClass": [
+                "agua-de-coco-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/agua-de-coco",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#agua-de-coco-text"
+        ]
+    },
+    "rich-text#agua-de-coco-text": {
+        "props": {
+            "blockClass": [
+                "agua-de-coco-text",
+                "categorias-text"
+            ],
+            "text": "Água de Coco (9)"
+        }
+    },
+
+    /* BEBIDAS E ACHOCOLATADOS */
+    "link.product#bebidas-lacteas-e-achocolatados-link": {
+        "props": {
+            "blockClass": [
+                "bebidas-lacteas-e-achocolatados-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bebidas-lacteas-e-achocolatados",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#bebidas-lacteas-e-achocolatados-text"
+        ]
+    },
+    "rich-text#bebidas-lacteas-e-achocolatados-text": {
+        "props": {
+            "blockClass": [
+                "bebidas-lacteas-e-achocolatados-text",
+                "categorias-text"
+            ],
+            "text": "Bebidas Lácteas e Achocolatados (11)"
+        }
+    },
+
+    /* BEBIDA VEGETAL */
+    "link.product#bebidas-vegetal-link": {
+        "props": {
+            "blockClass": [
+                "bebidas-vegetal-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bebida-vegetal",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#bebidas-vegetal-text"
+        ]
+    },
+    "rich-text#bebidas-vegetal-text": {
+        "props": {
+            "blockClass": [
+                "bebidas-vegetal-text",
+                "categorias-text"
+            ],
+            "text": "Bebida Vegetal (56)"
+        }
+    },
+
+    /* CHÁ PRONTOS */
+    "link.product#cha-pronto-link": {
+        "props": {
+            "blockClass": [
+                "cha-pronto-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cha-pronto",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#cha-pronto-text"
+        ]
+    },
+    "rich-text#cha-pronto-text": {
+        "props": {
+            "blockClass": [
+                "cha-pronto-text",
+                "categorias-text"
+            ],
+            "text": "Chá Prontos (42)"
+        }
+    },
+
+    
+    /* ENERGÉTICOS */
+    "link.product#energeticos-link": {
+        "props": {
+            "blockClass": [
+                "energeticos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/energeticos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#energeticos-text"
+        ]
+    },
+    "rich-text#energeticos-text": {
+        "props": {
+            "blockClass": [
+                "energeticos-text",
+                "categorias-text"
+            ],
+            "text": "Energéticos (4)"
+        }
+    },
+
+    /* ISOTÔNICOS */
+    "link.product#isotonicos-link": {
+        "props": {
+            "blockClass": [
+                "isotonicos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/isotonicos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#isotonicos-text"
+        ]
+    },
+    "rich-text#isotonicos-text": {
+        "props": {
+            "blockClass": [
+                "isotonicos-text",
+                "categorias-text"
+            ],
+            "text": "Isotônicos (14)"
+        }
+    },
+
+    /* KOMBUCHA */
+    "link.product#kombucha-link": {
+        "props": {
+            "blockClass": [
+                "kombucha-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/kombucha",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#kombucha-text"
+        ]
+    },
+    "rich-text#kombucha-text": {
+        "props": {
+            "blockClass": [
+                "kombucha-text",
+                "categorias-text"
+            ],
+            "text": "Kombucha (29)"
+        }
+    },
+    
+    /* LEITE */
+    "link.product#leite-link": {
+        "props": {
+            "blockClass": [
+                "leite-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/leite",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#leite-text"
+        ]
+    },
+    "rich-text#leite-text": {
+        "props": {
+            "blockClass": [
+                "leite-text",
+                "categorias-text"
+            ],
+            "text": "Leite (43)"
+        }
+    },
+
+    /* REFRIGERANTE GARRAFA*/
+    "link.product#refrigerante-garrafa-link": {
+        "props": {
+            "blockClass": [
+                "refrigerante-garrafa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/refrigerante-garrafa",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#refrigerante-garrafa-text"
+        ]
+    },
+    "rich-text#refrigerante-garrafa-text": {
+        "props": {
+            "blockClass": [
+                "refrigerante-garrafa-text",
+                "categorias-text"
+            ],
+            "text": "Refrigerante Garrafa (57)"
+        }
+    },
+
+    /* REFRIGERANTE LATA*/
+    "link.product#refrigerante-lata-link": {
+        "props": {
+            "blockClass": [
+                "refrigerante-lata-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/refrigerante-lata",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#refrigerante-lata-text"
+        ]
+    },
+    "rich-text#refrigerante-lata-text": {
+        "props": {
+            "blockClass": [
+                "refrigerante-lata-text",
+                "categorias-text"
+            ],
+            "text": "Refrigerante Lata (32)"
+        }
+    },
+
+    /* SUCOS E REFRESCOS*/
+    "link.product#sucos-e-refrescos-link": {
+        "props": {
+            "blockClass": [
+                "sucos-e-refrescos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sucos-e-refrescos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sucos-e-refrescos-text"
+        ]
+    },
+    "rich-text#sucos-e-refrescos-text": {
+        "props": {
+            "blockClass": [
+                "sucos-e-refrescos-text",
+                "categorias-text"
+            ],
+            "text": "Sucos e Refrescos (127)"
+        }
+    },
+
+    /* SUCOS FRESCOS*/
+    "link.product#sucos-frescos-link": {
+        "props": {
+            "blockClass": [
+                "sucos-frescos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sucos-frescos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sucos-frescos-text"
+        ]
+    },
+    "rich-text#sucos-frescos-text": {
+        "props": {
+            "blockClass": [
+                "sucos-frescos-text",
+                "categorias-text"
+            ],
+            "text": "Sucos Frescos (48)"
+        }
+    },
+
+    /* TÔNICAS */
+    "link.product#tonicas-link": {
+        "props": {
+            "blockClass": [
+                "tonicas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/tonicas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#tonicas-text"
+        ]
+    },
+    "rich-text#tonicas-text": {
+        "props": {
+            "blockClass": [
+                "tonicas-text",
+                "categorias-text"
+            ],
+            "text": "Tônicas (46)"
+        }
+    }
+}

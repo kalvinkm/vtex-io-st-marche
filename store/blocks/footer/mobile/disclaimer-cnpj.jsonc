@@ -1,0 +1,23 @@
+{
+    "flex-layout.row#disclaimer-cnpj-mobile": {
+        "props": {
+            "blockClass": "disclaimer-cnpj-mobile"
+        },
+        "children": [
+            "rich-text#disclaimer-mobile",
+            "rich-text#cnpj-mobile"
+        ]
+    },
+    "rich-text#disclaimer-mobile": {
+        "props": {
+            "blockClass": "disclaimer",
+            "text": "SÃO PROIBIDAS A VENDA E ENTREGA DE BEBIDAS ALCOÓLICAS A MENORES DE 18 (DEZOITO) ANOS (art. 81, II, do Estatuto da Criança e do Adolescente)."
+        }
+    },
+    "rich-text#cnpj-mobile": {
+        "props": {
+            "blockClass": "cnpj-mobile",
+            "text": "CNPJ: 09.000.493/0002-15 "
+        }
+    }
+}

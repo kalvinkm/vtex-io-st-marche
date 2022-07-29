@@ -1,0 +1,458 @@
+{   
+    /* AVES */
+    "link.product#aves-link": {
+        "props": {
+            "blockClass": [
+                "aves-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/aves",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#aves-text"
+        ]
+    },
+    "rich-text#aves-text": {
+        "props": {
+            "blockClass": [
+                "aves-text",
+                "categorias-text"
+            ],
+            "text": "Aves (32)"
+        }
+    },
+
+    /* AVES CONGELADAS */
+    "link.product#aves-congeladas-link": {
+        "props": {
+            "blockClass": [
+                "aves-congeladas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/aves-congeladas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#aves-congeladas-text"
+        ]
+    },
+    "rich-text#aves-congeladas-text": {
+        "props": {
+            "blockClass": [
+                "aves-congeladas-text",
+                "categorias-text"
+            ],
+            "text": "Aves Congeladas (59)"
+        }
+    },
+
+
+    /* BABY BEEF */
+    "link.product#baby-beef-link": {
+        "props": {
+            "blockClass": [
+                "baby-beef-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/baby-beef",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#baby-beef-text"
+        ]
+    },
+    "rich-text#baby-beef-text": {
+        "props": {
+            "blockClass": [
+                "baby-beef-text",
+                "categorias-text"
+            ],
+            "text": "Baby Beef (4)"
+        }
+    },
+
+    /* BACON E CARNE SECA */
+    "link.product#bacon-e-carne-seca-link": {
+        "props": {
+            "blockClass": [
+                "bacon-e-carne-seca-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bacon-e-carne-seca",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#bacon-e-carne-seca-text"
+        ]
+    },
+    "rich-text#bacon-e-carne-seca-text": {
+        "props": {
+            "blockClass": [
+                "bacon-e-carne-seca-text",
+                "categorias-text"
+            ],
+            "text": "Bacon e Carne Seca (18)"
+        }
+    },
+
+    /* BOVINOS CONGELADOS */
+    "link.product#bovinos-congelados-link": {
+        "props": {
+            "blockClass": [
+                "bovinos-congelados-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bovinos-congelados",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#bovinos-congelados-text"
+        ]
+    },
+    "rich-text#bovinos-congelados-text": {
+        "props": {
+            "blockClass": [
+                "bovinos-congelados-text",
+                "categorias-text"
+            ],
+            "text": "Bovinos Congelados (12)"
+        }
+    },
+    /* CONTRAFILÉ */
+    "link.product#contrafile-link": {
+        "props": {
+            "blockClass": [
+                "contrafile-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/contrafile",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#contrafile-text"
+        ]
+    },
+    "rich-text#contrafile-text": {
+        "props": {
+            "blockClass": [
+                "contrafile-text",
+                "categorias-text"
+            ],
+            "text": "Contrafilé (6)"
+        }
+    },
+
+    /* COXÃO DURO */
+    "link.product#coxao-duro-link": {
+        "props": {
+            "blockClass": [
+                "coxao-duro-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/coxao-duro",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#coxao-duro-text"
+        ]
+    },
+    "rich-text#coxao-duro-text": {
+        "props": {
+            "blockClass": [
+                "coxao-duro-text",
+                "categorias-text"
+            ],
+            "text": "Coxão Duro (3)"
+        }
+    },
+
+    /* COXÃO MOLE */
+    "link.product#coxao-mole-link": {
+        "props": {
+            "blockClass": [
+                "coxao-mole-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/coxao-mole",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#coxao-mole-text"
+        ]
+    },
+    "rich-text#coxao-mole-text": {
+        "props": {
+            "blockClass": [
+                "coxao-mole-text",
+                "categorias-text"
+            ],
+            "text": "Coxão Mole (5)"
+        }
+    },
+
+    /* FILE MIGNON */
+    "link.product#file-mignon-link": {
+        "props": {
+            "blockClass": [
+                "file-mignon-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/file-mignon",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#file-mignon-text"
+        ]
+    },
+    "rich-text#file-mignon-text": {
+        "props": {
+            "blockClass": [
+                "file-mignon-text",
+                "categorias-text"
+            ],
+            "text": "Filé Mignon (11)"
+        }
+    },
+
+    /* FRALDINHA */
+    "link.product#fraldinha-link": {
+        "props": {
+            "blockClass": [
+                "fraldinha-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/fraldinha",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#fraldinha-text"
+        ]
+    },
+    "rich-text#fraldinha-text": {
+        "props": {
+            "blockClass": [
+                "fraldinha-text",
+                "categorias-text"
+            ],
+            "text": "Fraldinha (6)"
+        }
+    },
+
+    /* LAGARTO */
+    "link.product#lagarto-link": {
+        "props": {
+            "blockClass": [
+                "lagarto-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/lagarto",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#lagarto-text"
+        ]
+    },
+    "rich-text#lagarto-text": {
+        "props": {
+            "blockClass": [
+                "lagarto-text",
+                "categorias-text"
+            ],
+            "text": "Lagarto (1)"
+        }
+    },
+
+    /* LINGUIÇA */
+    "link.product#linguica-link": {
+        "props": {
+            "blockClass": [
+                "linguica-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/linguica",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#linguica-text"
+        ]
+    },
+    "rich-text#linguica-text": {
+        "props": {
+            "blockClass": [
+                "linguica-text",
+                "categorias-text"
+            ],
+            "text": "Linguiça (50)"
+        }
+    },
+
+    /* MAMINHA */
+    "link.product#maminha-link": {
+        "props": {
+            "blockClass": [
+                "maminha-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/maminha",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#maminha-text"
+        ]
+    },
+    "rich-text#maminha-text": {
+        "props": {
+            "blockClass": [
+                "maminha-text",
+                "categorias-text"
+            ],
+            "text": "Maminha (4)"
+        }
+    },
+
+    /* OUTROS CORTES*/
+    "link.product#outros-cortes-link": {
+        "props": {
+            "blockClass": [
+                "outros-cortes-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/outros-cortes",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#outros-cortes-text"
+        ]
+    },
+    "rich-text#outros-cortes-text": {
+        "props": {
+            "blockClass": [
+                "outros-cortes-text",
+                "categorias-text"
+            ],
+            "text": "Outros Cortes (32)"
+        }
+    },
+
+    /* PATINHO */
+    "link.product#patinho-link": {
+        "props": {
+            "blockClass": [
+                "patinho-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/patinho",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#patinho-text"
+        ]
+    },
+    "rich-text#patinho-text": {
+        "props": {
+            "blockClass": [
+                "patinho-text",
+                "categorias-text"
+            ],
+            "text": "Patinho (3)"
+        }
+    },
+
+    /* PICANHA */
+    "link.product#picanhas-link": {
+        "props": {
+            "blockClass": [
+                "picanhas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/picanhas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#picanhas-text"
+        ]
+    },
+    "rich-text#picanhas-text": {
+        "props": {
+            "blockClass": [
+                "picanhas-text",
+                "categorias-text"
+            ],
+            "text": "Picanhas (1)"
+        }
+    },
+
+    /* SALSICHA */
+    "link.product#salsicha-link": {
+        "props": {
+            "blockClass": [
+                "salsicha-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/salsicha",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#salsicha-text"
+        ]
+    },
+    "rich-text#salsicha-text": {
+        "props": {
+            "blockClass": [
+                "salsicha-text",
+                "categorias-text"
+            ],
+            "text": "Salsicha (16)"
+        }
+    },
+
+    /* SUÍNO */
+    "link.product#suino-link": {
+        "props": {
+            "blockClass": [
+                "suino-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/suino",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#suino-text"
+        ]
+    },
+    "rich-text#suino-text": {
+        "props": {
+            "blockClass": [
+                "suino-text",
+                "categorias-text"
+            ],
+            "text": "Suíno (24)"
+        }
+    },
+
+    /* SUÍNOS CONGELADOS */
+    "link.product#suino-congelados-link": {
+        "props": {
+            "blockClass": [
+                "suino-congelados-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/suinos-congelados",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#suino-congelados-text"
+        ]
+    },
+    "rich-text#suino-congelados-text": {
+        "props": {
+            "blockClass": [
+                "suino-congelados-text",
+                "categorias-text"
+            ],
+            "text": "Suínos Congelados (9)"
+        }
+    }
+    
+}

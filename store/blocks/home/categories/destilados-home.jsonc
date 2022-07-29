@@ -1,0 +1,265 @@
+{
+    /* AGUARDENTE E CACHAÇA */
+    "link.product#aguardente-e-cachaca-link": {
+        "props": {
+            "blockClass": [
+                "aguardente-e-cachaca-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/aguardente-e-cachaca",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#aguardente-e-cachaca-text"
+        ]
+    },
+    "rich-text#aguardente-e-cachaca-text": {
+        "props": {
+            "blockClass": [
+                "aguardente-e-cachaca-text",
+                "categorias-text"
+            ],
+            "text": "Aguardente e Cachaça (19)"
+        }
+    },
+
+    /* APERITIVO*/
+    "link.product#aperitivo-link": {
+        "props": {
+            "blockClass": [
+                "aperitivo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/aperitivo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#aperitivo-text"
+        ]
+    },
+    "rich-text#aperitivo-text": {
+        "props": {
+            "blockClass": [
+                "aperitivo-text",
+                "categorias-text"
+            ],
+            "text": "Aperitivo (19)"
+        }
+    },
+
+    /* CONHAQUE E BRANDY*/
+    "link.product#conhaque-e-brandy-link": {
+        "props": {
+            "blockClass": [
+                "conhaque-e-brandy-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/conhaque-e-brandy",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#conhaque-e-brandy-text"
+        ]
+    },
+    "rich-text#conhaque-e-brandy-text": {
+        "props": {
+            "blockClass": [
+                "conhaque-e-brandy-text",
+                "categorias-text"
+            ],
+            "text": "Conhaque e Brandy (2)"
+        }
+    },
+
+    /* GIN */
+    "link.product#gin-link": {
+        "props": {
+            "blockClass": [
+                "gin-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/gin",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#gin-text"
+        ]
+    },
+    "rich-text#gin-text": {
+        "props": {
+            "blockClass": [
+                "gin-text",
+                "categorias-text"
+            ],
+            "text": "Gin (22)"
+        }
+    },
+
+    /* LICOR */
+    "link.product#licor-link": {
+        "props": {
+            "blockClass": [
+                "licor-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/licor",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#licor-text"
+        ]
+    },
+    "rich-text#licor-text": {
+        "props": {
+            "blockClass": [
+                "licor-text",
+                "categorias-text"
+            ],
+            "text": "Licor (12)"
+        }
+    },
+
+    /* PRONTO PARA BEBER */
+    "link.product#prontos-para-beber-link": {
+        "props": {
+            "blockClass": [
+                "prontos-para-beber-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/prontos-para-beber",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#prontos-para-beber-text"
+        ]
+    },
+    "rich-text#prontos-para-beber-text": {
+        "props": {
+            "blockClass": [
+                "prontos-para-beber-text",
+                "categorias-text"
+            ],
+            "text": "Prontos para Beber (23)"
+        }
+    },
+
+    /* RUM E TEQUILA */
+    "link.product#rum-e-tequila-link": {
+        "props": {
+            "blockClass": [
+                "rum-e-tequila-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/rum-e-tequila",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#rum-e-tequila-text"
+        ]
+    },
+    "rich-text#rum-e-tequila-text": {
+        "props": {
+            "blockClass": [
+                "rum-e-tequila-text",
+                "categorias-text"
+            ],
+            "text": "Rum e Tequila (5)"
+        }
+    },
+
+    /* SAQUÊ */
+    "link.product#saque-link": {
+        "props": {
+            "blockClass": [
+                "saque-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/saque",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#saque-text"
+        ]
+    },
+    "rich-text#saque-text": {
+        "props": {
+            "blockClass": [
+                "saque-text",
+                "categorias-text"
+            ],
+            "text": "Saquê (6)"
+        }
+    },
+
+    /* VERMOUTH */
+    "link.product#vermouth-link": {
+        "props": {
+            "blockClass": [
+                "vermouth-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/vermouth",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#vermouth-text"
+        ]
+    },
+    "rich-text#vermouth-text": {
+        "props": {
+            "blockClass": [
+                "vermouth-text",
+                "categorias-text"
+            ],
+            "text": "Vermouth (6)"
+        }
+    },
+
+    /* VODKA */
+    "link.product#vodka-link": {
+        "props": {
+            "blockClass": [
+                "vodka-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/vodka",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#vodka-text"
+        ]
+    },
+    "rich-text#vodka-text": {
+        "props": {
+            "blockClass": [
+                "vodka-text",
+                "categorias-text"
+            ],
+            "text": "Vodka (26)"
+        }
+    },
+
+    /* WHISKY */
+    "link.product#whisky-link": {
+        "props": {
+            "blockClass": [
+                "whisky-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/whisky",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#whisky-text"
+        ]
+    },
+    "rich-text#whisky-text": {
+        "props": {
+            "blockClass": [
+                "whisky-text",
+                "categorias-text"
+            ],
+            "text": "Whisky (14)"
+        }
+    }
+}

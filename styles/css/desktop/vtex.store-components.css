@@ -1,0 +1,94 @@
+/* LOGO IMAGE */
+
+.imageElement--logo-image-desktop {
+    width: 231px;
+}
+
+
+/* SEARCH INPUT */
+
+.searchBarInnerContainer--input-search-desktop {
+    width: 596px;
+    background-color: #32593B;
+
+}
+
+.searchBarInnerContainer--mh2 {
+    display: none;
+
+}
+
+.searchBarContainer :global(.vtex-input-prefix__group) {
+    border: 1px solid transparent;
+    color: white;
+}
+
+.searchBarContainer :global(.vtex-input__suffix) {
+    background-color: transparent;
+}
+
+
+.searchBarContainer :global(.vtex__icon-search) {
+    color: white;
+}
+
+
+.searchBarInnerContainer--input-search {
+    width: 596px;
+    background-color: #32593B;
+    color: #fff;
+    margin-right: 1px;
+    padding: 8px 12px;
+}
+
+.searchBarContainer--input-prefix__group .vtex-input-prefix__group {
+    border-color: #428851;
+
+}
+
+:global(.vtex-store-components-3-x-searchBarContainer--fw) {
+    background-color: #428851;
+}
+
+/* PRIMARY BANNER */
+
+.imageElement--image-banner {
+    border-radius: 4px;
+}
+
+
+/* SHELFS */
+
+.imageElement--product-carousel {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    width: 7.1rem;
+    height: 7.1rem;
+}
+
+/* CARDS */
+
+.imageElement--cards-desktop {
+    margin: 0 10px;
+}
+
+.imageElement--american-express-desktop {
+    width: 30px;
+    height: 30px;
+}
+
+.imageElement--elo-desktop {
+    width: 40px;
+    height: 40px;
+}
+
+.imageElement--master-card-desktop {
+    width: 35px;
+    height: 35px;
+}
+
+.imageElement--visa-desktop {
+    width: 35px;
+    height: 35px;
+}

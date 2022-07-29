@@ -1,0 +1,40 @@
+{
+    "flex-layout.row#disclaimer-cnpj-desktop": {
+        "props": {
+            "blockClass": "disclaimer-cnpj",
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "flex-layout.col#disclaimer-cnpj-column"
+        ]
+    },
+
+    "flex-layout.col#disclaimer-cnpj-column": {
+        "props": {
+            "blockClass": "disclaimer-cnpj-column"
+        },
+        "children": [
+            "rich-text#disclaimer-desktop",
+            "rich-text#cnpj-desktop"
+        ]
+    },
+
+
+    /* DISCLAIMER */
+
+    "rich-text#disclaimer-desktop": {
+        "props": {
+            "blockClass": "disclaimer-desktop",
+            "text": "SÃO PROIBIDAS A VENDA E ENTREGA DE BEBIDAS ALCOÓLICAS A MENORES DE 18 (DEZOITO) ANOS (art. 81, II, do Estatuto da Criança e do Adolescente)."
+        }
+    },
+
+    /* CNPJ */
+
+    "rich-text#cnpj-desktop": {
+        "props": {
+            "blockClass": "cnpj-desktop",
+            "text": "CNPJ: 09.000.493/0002-15 "
+        }
+    }
+}

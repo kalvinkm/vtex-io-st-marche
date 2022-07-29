@@ -1,0 +1,121 @@
+{
+    /* BOLOS INDUSTRIALIZADOS */
+    "link.product#bolos-industrializados-link": {
+        "props": {
+            "blockClass": [
+                "bolos-industrializados-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bolos-industrializados",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#bolos-industrializados-text"
+        ]
+    },
+    "rich-text#bolos-industrializados-text": {
+        "props": {
+            "blockClass": [
+                "bolos-industrializados-text",
+                "categorias-text"
+            ],
+            "text": "Bolos Industrializados (72)"
+        }
+    },
+
+    /* BOLOS RECHEADOS ST MARCHE */
+    "link.product#bolos-recheados-st-marche-link": {
+        "props": {
+            "blockClass": [
+                "bolos-recheados-st-marche-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bolos-recheados-st-marche",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#bolos-recheados-st-marche-text"
+        ]
+    },
+    "rich-text#bolos-recheados-st-marche-text": {
+        "props": {
+            "blockClass": [
+                "bolos-recheados-st-marche-text",
+                "categorias-text"
+            ],
+            "text": "Bolos Recheados St Marche (10)"
+        }
+    },
+
+    /* BOLOS RECHEADOS ST MARCHE */
+    "link.product#bolos-secos-st-marche-link": {
+        "props": {
+            "blockClass": [
+                "bolos-secos-st-marche-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bolos-secos-st-marche",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#bolos-secos-st-marche-text"
+        ]
+    },
+    "rich-text#bolos-secos-st-marche-text": {
+        "props": {
+            "blockClass": [
+                "bolos-secos-st-marche-text",
+                "categorias-text"
+            ],
+            "text": "Bolos Secos St Marche (10)"
+        }
+    },
+
+    /* BROWNIE, PÃO DE MEL E DOCES */
+    "link.product#brownie-pao-de-mel-e-doces-link": {
+        "props": {
+            "blockClass": [
+                "brownie-pao-de-mel-e-doces-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/brownie-pao-de-mel-e-doces",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#brownie-pao-de-mel-e-doces-text"
+        ]
+    },
+    "rich-text#brownie-pao-de-mel-e-doces-text": {
+        "props": {
+            "blockClass": [
+                "brownie-pao-de-mel-e-doces-text",
+                "categorias-text"
+            ],
+            "text": "Brownie, Pão de Mel e Doces (31)"
+        }
+    },
+
+    /* TORTAS E DOCES */
+    "link.product#tortas-e-doces-st-marche-link": {
+        "props": {
+            "blockClass": [
+                "tortas-e-doces-st-marche-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/tortas-e-doces-st-marche",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#tortas-e-doces-st-marche-text"
+        ]
+    },
+    "rich-text#tortas-e-doces-st-marche-text": {
+        "props": {
+            "blockClass": [
+                "tortas-e-doces-st-marche-text",
+                "categorias-text"
+            ],
+            "text": "Tortas e Doces (11)"
+        }
+    }
+}

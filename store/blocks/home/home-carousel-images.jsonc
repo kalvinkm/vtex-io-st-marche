@@ -1,0 +1,93 @@
+{
+    /*----------- CAROUSEL --------------------------------*/
+
+  "flex-layout.row#carousel-images": {
+    "props": {
+      "blockClass": "carousel-images"
+    },
+    "children": [
+      "slider-layout#image-slider"
+    ]
+  },
+  "slider-layout#image-slider": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 1
+      },
+      "autoplay": {
+        "timeout": 3000
+      },
+      "infinite": true,
+      "blockClass": "image-slider-desktop",
+      "showNavigationArrows": "always"
+    },
+    "children": [
+      "link.product#cafe-da-manha-image-link",
+      "link.product#selecao-adega-image-link",
+      "link.product#ofertas-exclusivas-st-marche-image-link",
+      "link.product#cervejas-artesanais-image-link",
+      "link.product#pra-ficar-ligado-image-link"
+    ]
+  },
+
+     /* CAROUSEL MOBILE ------------------------------------ */
+     "flex-layout.row#carousel-images-mobile": {
+        "props": {
+          "blockClass": "carousel-images-mobile"
+        },
+        "children": [
+          "slider-layout#image-slider-mobile"
+        ]
+      },
+      "slider-layout#image-slider-mobile": {
+        "props": {
+          "itemsPerPage": {
+            "desktop": 1,
+            "tablet": 1,
+            "phone": 1
+          },
+          "autoplay": {
+            "timeout": 3000
+          },
+          "infinite": true,
+          "blockClass": "image-slider-mobile",
+          "showNavigationArrows": "always"
+        },
+        "children": [
+          "link.product#frete-gratis-banner-link",
+          "link.product#energetico-mobile-link"
+        ]
+      },
+      "link.product#frete-gratis-banner-link": {
+        "props": {
+          "blockClass": "frete-gratis-banner-link",
+          "href": "https://www.marche.com.br/window_displays/pro-friozinho"
+        },
+        "children": [
+          "image#frete-gratis-banner"
+        ]
+      },
+      "image#frete-gratis-banner": {
+        "props": {
+          "blockClass": ["frete-gratis-banner", "image-mobile"],
+          "src": "assets/imgs/frete-gratis-banner.png"
+        }
+      },
+      "link.product#energetico-mobile-link": {
+        "props": {
+          "blockClass": "energetico-mobile-link",
+          "href": "https://www.marche.com.br/window_displays/pra-ficar-ligado"
+        },
+        "children": [
+          "image#energetico-mobile"
+        ]
+      },
+      "image#energetico-mobile": {
+        "props": {
+          "blockClass": ["energetico-mobile", "image-mobile"],
+          "src": "assets/imgs/energetico-mobile.png"
+        }
+      }
+}

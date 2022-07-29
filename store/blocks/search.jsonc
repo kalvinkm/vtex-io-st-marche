@@ -99,7 +99,7 @@
     "children": [
       "flex-layout.row#searchinfo",
       "flex-layout.row#fetchprevious",
-      "flex-layout.row#products",
+      "flex-layout.row#products-mobile",
       "flex-layout.row#fetchmore"
     ],
     "props": {
@@ -147,7 +147,7 @@
       "htmlElementForButton": "a"
     }
   },
-  "flex-layout.row#products": {
+  "flex-layout.row#products-mobile": {
     "children": ["search-content"]
   },
   "search-content": {

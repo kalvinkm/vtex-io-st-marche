@@ -1,0 +1,96 @@
+{
+    /* SHELF PRODUCTS (2 ITEMS) */
+
+  "flex-layout.row#shelf-two-items": {
+    "props": {
+      "blockClass": "shelf-two-items"
+    },
+    "children": [
+      "flex-layout.row#shelf-row-one-mobile",
+      "flex-layout.row#shelf-row-two-mobile",
+      "flex-layout.row#shelf-row-three-mobile"
+    ]
+  },
+
+  "flex-layout.row#shelf-row-one-mobile": {
+    "props": {
+      "blockClass": "shelf-row-one-mobile"
+    },
+    "children": [
+      "flex-layout.col#geleia-morango-linea-column",
+      "flex-layout.col#swiss-classic-dark-lindt-column"
+    ]
+  },
+
+  "flex-layout.row#shelf-row-two-mobile": {
+    "props": {
+      "blockClass": "shelf-row-two-mobile"
+    },
+    "children":[
+      "flex-layout.col#scotch-whisky-dewars-column",
+      "flex-layout.col#chocolate-choc-chip-labasque-column"
+    ]
+  },
+
+  "flex-layout.row#shelf-row-three-mobile": {
+    "props": {
+      "blockClass": "shelf-row-three-mobile"
+    },
+    "children":[
+      "flex-layout.col#brooklyn-lager-beer-column",
+      "flex-layout.col#jamon-espanol-rar-column"
+    ]
+  },
+
+
+
+  /* SHELF PRODUCTS (3 ITEMS)  */
+
+  "flex-layout.col#shelf-three-items": {
+    "props": {
+      "blockClass": "shelf-three-items",
+      "preventVerticalStretch": true
+    },
+    "children": [
+      "flex-layout.row#shelf-row-one-mobile-three-items",
+      "flex-layout.row#shelf-row-two-mobile-three-items",
+      "flex-layout.row#shelf-row-three-mobile-three-items"
+    ]
+  },
+
+  "flex-layout.row#shelf-row-one-mobile-three-items": {
+    "props": {
+      "blockClass": "shelf-row-one-mobile"
+    },
+    "children": [
+      "flex-layout.col#geleia-morango-linea-column",
+      "flex-layout.col#swiss-classic-dark-lindt-column",
+      "flex-layout.col#tomates-pelados-la-pastina-column"
+    ]
+  },
+
+  "flex-layout.row#shelf-row-two-mobile-three-items": {
+    "props": {
+      "blockClass": "shelf-row-two-mobile"
+    },
+    "children":[
+      "flex-layout.col#scotch-whisky-dewars-column",
+      "flex-layout.col#chocolate-choc-chip-labasque-column",
+      "flex-layout.col#vinho-italiano-domodo-montepuliano-dabruzo-column"
+    ]
+  },
+
+  "flex-layout.row#shelf-row-three-mobile-three-items": {
+    "props": {
+      "blockClass": "shelf-row-three-mobile"
+    },
+    "children":[
+      "flex-layout.col#brooklyn-lager-beer-column",
+      "flex-layout.col#jamon-espanol-rar-column",
+      "flex-layout.col#leite-condensado-moca-nestle-column"
+    ]
+  }
+}
+
+
+

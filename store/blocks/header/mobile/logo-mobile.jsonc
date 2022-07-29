@@ -1,13 +1,12 @@
 {
-    "flex-layout.row#logo-search": {
+    "flex-layout.row#logo-mobile": {
         "props": {
-          "blockClass": "logo-search",
+          "blockClass": "logo-mobile",
           "preventHorizontalStretch": true
     
         },
         "children": [
-          "link.product#logo-link",
-          "rich-text#search"
+          "link.product#logo-link"
         ]
       },
     
@@ -28,13 +27,6 @@
           "url": "assets/imgs/st-marche-logo.png",
           "width": "130"
         }
-      },
-
-    
-      "rich-text#search": {
-        "props": {
-          "blockClass": "search",
-          "text": "![search](assets/imgs/search-icon-header.jpg)"
-        }
       }
+
 }

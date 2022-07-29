@@ -1,0 +1,193 @@
+{
+    /* PADARIA ST MARCHE */
+    "link.product#padaria-st-marche-link": {
+        "props": {
+            "blockClass": [
+                "padaria-st-marche-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/padaria-st-marche",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#padaria-st-marche-text"
+        ]
+    },
+    "rich-text#padaria-st-marche-text": {
+        "props": {
+            "blockClass": [
+                "padaria-st-marche-text",
+                "categorias-text"
+            ],
+            "text": "Padaria St Marche (73)"
+        }
+    },
+
+    /* PÃO DE ALHO */
+    "link.product#pao-de-alho-link": {
+        "props": {
+            "blockClass": [
+                "pao-de-alho-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pao-de-alho",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pao-de-alho-text"
+        ]
+    },
+    "rich-text#pao-de-alho-text": {
+        "props": {
+            "blockClass": [
+                "pao-de-alho-text",
+                "categorias-text"
+            ],
+            "text": "Pão de Alho (4)"
+        }
+    },
+
+    /* PÃO DE FORMA */
+    "link.product#pao-de-forma-link": {
+        "props": {
+            "blockClass": [
+                "pao-de-forma-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pao-de-forma",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pao-de-forma-text"
+        ]
+    },
+    "rich-text#pao-de-forma-text": {
+        "props": {
+            "blockClass": [
+                "pao-de-forma-text",
+                "categorias-text"
+            ],
+            "text": "Pão de forma (65)"
+        }
+    },
+
+    /* PÃO DE HAMBÚRGUER */
+    "link.product#pao-de-hamburguer-link": {
+        "props": {
+            "blockClass": [
+                "pao-de-hamburguer-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pao-de-hamburguer",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pao-de-hamburguer-text"
+        ]
+    },
+    "rich-text#pao-de-hamburguer-text": {
+        "props": {
+            "blockClass": [
+                "pao-de-hamburguer-text",
+                "categorias-text"
+            ],
+            "text": "Pão de Hambúrguer (11)"
+        }
+    },
+
+    /* PÃO DE HOT DOG */
+    "link.product#pao-de-hot-dog-link": {
+        "props": {
+            "blockClass": [
+                "pao-de-hot-dog-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pao-de-hot-dog",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pao-de-hot-dog-text"
+        ]
+    },
+    "rich-text#pao-de-hot-dog-text": {
+        "props": {
+            "blockClass": [
+                "pao-de-hot-dog-text",
+                "categorias-text"
+            ],
+            "text": "Pão de Hot Dog (4)"
+        }
+    },
+
+    /* PÃO PARA LANCHE */
+    "link.product#pao-para-lanche-link": {
+        "props": {
+            "blockClass": [
+                "pao-para-lanche-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pao-para-lanche",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pao-para-lanche-text"
+        ]
+    },
+    "rich-text#pao-para-lanche-text": {
+        "props": {
+            "blockClass": [
+                "pao-para-lanche-text",
+                "categorias-text"
+            ],
+            "text": "Pão para Lanche (24)"
+        }
+    },
+
+    /* PÃO SÍRIO E OUTROS */
+    "link.product#pao-sirio-e-outros-link": {
+        "props": {
+            "blockClass": [
+                "pao-sirio-e-outros-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pao-sirio-e-outros",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pao-sirio-e-outros-text"
+        ]
+    },
+    "rich-text#pao-sirio-e-outros-text": {
+        "props": {
+            "blockClass": [
+                "pao-sirio-e-outros-text",
+                "categorias-text"
+            ],
+            "text": "Pão Sírio e Outros (25)"
+        }
+    },
+
+    /* TORRADS E CROSTATAS ARTESANAIS */
+    "link.product#torradas-e-crostatas-artesanais-link": {
+        "props": {
+            "blockClass": [
+                "torradas-e-crostatas-artesanais-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/torradas-e-crostatas-artesanais",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#torradas-e-crostatas-artesanais-text"
+        ]
+    },
+    "rich-text#torradas-e-crostatas-artesanais-text": {
+        "props": {
+            "blockClass": [
+                "torradas-e-crostatas-artesanais-text",
+                "categorias-text"
+            ],
+            "text": "Torradas e Crostatas Artesanais (47)"
+        }
+    }
+}

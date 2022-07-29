@@ -1,0 +1,169 @@
+{
+    /* COGUMELO E BROTO*/
+    "link.product#cogumelo-e-broto-link": {
+        "props": {
+            "blockClass": [
+                "cogumelo-e-broto-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cogumelo-e-broto",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#cogumelo-e-broto-text"
+        ]
+    },
+    "rich-text#cogumelo-e-broto-text": {
+        "props": {
+            "blockClass": [
+                "cogumelo-e-broto-text",
+                "categorias-text"
+            ],
+            "text": "Cogumelo e Broto (6)"
+        }
+    },
+
+    /* FRUTA */
+    "link.product#fruta-link": {
+        "props": {
+            "blockClass": [
+                "fruta-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/fruta",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#fruta-text"
+        ]
+    },
+    "rich-text#fruta-text": {
+        "props": {
+            "blockClass": [
+                "fruta-text",
+                "categorias-text"
+            ],
+            "text": "Fruta (98)"
+        }
+    },
+
+    /* LEGUME */
+    "link.product#legume-link": {
+        "props": {
+            "blockClass": [
+                "legume-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/legume",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#legume-text"
+        ]
+    },
+    "rich-text#legume-text": {
+        "props": {
+            "blockClass": [
+                "legume-text",
+                "categorias-text"
+            ],
+            "text": "legume (73)"
+        }
+    },
+
+    /* OVO */
+    "link.product#ovo-link": {
+        "props": {
+            "blockClass": [
+                "ovo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/ovo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#ovo-text"
+        ]
+    },
+    "rich-text#ovo-text": {
+        "props": {
+            "blockClass": [
+                "ovo-text",
+                "categorias-text"
+            ],
+            "text": "Ovo (12)"
+        }
+    },
+
+    /* SALADA DE FRUTA */
+    "link.product#salada-de-fruta-link": {
+        "props": {
+            "blockClass": [
+                "salada-de-fruta-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/salada-de-fruta",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#salada-de-fruta-text"
+        ]
+    },
+    "rich-text#salada-de-fruta-text": {
+        "props": {
+            "blockClass": [
+                "salada-de-fruta-text",
+                "categorias-text"
+            ],
+            "text": "Salada de Fruta (1)"
+        }
+    },
+
+    /* SALADA DE FRUTA */
+    "link.product#tempero-link": {
+        "props": {
+            "blockClass": [
+                "tempero-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/tempero",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#tempero-text"
+        ]
+    },
+    "rich-text#tempero-text": {
+        "props": {
+            "blockClass": [
+                "tempero-text",
+                "categorias-text"
+            ],
+            "text": "Tempero (12)"
+        }
+    },
+
+    /* SALADA DE FRUTA */
+    "link.product#verdura-link": {
+        "props": {
+            "blockClass": [
+                "verdura-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/verdura",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#verdura-text"
+        ]
+    },
+    "rich-text#verdura-text": {
+        "props": {
+            "blockClass": [
+                "verdura-text",
+                "categorias-text"
+            ],
+            "text": "Verdura (15)"
+        }
+    }
+}

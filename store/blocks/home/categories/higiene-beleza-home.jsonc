@@ -1,0 +1,457 @@
+{
+    /* ABSORVENTE */
+    "link.product#absorvente-link": {
+        "props": {
+            "blockClass": [
+                "absorvente-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/absorvente",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#absorvente-text"
+        ]
+    },
+    "rich-text#absorvente-text": {
+        "props": {
+            "blockClass": [
+                "absorvente-text",
+                "categorias-text"
+            ],
+            "text": "Absorvente (25)"
+        }
+    },
+
+    /* ACESSÓRIO PARA BANHO */
+    "link.product#acessorio-para-banho-link": {
+        "props": {
+            "blockClass": [
+                "acessorio-para-banho-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/acessorio-para-banho",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#acessorio-para-banho-text"
+        ]
+    },
+    "rich-text#acessorio-para-banho-text": {
+        "props": {
+            "blockClass": [
+                "acessorio-para-banho-text",
+                "categorias-text"
+            ],
+            "text": "Acessório para Banho (1)"
+        }
+    },
+
+    /* ACESSÓRIO PARA CABELO */
+    "link.product#acessorio-para-cabelo-link": {
+        "props": {
+            "blockClass": [
+                "acessorio-para-cabelo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/acessorio-para-cabelo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#acessorio-para-cabelo-text"
+        ]
+    },
+    "rich-text#acessorio-para-cabelo-text": {
+        "props": {
+            "blockClass": [
+                "acessorio-para-cabelo-text",
+                "categorias-text"
+            ],
+            "text": "Acessório para Cabelo (3)"
+        }
+    },
+
+    /* ANTISSÉPTICO BUCAL */
+    "link.product#antisseptico-bucal-link": {
+        "props": {
+            "blockClass": [
+                "antisseptico-bucal-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/antisseptico-bucal",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#antisseptico-bucal-text"
+        ]
+    },
+    "rich-text#antisseptico-bucal-text": {
+        "props": {
+            "blockClass": [
+                "antisseptico-bucal-text",
+                "categorias-text"
+            ],
+            "text": "Antisséptico Bucal (8)"
+        }
+    },
+
+    /* BARBA */
+    "link.product#barba-link": {
+        "props": {
+            "blockClass": [
+                "barba-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/barba",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#barba-text"
+        ]
+    },
+    "rich-text#barba-text": {
+        "props": {
+            "blockClass": [
+                "barba-text",
+                "categorias-text"
+            ],
+            "text": "Barba (12)"
+        }
+    },
+
+    /* CONDICIONADOR */
+    "link.product#condicionador-link": {
+        "props": {
+            "blockClass": [
+                "condicionador-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/condicionador",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#condicionador-text"
+        ]
+    },
+    "rich-text#condicionador-text": {
+        "props": {
+            "blockClass": [
+                "condicionador-text",
+                "categorias-text"
+            ],
+            "text": "Condicionador (47)"
+        }
+    },
+
+    /* CREME DENTAL */
+    "link.product#creme-dental-link": {
+        "props": {
+            "blockClass": [
+                "creme-dental-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/creme-dental",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#creme-dental-text"
+        ]
+    },
+    "rich-text#creme-dental-text": {
+        "props": {
+            "blockClass": [
+                "creme-dental-text",
+                "categorias-text"
+            ],
+            "text": "Creme Dental (29)"
+        }
+    },
+
+    /* DEPILAÇÃO */
+    "link.product#depilacao-link": {
+        "props": {
+            "blockClass": [
+                "depilacao-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/depilacao",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#depilacao-text"
+        ]
+    },
+    "rich-text#depilacao-text": {
+        "props": {
+            "blockClass": [
+                "depilacao-text",
+                "categorias-text"
+            ],
+            "text": "Depilação (29)"
+        }
+    },
+
+    /* DESCARTÁVEIS */
+    "link.product#descartaveis-link": {
+        "props": {
+            "blockClass": [
+                "descartaveis-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/descartaveis",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#descartaveis-text"
+        ]
+    },
+    "rich-text#descartaveis-text": {
+        "props": {
+            "blockClass": [
+                "descartaveis-text",
+                "categorias-text"
+            ],
+            "text": "Descartáveis (11)"
+        }
+    },
+
+    /* DESODORANTE */
+    "link.product#desodorante-link": {
+        "props": {
+            "blockClass": [
+                "desodorante-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/desodorante",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#desodorante-text"
+        ]
+    },
+    "rich-text#desodorante-text": {
+        "props": {
+            "blockClass": [
+                "desodorante-text",
+                "categorias-text"
+            ],
+            "text": "Desodorante (36)"
+        }
+    },
+
+    /* ESCOVA DENTAL */
+    "link.product#escova-dental-link": {
+        "props": {
+            "blockClass": [
+                "escova-dental-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/escova-dental",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#escova-dental-text"
+        ]
+    },
+    "rich-text#escova-dental-text": {
+        "props": {
+            "blockClass": [
+                "escova-dental-text",
+                "categorias-text"
+            ],
+            "text": "Escova Dental (18)"
+        }
+    },
+
+    /* ESCOVA DENTAL */
+    "link.product#fio-dental-link": {
+        "props": {
+            "blockClass": [
+                "fio-dental-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/fio-dental",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#fio-dental-text"
+        ]
+    },
+    "rich-text#fio-dental-text": {
+        "props": {
+            "blockClass": [
+                "fio-dental-text",
+                "categorias-text"
+            ],
+            "text": "Fio Dental (4)"
+        }
+    },
+
+    /* HIDRATAÇÃO E FINALIZADOR PARA CABELO */
+    "link.product#hidratacao-e-finalizador-para-cabelo-link": {
+        "props": {
+            "blockClass": [
+                "hidratacao-e-finalizador-para-cabelo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/hidratacao-e-finalizador-para-cabelo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#hidratacao-e-finalizador-para-cabelo-text"
+        ]
+    },
+    "rich-text#hidratacao-e-finalizador-para-cabelo-text": {
+        "props": {
+            "blockClass": [
+                "hidratacao-e-finalizador-para-cabelo-text",
+                "categorias-text"
+            ],
+            "text": "Hidratação e Finalizador para Cabelo (24)"
+        }
+    },
+
+    /* HIDRATANTES */
+    "link.product#hidratantes-link": {
+        "props": {
+            "blockClass": [
+                "hidratantes-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/hidratantes",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#hidratantes-text"
+        ]
+    },
+    "rich-text#hidratantes-text": {
+        "props": {
+            "blockClass": [
+                "hidratantes-text",
+                "categorias-text"
+            ],
+            "text": "Hidratantes (28)"
+        }
+    },
+
+    /* HIGIENE ÍNTIMA */
+    "link.product#higiene-intima-link": {
+        "props": {
+            "blockClass": [
+                "higiene-intima-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/higiene-intima",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#higiene-intima-text"
+        ]
+    },
+    "rich-text#higiene-intima-text": {
+        "props": {
+            "blockClass": [
+                "higiene-intima-text",
+                "categorias-text"
+            ],
+            "text": "Higiene Íntima (4)"
+        }
+    },
+
+    /* PAPEL HIGIÊNICO */
+    "link.product#papel-higienico-link": {
+        "props": {
+            "blockClass": [
+                "papel-higienico-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/papel-higienico",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#papel-higienico-text"
+        ]
+    },
+    "rich-text#papel-higienico-text": {
+        "props": {
+            "blockClass": [
+                "papel-higienico-text",
+                "categorias-text"
+            ],
+            "text": "Papel Higiênico (8)"
+        }
+    },
+
+    /* PROTETOR E REPELENTE*/
+    "link.product#protetor-e-repelente-link": {
+        "props": {
+            "blockClass": [
+                "protetor-e-repelente-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/protetor-e-repelente",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#protetor-e-repelente-text"
+        ]
+    },
+    "rich-text#protetor-e-repelente-text": {
+        "props": {
+            "blockClass": [
+                "protetor-e-repelente-text",
+                "categorias-text"
+            ],
+            "text": "Protetor e Repelente (1)"
+        }
+    },
+
+    /* SABONETES*/
+    "link.product#sabonetes-link": {
+        "props": {
+            "blockClass": [
+                "sabonetes-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sabonetes",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sabonetes-text"
+        ]
+    },
+    "rich-text#sabonetes-text": {
+        "props": {
+            "blockClass": [
+                "sabonetes-text",
+                "categorias-text"
+            ],
+            "text": "Sabonetes (144)"
+        }
+    },
+
+    /* SABONETES*/
+    "link.product#shampoo-link": {
+        "props": {
+            "blockClass": [
+                "shampoo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/shampoo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#shampoo-text"
+        ]
+    },
+    "rich-text#shampoo-text": {
+        "props": {
+            "blockClass": [
+                "shampoo-text",
+                "categorias-text"
+            ],
+            "text": "Shampoo (144)"
+        }
+    }
+}

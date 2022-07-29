@@ -1,0 +1,264 @@
+{
+    "flex-layout.row#navigation-links-footer": {
+        "props": {
+            "blockClass": "navigation-links-footer",
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "link.product#footer-desktop-about-link",
+            "link.product#footer-desktop-doubt-link",
+            "link.product#footer-desktop-privacy-link",
+            "link.product#footer-desktop-therms-link",
+            "link.product#footer-desktop-apps-link",
+            "link.product#footer-desktop-our-store-link",
+            "link.product#footer-desktop-work-link",
+            "link.product#footer-desktop-contacts-link",
+            "link.product#footer-desktop-campaign-link",
+            "link.product#footer-desktop-exchange-returns-link"
+        ]
+    },
+
+    /* LINKS NAVIGATION FOOTER */
+
+    /* SOBRE */
+
+    "link.product#footer-desktop-about-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-about-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/sobre"
+        },
+        "children": [
+            "rich-text#about-desktop-footer"
+        ]
+    },
+    "rich-text#about-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "about-desktop-footer"
+            ],
+            "text": "Sobre"
+        }
+    },
+
+    /* DÚVIDAS */
+
+    "link.product#footer-desktop-doubt-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-doubt-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://ajuda.marche.com.br/"
+        },
+        "children": [
+            "rich-text#doubt-desktop-footer"
+        ]
+    },
+    "rich-text#doubt-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "doubt-desktop-footer"
+            ],
+            "text": "Dúvidas"
+        }
+    },
+
+    /* PRIVACIDADE */
+
+    "link.product#footer-desktop-privacy-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-privacy-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/privacidade"
+        },
+        "children": [
+            "rich-text#privacy-desktop-footer"
+        ]
+    },
+    "rich-text#privacy-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "privacy-desktop-footer"
+            ],
+            "text": "Privacidade"
+        }
+    },
+
+    /* TERMOS */
+
+    "link.product#footer-desktop-therms-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-therms-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/termos"
+        },
+        "children": [
+            "rich-text#therms-desktop-footer"
+        ]
+    },
+    "rich-text#therms-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "therms-desktop-footer"
+            ],
+            "text": "Termos"
+        }
+    },
+
+    /* APPS */
+
+    "link.product#footer-desktop-apps-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-apps-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/apps"
+        },
+        "children": [
+            "rich-text#apps-desktop-footer"
+        ]
+    },
+    "rich-text#apps-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "apps-desktop-footer"
+            ],
+            "text": "Apps"
+        }
+    },
+
+    /* NOSSAS LOJAS */
+
+    "link.product#footer-desktop-our-store-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-our-store-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/nossas-lojas"
+        },
+        "children": [
+            "rich-text#our-store-desktop-footer"
+        ]
+    },
+    "rich-text#our-store-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "our-store-desktop-footer"
+            ],
+            "text": "Lojas"
+        }
+    },
+
+    /* TABALHE CONOSCO */
+
+    "link.product#footer-desktop-work-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-work-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://stmarche.pandape.com.br/"
+        },
+        "children": [
+            "rich-text#work-desktop-footer"
+        ]
+    },
+    "rich-text#work-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "work-desktop-footer"
+            ],
+            "text": "Trabalhe Conosco"
+        }
+    },
+
+    /* CONTATOS */
+
+    "link.product#footer-desktop-contacts-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-contacts-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/contato"
+        },
+        "children": [
+            "rich-text#contacts-desktop-footer"
+        ]
+    },
+    "rich-text#contacts-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "contacts-desktop-footer"
+            ],
+            "text": "Contatos"
+        }
+    },
+
+    /* CAMPANHAS */
+
+    "link.product#footer-desktop-campaign-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-campaign-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://campanha.marche.com.br/ofertas-stmarche/"
+        },
+        "children": [
+            "rich-text#campaign-desktop-footer"
+        ]
+    },
+    "rich-text#campaign-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "campaign-desktop-footer"
+            ],
+            "text": "Campanhas"
+        }
+    },
+
+    /* TROCAS E DEVOLUÇÕES */
+
+    "link.product#footer-desktop-exchange-returns-link": {
+        "props": {
+            "blockClass": [
+                "footer-desktop-exchange-returns-link",
+                "footer-desktop-link"
+            ],
+            "href": "https://ajuda.marche.com.br/hc/pt-br/sections/5718564243348-Trocas-e-Devolu%C3%A7%C3%B5es"
+        },
+        "children": [
+            "rich-text#exchange-returns-desktop-footer"
+        ]
+    },
+    "rich-text#exchange-returns-desktop-footer": {
+        "props": {
+            "blockClass": [
+                "paragraph-desktop-footer",
+                "exchange-returns-desktop-footer"
+            ],
+            "text": "Trocas e Devoluções"
+        }
+    }
+}
+
+   

@@ -1,0 +1,145 @@
+{
+    /* ANTEPASTO */
+    "link.product#antepasto-link": {
+        "props": {
+            "blockClass": [
+                "antepasto-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/antepasto",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#antepasto-text"
+        ]
+    },
+    "rich-text#antepasto-text": {
+        "props": {
+            "blockClass": [
+                "antepasto-text",
+                "categorias-text"
+            ],
+            "text": "Antepasto (12)"
+        }
+    },
+
+    /* ESFIHA E KIBE */
+    "link.product#esfiha-e-kibe-link": {
+        "props": {
+            "blockClass": [
+                "esfiha-e-kibe-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/esfiha-e-kibe",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#esfiha-e-kibe-text"
+        ]
+    },
+    "rich-text#esfiha-e-kibe-text": {
+        "props": {
+            "blockClass": [
+                "esfiha-e-kibe-text",
+                "categorias-text"
+            ],
+            "text": "Esfiha e Kibe (8)"
+        }
+    },
+
+    /* HOMUS, BABAGANUCH E COALHADA */
+    "link.product#homus-babaganuch-e-coalhada-link": {
+        "props": {
+            "blockClass": [
+                "homus-babaganuch-e-coalhada-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/homus-babaganuch-e-coalhada",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#homus-babaganuch-e-coalhada-text"
+        ]
+    },
+    "rich-text#homus-babaganuch-e-coalhada-text": {
+        "props": {
+            "blockClass": [
+                "homus-babaganuch-e-coalhada-text",
+                "categorias-text"
+            ],
+            "text": "Homus, Babaganuch e Coalhada (3)"
+        }
+    },
+
+    /* PATÊ E BOURSIN */
+    "link.product#pate-e-boursin-link": {
+        "props": {
+            "blockClass": [
+                "pate-e-boursin-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pate-e-boursin",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pate-e-boursin-text"
+        ]
+    },
+    "rich-text#pate-e-boursin-text": {
+        "props": {
+            "blockClass": [
+                "pate-e-boursin-text",
+                "categorias-text"
+            ],
+            "text": "Patê e Boursin (13)"
+        }
+    },
+
+    /* PRATOS PRONTOS */
+    "link.product#pratos-prontos-link": {
+        "props": {
+            "blockClass": [
+                "pratos-prontos-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pratos-prontos",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pratos-prontos-text"
+        ]
+    },
+    "rich-text#pratos-prontos-text": {
+        "props": {
+            "blockClass": [
+                "pratos-prontos-text",
+                "categorias-text"
+            ],
+            "text": "Pratos Prontos (11)"
+        }
+    },
+
+    /* TORTA E QUICHÊ */
+    "link.product#torta-e-quiche-link": {
+        "props": {
+            "blockClass": [
+                "torta-e-quiche-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/torta-e-quiche",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#torta-e-quiche-text"
+        ]
+    },
+    "rich-text#torta-e-quiche-text": {
+        "props": {
+            "blockClass": [
+                "torta-e-quiche-text",
+                "categorias-text"
+            ],
+            "text": "Torta e Quichê (1)"
+        }
+    }
+}

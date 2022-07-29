@@ -1,0 +1,282 @@
+{
+    /* AÇAÍ, FRUTA E POLPA */
+    "link.product#acai-fruta-e-polpa-link": {
+        "props": {
+            "blockClass": [
+                "acai-fruta-e-polpa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/acai-fruta-e-polpa",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#acai-fruta-e-polpa-text"
+        ]
+    },
+    "rich-text#acai-fruta-e-polpa-text": {
+        "props": {
+            "blockClass": [
+                "acai-fruta-e-polpa-text",
+                "categorias-text"
+            ],
+            "text": "Açaí, Fruta e Polpa (33)"
+        }
+    },
+
+    /* CARNES EXÓTICAS E ESPECIAIS */
+    "link.product#carnes-exoticas-e-especiais-link": {
+        "props": {
+            "blockClass": [
+                "carnes-exoticas-e-especiais-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/carnes-exoticas-e-especiais",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#carnes-exoticas-e-especiais-text"
+        ]
+    },
+    "rich-text#carnes-exoticas-e-especiais-text": {
+        "props": {
+            "blockClass": [
+                "carnes-exoticas-e-especiais-text",
+                "categorias-text"
+            ],
+            "text": "Carnes Exóticas e Especiais (1)"
+        }
+    },
+
+    /* HAMBÚRGUER */
+    "link.product#hamburguer-congelado-link": {
+        "props": {
+            "blockClass": [
+                "hamburguer-congelado-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/hamburguer",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#hamburguer-congelado-text"
+        ]
+    },
+    "rich-text#hamburguer-congelado-text": {
+        "props": {
+            "blockClass": [
+                "hamburguer-congelado-text",
+                "categorias-text"
+            ],
+            "text": "Hambúrguer (23)"
+        }
+    },
+
+    /* PÃO DE QUEIJO */
+    "link.product#pao-de-queijo-link": {
+        "props": {
+            "blockClass": [
+                "pao-de-queijo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pao-de-queijo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pao-de-queijo-text"
+        ]
+    },
+    "rich-text#pao-de-queijo-text": {
+        "props": {
+            "blockClass": [
+                "pao-de-queijo-text",
+                "categorias-text"
+            ],
+            "text": "Pão de Queijo (15)"
+        }
+    },
+
+    /* PETISCOS E EMPANADOS */
+    "link.product#petiscos-e-empanados-link": {
+        "props": {
+            "blockClass": [
+                "petiscos-e-empanados-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/petiscos-e-empanados",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#petiscos-e-empanados-text"
+        ]
+    },
+    "rich-text#petiscos-e-empanados-text": {
+        "props": {
+            "blockClass": [
+                "petiscos-e-empanados-text",
+                "categorias-text"
+            ],
+            "text": "Petiscos e Empanados (39)"
+        }
+    },
+    /* PIZZAS*/
+    "link.product#pizzas-link": {
+        "props": {
+            "blockClass": [
+                "pizzas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/pizzas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#pizzas-text"
+        ]
+    },
+    "rich-text#pizzas-text": {
+        "props": {
+            "blockClass": [
+                "pizzas-text",
+                "categorias-text"
+            ],
+            "text": "Pizzas (17)"
+        }
+    },
+    /* PLANT BASED*/
+    "link.product#plant-based-link": {
+        "props": {
+            "blockClass": [
+                "plant-based-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/plant-based",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#plant-based-text"
+        ]
+    },
+    "rich-text#plant-based-text": {
+        "props": {
+            "blockClass": [
+                "plant-based-text",
+                "categorias-text"
+            ],
+            "text": "Plant Based (30)"
+        }
+    },
+    /* PRATO PRONTO*/
+    "link.product#prato-pronto-congelado-link": {
+        "props": {
+            "blockClass": [
+                "prato-pronto-congelado-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/prato-pronto",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#prato-pronto-congelado-text"
+        ]
+    },
+    "rich-text#prato-pronto-congelado-text": {
+        "props": {
+            "blockClass": [
+                "prato-pronto-congelado-text",
+                "categorias-text"
+            ],
+            "text": "Prato Pronto (35)"
+        }
+    },
+    /* SOBREMESAS CONGELADAS */
+    "link.product#sobremesas-congeladas-link": {
+        "props": {
+            "blockClass": [
+                "sobremesas-congeladas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sobremesas-congeladas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sobremesas-congeladas-text"
+        ]
+    },
+    "rich-text#sobremesas-congeladas-text": {
+        "props": {
+            "blockClass": [
+                "sobremesas-congeladas-text",
+                "categorias-text"
+            ],
+            "text": "Sobremesas Congeladas (25)"
+        }
+    },
+    /* SORVETE */
+    "link.product#sorvetes-link": {
+        "props": {
+            "blockClass": [
+                "sorvetes-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sorvetes",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sorvetes-text"
+        ]
+    },
+    "rich-text#sorvetes-text": {
+        "props": {
+            "blockClass": [
+                "sorvetes-text",
+                "categorias-text"
+            ],
+            "text": "Sorvetes (159)"
+        }
+    },
+    /* TORTA E QUICHE CONGELADO */
+    "link.product#torta-e-quiche-congelado-link": {
+        "props": {
+            "blockClass": [
+                "torta-e-quiche-congelado-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/torta-e-quiche-congelado",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#torta-e-quiche-congelado-text"
+        ]
+    },
+    "rich-text#torta-e-quiche-congelado-text": {
+        "props": {
+            "blockClass": [
+                "torta-e-quiche-congelado-text",
+                "categorias-text"
+            ],
+            "text": "Torta e Quiche (8)"
+        }
+    },
+    /* VEGETAIS CONGELADO */
+    "link.product#vegetais-congelado-link": {
+        "props": {
+            "blockClass": [
+                "vegetais-congelado-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/vegetais-congelados",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#vegetais-congelado-text"
+        ]
+    },
+    "rich-text#vegetais-congelado-text": {
+        "props": {
+            "blockClass": [
+                "vegetais-congelado-text",
+                "categorias-text"
+            ],
+            "text": "Vegetais Congelados (24)"
+        }
+    }
+}

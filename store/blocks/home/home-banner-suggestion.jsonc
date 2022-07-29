@@ -1,0 +1,34 @@
+{
+     /* PRIMARY BANNER */
+
+  "flex-layout.row#primary-banner": {
+    "props": {
+      "blockClass": "primary-banner"
+    },
+    "children": [
+      "image#image-banner"
+    ]
+  },
+  "image#image-banner": {
+    "props": {
+      "blockClass": "image-banner",
+      "src": "assets/imgs/banner-st-marche-app-mobile.png"
+    }
+  },
+
+   /* PRODUCTS TEXT */
+   "flex-layout.row#home-suggestion-banner": {
+    "props": {
+      "blockClass": "home-product"
+    },
+    "children": [
+      "rich-text#home-suggestion"
+    ]
+  },
+  "rich-text#home-suggestion": {
+    "props": {
+      "blockClass": "home-suggestion",
+      "text": "SUGESTÕES ESPECIAIS PARA VOCÊ"
+    }
+  }
+}

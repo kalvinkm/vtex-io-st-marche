@@ -3,10 +3,13 @@
     height: 30px;
 }
 
+
+
 .link--email-link {
-    text-decoration: none;
-    margin: 0 auto 16px auto;
-    text-align: center;
+    display: block;
+    margin-bottom: 0.5rem;
+    /* justify-content: flex-start;
+    align-items: center; */
 }
 
 .link {
@@ -19,4 +22,10 @@
     margin: 5px;
     margin-bottom: 0;
     padding: 2px 0;
+}
+
+@media screen and (max-width: 992px) {
+    .link--email-link {
+        display: flex;
+    }
 }

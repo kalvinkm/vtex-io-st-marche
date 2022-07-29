@@ -1,0 +1,123 @@
+{
+    "flex-layout.row#header-desktop-container": {
+        "props": {
+            "blockClass": "header-desktop-container",
+            "preventHorizontalStretch": true
+        },
+        "children": [
+            "flex-layout.row#logo-desktop",
+            "flex-layout.row#search-desktop",
+            "flex-layout.row#login-desktop",
+            "flex-layout.row#minicar-desktop"
+        ]
+    },
+
+
+    /* LOGO */
+
+    "flex-layout.row#logo-desktop": {
+        "props": {
+            "blockClass": "logo-desktop"
+        },
+        "children": [
+            "link.product#logo-link-desktop"
+        ]
+    },
+
+    "link.product#logo-link-desktop": {
+        "props": {
+            "blockClass": "logo-link-desktop",
+            "href": "https://www.marche.com.br/home"
+        },
+        "children": [
+            "image#logo-image-desktop"
+        ]
+    },
+
+    "image#logo-image-desktop": {
+        "props": {
+            "blockClass": "logo-image-desktop",
+            "src": "assets/imgs/logo-st-marche.png"
+        }
+    },
+
+
+    /* SEARCH-BAR */
+
+    "flex-layout.row#search-desktop": {
+        "props": {
+            "blockClass": "search-desktop"
+        },
+        "children": [
+            "search-bar#input-search-desktop"
+        ]
+    },
+
+    "search-bar#input-search-desktop": {
+        "props": {
+            "blockClass": "input-search-desktop",
+            "displayMode": "clear-button",
+            "hasIconLeft": false,
+            "inputType": "search",
+            "maxWidth": "663px",
+            "placeholder": "Procure"
+        }
+    },
+
+
+    /* LOGIN */
+
+    "flex-layout.row#login-desktop": {
+        "props": {
+            "blockClass": "login-desktop"
+        },
+        "children": [
+            "link.product#login-desktop-link"
+        ]
+    },
+
+    "link.product#login-desktop-link": {
+        "props": {
+            "blockClass": "login-desktop-link",
+            "href": "https://www.marche.com.br/login"
+        },
+        "children": [
+            "rich-text#login-desktop-paragraph"
+        ]
+    },
+
+    "rich-text#login-desktop-paragraph": {
+        "props": {
+            "blockClass": "login-desktop-paragraph",
+            "text": "Entrar"
+        }
+    },
+
+    /* MINICAR */
+
+    "flex-layout.row#minicar-desktop": {
+        "props": {
+            "blockClass": "minicar-desktop"
+        },
+        "children": [
+            "link.product#minicar-desktop-link"
+        ]
+    },
+
+    "link.product#minicar-desktop-link": {
+        "props": {
+            "blockClass": "minicar-desktop-link",
+            "href": "https://www.marche.com.br/cart"
+        },
+        "children": [
+            "rich-text#minicar-desktop-paragraph"
+        ]
+    },
+
+    "rich-text#minicar-desktop-paragraph": {
+        "props": {
+            "blockClass": "minicar-desktop-paragraph",
+            "text": "![minicar](https://via.placeholder.com/17x19) Carrinho"
+        }
+    }
+}

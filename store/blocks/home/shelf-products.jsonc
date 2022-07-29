@@ -1,0 +1,1614 @@
+{   
+    /* GELEIA DE MORANGO */
+
+    "flex-layout.col#geleia-morango-linea-column": {
+        "props": {
+            "blockClass": "geleia-morango-linea-column"
+        },
+        "children": [
+            "link.product#geleia-morango-linea-link",
+            "flex-layout.row#button-add-geleia-morango-linea"
+        ]
+    },
+
+
+    "link.product#geleia-morango-linea-link": {
+        "props": {
+            "blockClass": [
+                "geleia-morango-linea-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/geleia-de-morango-zero-acucar-linea-230g"
+        },
+        "children": [
+            "flex-layout.col#images-info-products"
+        ]
+    },
+
+    "flex-layout.col#images-info-products": {
+        "children": [
+            "flex-layout.row#discount-area-geleia-morango-linea",
+            "image#geleia-morango-linea",
+            "rich-text#geleia-morango-linea",
+            "flex-layout.row#prices-area-geleia-morango-linea"
+        ]
+    },
+
+    "flex-layout.row#discount-area-geleia-morango-linea": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-geleia-morango-linea"
+        ]
+    },
+
+    "rich-text#discout-geleia-morango-linea": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "13% off"
+        }
+    },
+    "image#geleia-morango-linea": {
+        "props": {
+            "blockClass": [
+                "geleia-morango-linea",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/geleia-morango-linea.jpg"
+        }
+    },
+    "rich-text#geleia-morango-linea": {
+        "props": {
+            "blockClass": [
+                "geleia-morango-linea",
+                "product-text"
+            ],
+            "text": "Geleia de Morango Zero Açúcar LINEA 230g"
+        }
+    },
+
+    "flex-layout.row#prices-area-geleia-morango-linea": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-geleia-morango-linea",
+            "rich-text#geleia-morango-linea-preco"
+        ]
+    },
+
+    "rich-text#old-price-geleia-morango-linea": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$ 21,39"
+        }
+    },
+
+    "rich-text#geleia-morango-linea-preco": {
+        "props": {
+            "blockClass": [
+                "geleia-morango-linea-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$18,69/un"
+        }
+    },
+    "flex-layout.row#button-add-geleia-morango-linea": {
+        "props": {
+            "blockClass": [
+                "button-add-geleia-morango-linea",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-geleia-morango-linea",
+            "rich-text#adicionar-geleia-morango-linea",
+            "rich-text#plus-signal-geleia-morango-linea"
+        ]
+    },
+    "rich-text#minus-signal-geleia-morango-linea": {
+        "props": {
+            "blockClass": [
+                "minus-signal-geleia-morango-linea",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-geleia-morango-linea": {
+        "props": {
+            "blockClass": [
+                "adicionar-geleia-morango-linea",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-geleia-morango-linea": {
+        "props": {
+            "blockClass": [
+                "plus-signal-geleia-morango-linea",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+
+    /* CHOCOLATE SUÍÇO */
+
+    "flex-layout.col#swiss-classic-dark-lindt-column": {
+        "props": {
+            "blockClass": "swiss-classic-dark-lindt-column"
+        },
+        "children": [
+            "link.product#swiss-classic-dark-lindt-link",
+            "flex-layout.row#button-add-swiss-classic-dark-lindt"
+        ]
+    },
+    "link.product#swiss-classic-dark-lindt-link": {
+        "props": {
+            "blockClass": [
+                "swiss-classic-dark-lindt-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/chocolate-lindt-swiss-classico-amargo-100g"
+        },
+        "children": [
+            "flex-layout.row#discount-area-swiss-classic-dark-lindt",
+            "image#swiss-classic-dark-lindt",
+            "rich-text#swiss-classic-dark-lindt",
+            "flex-layout.row#prices-area-swiss-classic-dark-lindt"
+        ]
+    },
+
+    "flex-layout.row#discount-area-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-swiss-classic-dark-lindt"
+        ]
+    },
+
+    "rich-text#discout-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "17% off"
+        }
+    },
+    "image#swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": [
+                "swiss-classic-dark-lindt",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/swiss-classic-dark-lindt.png"
+        }
+    },
+    "rich-text#swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": [
+                "swiss-classic-dark-lindt",
+                "product-text"
+            ],
+            "text": "Chocolate LINDT Swiss Clássico Amargo 100g"
+        }
+    },
+
+    "flex-layout.row#prices-area-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-swiss-classic-dark-lindt",
+            "rich-text#swiss-classic-dark-lindt-preco"
+        ]
+    },
+
+    "rich-text#old-price-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$ 28,99"
+        }
+    },
+
+    "rich-text#swiss-classic-dark-lindt-preco": {
+        "props": {
+            "blockClass": [
+                "swiss-classic-dark-lindt-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$23,99/un"
+        }
+    },
+    "flex-layout.row#button-add-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": [
+                "button-add-swiss-classic-dark-lindt",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-swiss-classic-dark-lindt",
+            "rich-text#adicionar-swiss-classic-dark-lindt",
+            "rich-text#plus-signal-swiss-classic-dark-lindt"
+        ]
+    },
+    "rich-text#minus-signal-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": [
+                "minus-signal-swiss-classic-dark-lindt",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": [
+                "adicionar-swiss-classic-dark-lindt",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-swiss-classic-dark-lindt": {
+        "props": {
+            "blockClass": [
+                "plus-signal-swiss-classic-dark-lindt",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+
+    /* WHISKY DEWERS */
+
+    "flex-layout.col#scotch-whisky-dewars-column": {
+        "props": {
+            "blockClass": "scotch-whisky-dewars-column"
+        },
+        "children": [
+            "link.product#scotch-whisky-dewars-link",
+            "flex-layout.row#button-add-scotch-whisky-dewars"
+        ]
+    },
+    "link.product#scotch-whisky-dewars-link": {
+        "props": {
+            "blockClass": [
+                "scotch-whisky-dewars-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/whisky-esc-dewars-12-yo-750ml"
+        },
+        "children": [
+            "flex-layout.row#discount-area-scotch-whisky-dewars",
+            "image#scotch-whisky-dewars",
+            "rich-text#scotch-whisky-dewars",
+            "flex-layout.row#prices-area-scotch-whisky-dewars"
+        ]
+    },
+
+    "flex-layout.row#discount-area-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-scotch-whisky-dewars"
+        ]
+    },
+
+    "rich-text#discout-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "33% off"
+        }
+    },
+    "image#scotch-whisky-dewars": {
+        "props": {
+            "blockClass": [
+                "scotch-whisky-dewars",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/scotch-whisky-dewars.png"
+        }
+    },
+    "rich-text#scotch-whisky-dewars": {
+        "props": {
+            "blockClass": [
+                "scotch-whisky-dewars",
+                "product-text"
+            ],
+            "text": "Whisky Esc Dewars 12 YO 750ML"
+        }
+    },
+
+    "flex-layout.row#prices-area-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-scotch-whisky-dewars",
+            "rich-text#scotch-whisky-dewars-preco"
+        ]
+    },
+
+    "rich-text#old-price-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$149,90"
+        }
+    },
+
+    "rich-text#scotch-whisky-dewars-preco": {
+        "props": {
+            "blockClass": [
+                "scotch-whisky-dewars-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$99,90/un"
+        }
+    },
+    "flex-layout.row#button-add-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": [
+                "button-add-scotch-whisky-dewars",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-scotch-whisky-dewars",
+            "rich-text#adicionar-scotch-whisky-dewars",
+            "rich-text#plus-signal-scotch-whisky-dewars"
+        ]
+    },
+    "rich-text#minus-signal-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": [
+                "minus-signal-scotch-whisky-dewars",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": [
+                "adicionar-scotch-whisky-dewars",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-scotch-whisky-dewars": {
+        "props": {
+            "blockClass": [
+                "plus-signal-scotch-whisky-dewars",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+
+    /* SORVETE LA BASQUE */
+
+    "flex-layout.col#chocolate-choc-chip-labasque-column": {
+        "props": {
+            "blockClass": "chocolate-choc-chip-labasque-column"
+        },  
+        "children": [
+            "link.product#chocolate-choc-chip-labasque-link",
+            "flex-layout.row#button-add-chocolate-choc-chip-labasque"
+        ]
+    },
+    "link.product#chocolate-choc-chip-labasque-link": {
+        "props": {
+            "blockClass": [
+                "chocolate-choc-chip-labasque-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/sorvete-la-basque-chocolate-choc-chip-500ml"
+        },
+        "children": [
+            "flex-layout.row#discount-area-chocolate-choc-chip-labasque",
+            "image#chocolate-choc-chip-labasque",
+            "rich-text#chocolate-choc-chip-labasque",
+            "flex-layout.row#prices-area-chocolate-choc-chip-labasque"
+        ]
+    },
+
+    "flex-layout.row#discount-area-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-chocolate-choc-chip-labasque"
+        ]
+    },
+
+    "rich-text#discout-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "21% off"
+        }
+    },
+    "image#chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": [
+                "chocolate-choc-chip-labasque",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/chocolate-choc-chip-labasque.jpg"
+        }
+    },
+    "rich-text#chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": [
+                "chocolate-choc-chip-labasque",
+                "product-text"
+            ],
+            "text": "Sorvete LA BASQUE Chocolate Choc Chip 500ml"
+        }
+    },
+
+    "flex-layout.row#prices-area-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-chocolate-choc-chip-labasque",
+            "rich-text#chocolate-choc-chip-labasque-preco"
+        ]
+    },
+
+    "rich-text#old-price-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$43,90"
+        }
+    },
+
+    "rich-text#chocolate-choc-chip-labasque-preco": {
+        "props": {
+            "blockClass": [
+                "chocolate-choc-chip-labasque-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$34,90/un"
+        }
+    },
+    "flex-layout.row#button-add-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": [
+                "button-add-chocolate-choc-chip-labasque",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-chocolate-choc-chip-labasque",
+            "rich-text#adicionar-chocolate-choc-chip-labasque",
+            "rich-text#plus-signal-chocolate-choc-chip-labasque"
+        ]
+    },
+    "rich-text#minus-signal-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": [
+                "minus-signal-chocolate-choc-chip-labasque",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": [
+                "adicionar-chocolate-choc-chip-labasque",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-chocolate-choc-chip-labasque": {
+        "props": {
+            "blockClass": [
+                "plus-signal-chocolate-choc-chip-labasque",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+
+    /* CERVEJA BROOKLYN */
+
+    "flex-layout.col#brooklyn-lager-beer-column": {
+        "props": {
+            "blockClass": "brooklyn-lager-beer-column"
+        },  
+        "children": [
+            "link.product#brooklyn-lager-beer-link",
+            "flex-layout.row#button-add-brooklyn-lager-beer"
+        ]
+    },
+    "link.product#brooklyn-lager-beer-link": {
+        "props": {
+            "blockClass": [
+                "brooklyn-lager-beer-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/cerveja-brooklyn-lager-lata-350ml"
+        },
+        "children": [
+            "flex-layout.row#discount-area-brooklyn-lager-beer",
+            "image#brooklyn-lager-beer",
+            "rich-text#brooklyn-lager-beer",
+            "flex-layout.row#prices-area-brooklyn-lager-beer"
+        ]
+    },
+
+    "flex-layout.row#discount-area-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-brooklyn-lager-beer"
+        ]
+    },
+
+    "rich-text#discout-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "34% off"
+        }
+    },
+    "image#brooklyn-lager-beer": {
+        "props": {
+            "blockClass": [
+                "brooklyn-lager-beer",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/brooklyn-lager-beer.jpg"
+        }
+    },
+    "rich-text#brooklyn-lager-beer": {
+        "props": {
+            "blockClass": [
+                "brooklyn-lager-beer",
+                "product-text"
+            ],
+            "text": "Cerveja Brooklyn Lager Lata 350ml"
+        }
+    },
+
+    "flex-layout.row#prices-area-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-brooklyn-lager-beer",
+            "rich-text#brooklyn-lager-beer-preco"
+        ]
+    },
+
+    "rich-text#old-price-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$14,90"
+        }
+    },
+
+    "rich-text#brooklyn-lager-beer-preco": {
+        "props": {
+            "blockClass": [
+                "brooklyn-lager-beer-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$9,90/un"
+        }
+    },
+    "flex-layout.row#button-add-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": [
+                "button-add-brooklyn-lager-beer",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-brooklyn-lager-beer",
+            "rich-text#adicionar-brooklyn-lager-beer",
+            "rich-text#plus-signal-brooklyn-lager-beer"
+        ]
+    },
+    "rich-text#minus-signal-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": [
+                "minus-signal-brooklyn-lager-beer",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": [
+                "adicionar-brooklyn-lager-beer",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-brooklyn-lager-beer": {
+        "props": {
+            "blockClass": [
+                "plus-signal-brooklyn-lager-beer",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+
+    /* JAMON ESPANHOL */
+
+    "flex-layout.col#jamon-espanol-rar-column": {
+        "props": {
+            "blockClass": "jamon-espanol-rar-column"
+        },  
+        "children": [
+            "link.product#jamon-espanol-rar-link",
+            "flex-layout.row#button-add-jamon-espanol-rar"
+        ]
+    },
+    "link.product#jamon-espanol-rar-link": {
+        "props": {
+            "blockClass": [
+                "jamon-espanol-rar-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/jamon-espanhol-rar-80g"
+        },
+        "children": [
+            "flex-layout.row#discount-area-jamon-espanol-rar",
+            "image#jamon-espanol-rar",
+            "rich-text#jamon-espanol-rar",
+            "flex-layout.row#prices-area-jamon-espanol-rar"
+        ]
+    },
+
+    "flex-layout.row#discount-area-jamon-espanol-rar": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-jamon-espanol-rar"
+        ]
+    },
+
+    "rich-text#discout-jamon-espanol-rar": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "23% off"
+        }
+    },
+    "image#jamon-espanol-rar": {
+        "props": {
+            "blockClass": [
+                "jamon-espanol-rar",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/jamon-espanol-rar.jpg"
+        }
+    },
+    "rich-text#jamon-espanol-rar": {
+        "props": {
+            "blockClass": [
+                "jamon-espanol-rar",
+                "product-text"
+            ],
+            "text": "Cerveja Brooklyn Lager Lata 350ml"
+        }
+    },
+
+    "flex-layout.row#prices-area-jamon-espanol-rar": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-jamon-espanol-rar",
+            "rich-text#jamon-espanol-rar-preco"
+        ]
+    },
+
+    "rich-text#old-price-jamon-espanol-rar": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$25,90"
+        }
+    },
+
+    "rich-text#jamon-espanol-rar-preco": {
+        "props": {
+            "blockClass": [
+                "jamon-espanol-rar-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$19,89/un"
+        }
+    },
+    "flex-layout.row#button-add-jamon-espanol-rar": {
+        "props": {
+            "blockClass": [
+                "button-add-jamon-espanol-rar",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-jamon-espanol-rar",
+            "rich-text#adicionar-jamon-espanol-rar",
+            "rich-text#plus-signal-jamon-espanol-rar"
+        ]
+    },
+    "rich-text#minus-signal-jamon-espanol-rar": {
+        "props": {
+            "blockClass": [
+                "minus-signal-jamon-espanol-rar",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-jamon-espanol-rar": {
+        "props": {
+            "blockClass": [
+                "adicionar-jamon-espanol-rar",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-jamon-espanol-rar": {
+        "props": {
+            "blockClass": [
+                "plus-signal-jamon-espanol-rar",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+    /* TOMATES PELADOS LA PASTINA */
+
+    "flex-layout.col#tomates-pelados-la-pastina-column": {
+        "props": {
+            "blockClass": "tomates-pelados-la-pastina-column"
+        },  
+        "children": [
+            "link.product#tomates-pelados-la-pastina-link",
+            "flex-layout.row#button-add-tomates-pelados-la-pastina"
+        ]
+    },
+    "link.product#tomates-pelados-la-pastina-link": {
+        "props": {
+            "blockClass": [
+                "tomates-pelados-la-pastina-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/tomates-pelados-la-pastina-400g"
+        },
+        "children": [
+            "flex-layout.row#discount-area-tomates-pelados-la-pastina",
+            "image#tomates-pelados-la-pastina",
+            "rich-text#tomates-pelados-la-pastina",
+            "flex-layout.row#prices-area-tomates-pelados-la-pastina"
+        ]
+    },
+
+    "flex-layout.row#discount-area-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-tomates-pelados-la-pastina"
+        ]
+    },
+
+    "rich-text#discout-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "30% off"
+        }
+    },
+    "image#tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": [
+                "tomates-pelados-la-pastina",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/tomates-pelados-la-pastina.jpg"
+        }
+    },
+    "rich-text#tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": [
+                "tomates-pelados-la-pastina",
+                "product-text"
+            ],
+            "text": "Tomates Pelados LA PASTINA 400g"
+        }
+    },
+
+    "flex-layout.row#prices-area-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-tomates-pelados-la-pastina",
+            "rich-text#tomates-pelados-la-pastina-preco"
+        ]
+    },
+
+    "rich-text#old-price-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$9,90"
+        }
+    },
+
+    "rich-text#tomates-pelados-la-pastina-preco": {
+        "props": {
+            "blockClass": [
+                "tomates-pelados-la-pastina-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$6,90/un"
+        }
+    },
+    "flex-layout.row#button-add-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": [
+                "button-add-tomates-pelados-la-pastina",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-tomates-pelados-la-pastina",
+            "rich-text#adicionar-tomates-pelados-la-pastina",
+            "rich-text#plus-signal-tomates-pelados-la-pastina"
+        ]
+    },
+    "rich-text#minus-signal-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": [
+                "minus-signal-tomates-pelados-la-pastina",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": [
+                "adicionar-tomates-pelados-la-pastina",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-tomates-pelados-la-pastina": {
+        "props": {
+            "blockClass": [
+                "plus-signal-tomates-pelados-la-pastina",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+    /* VINHO ITALIANO */
+
+    "flex-layout.col#vinho-italiano-domodo-montepuliano-dabruzo-column": {
+        "props": {
+            "blockClass": "vinho-italiano-domodo-montepuliano-dabruzo-column"
+        },  
+        "children": [
+            "link.product#vinho-italiano-domodo-montepuliano-dabruzo-link",
+            "flex-layout.row#button-add-vinho-italiano-domodo-montepuliano-dabruzo"
+        ]
+    },
+    "link.product#vinho-italiano-domodo-montepuliano-dabruzo-link": {
+        "props": {
+            "blockClass": [
+                "vinho-italiano-domodo-montepuliano-dabruzo-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/vinho-italiano-domodo-montepuliano-d-abruzzo-750ml"
+        },
+        "children": [
+            "flex-layout.row#discount-area-vinho-italiano-domodo-montepuliano-dabruzo",
+            "image#vinho-italiano-domodo-montepuliano-dabruzo",
+            "rich-text#vinho-italiano-domodo-montepuliano-dabruzo",
+            "flex-layout.row#prices-area-vinho-italiano-domodo-montepuliano-dabruzo"
+        ]
+    },
+
+    "flex-layout.row#discount-area-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-vinho-italiano-domodo-montepuliano-dabruzo"
+        ]
+    },
+
+    "rich-text#discout-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "22% off"
+        }
+    },
+    "image#vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": [
+                "vinho-italiano-domodo-montepuliano-dabruzo",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/vinho-italiano-domodo-montepuliano-dabruzo.png"
+        }
+    },
+    "rich-text#vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": [
+                "vinho-italiano-domodo-montepuliano-dabruzo",
+                "product-text"
+            ],
+            "text": "Vinho Italiano Domodo Montepuliano D'abruzzo 750ml"
+        }
+    },
+
+    "flex-layout.row#prices-area-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-vinho-italiano-domodo-montepuliano-dabruzo",
+            "rich-text#vinho-italiano-domodo-montepuliano-dabruzo-preco"
+        ]
+    },
+
+    "rich-text#old-price-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$89,90"
+        }
+    },
+
+    "rich-text#vinho-italiano-domodo-montepuliano-dabruzo-preco": {
+        "props": {
+            "blockClass": [
+                "vinho-italiano-domodo-montepuliano-dabruzo-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$69,90/un"
+        }
+    },
+    "flex-layout.row#button-add-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": [
+                "button-add-vinho-italiano-domodo-montepuliano-dabruzo",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-vinho-italiano-domodo-montepuliano-dabruzo",
+            "rich-text#adicionar-vinho-italiano-domodo-montepuliano-dabruzo",
+            "rich-text#plus-signal-vinho-italiano-domodo-montepuliano-dabruzo"
+        ]
+    },
+    "rich-text#minus-signal-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": [
+                "minus-signal-vinho-italiano-domodo-montepuliano-dabruzo",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": [
+                "adicionar-vinho-italiano-domodo-montepuliano-dabruzo",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-vinho-italiano-domodo-montepuliano-dabruzo": {
+        "props": {
+            "blockClass": [
+                "plus-signal-vinho-italiano-domodo-montepuliano-dabruzo",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+    /* LEITE CONDENSADO MOÇA */
+
+    "flex-layout.col#leite-condensado-moca-nestle-column": {
+        "props": {
+            "blockClass": "leite-condensado-moca-nestle-column"
+        },  
+        "children": [
+            "link.product#leite-condensado-moca-nestle-link",
+            "flex-layout.row#button-add-leite-condensado-moca-nestle"
+        ]
+    },
+    "link.product#leite-condensado-moca-nestle-link": {
+        "props": {
+            "blockClass": [
+                "leite-condensado-moca-nestle-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/leite-condensado-moca-nestle-lata-395g"
+        },
+        "children": [
+            "flex-layout.row#discount-area-leite-condensado-moca-nestle",
+            "image#leite-condensado-moca-nestle",
+            "rich-text#leite-condensado-moca-nestle",
+            "flex-layout.row#prices-area-leite-condensado-moca-nestle"
+        ]
+    },
+
+    "flex-layout.row#discount-area-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-leite-condensado-moca-nestle"
+        ]
+    },
+
+    "rich-text#discout-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "17% off"
+        }
+    },
+    "image#leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": [
+                "leite-condensado-moca-nestle",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/leite-condensado-moca-nestle.png"
+        }
+    },
+    "rich-text#leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": [
+                "leite-condensado-moca-nestle",
+                "product-text"
+            ],
+            "text": "Leite Condensado Moça NESTLÉ Lata 395g"
+        }
+    },
+
+    "flex-layout.row#prices-area-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-leite-condensado-moca-nestle",
+            "rich-text#leite-condensado-moca-nestle-preco"
+        ]
+    },
+
+    "rich-text#old-price-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$8,19"
+        }
+    },
+
+    "rich-text#leite-condensado-moca-nestle-preco": {
+        "props": {
+            "blockClass": [
+                "leite-condensado-moca-nestle-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$6,79/un"
+        }
+    },
+    "flex-layout.row#button-add-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": [
+                "button-add-leite-condensado-moca-nestle",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-leite-condensado-moca-nestle",
+            "rich-text#adicionar-leite-condensado-moca-nestle",
+            "rich-text#plus-signal-leite-condensado-moca-nestle"
+        ]
+    },
+    "rich-text#minus-signal-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": [
+                "minus-signal-leite-condensado-moca-nestle",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": [
+                "adicionar-leite-condensado-moca-nestle",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-leite-condensado-moca-nestle": {
+        "props": {
+            "blockClass": [
+                "plus-signal-leite-condensado-moca-nestle",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+
+    /* CAMARÃO QUALIMAR */
+
+    "flex-layout.col#camarao-qualimar-cinza-column": {
+        "props": {
+            "blockClass": "camarao-qualimar-cinza-column"
+        },  
+        "children": [
+            "link.product#camarao-qualimar-cinza-link",
+            "flex-layout.row#button-add-camarao-qualimar-cinza"
+        ]
+    },
+    "link.product#camarao-qualimar-cinza-link": {
+        "props": {
+            "blockClass": [
+                "camarao-qualimar-cinza-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/camarao-qualimar-cinza-71-90-400g"
+        },
+        "children": [
+            "flex-layout.row#discount-area-camarao-qualimar-cinza",
+            "image#camarao-qualimar-cinza",
+            "rich-text#camarao-qualimar-cinza",
+            "flex-layout.row#prices-area-camarao-qualimar-cinza"
+        ]
+    },
+
+    "flex-layout.row#discount-area-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-camarao-qualimar-cinza"
+        ]
+    },
+
+    "rich-text#discout-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "30% off"
+        }
+    },
+    "image#camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": [
+                "camarao-qualimar-cinza",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/camarao-qualimar-cinza.png"
+        }
+    },
+    "rich-text#camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": [
+                "camarao-qualimar-cinza",
+                "product-text"
+            ],
+            "text": "Camarão QUALIMAR Cinza 71/90 400g"
+        }
+    },
+
+    "flex-layout.row#prices-area-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-camarao-qualimar-cinza",
+            "rich-text#camarao-qualimar-cinza-preco"
+        ]
+    },
+
+    "rich-text#old-price-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$74,90"
+        }
+    },
+
+    "rich-text#camarao-qualimar-cinza-preco": {
+        "props": {
+            "blockClass": [
+                "camarao-qualimar-cinza-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$52,39/un"
+        }
+    },
+    "flex-layout.row#button-add-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": [
+                "button-add-camarao-qualimar-cinza",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-camarao-qualimar-cinza",
+            "rich-text#adicionar-camarao-qualimar-cinza",
+            "rich-text#plus-signal-camarao-qualimar-cinza"
+        ]
+    },
+    "rich-text#minus-signal-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": [
+                "minus-signal-camarao-qualimar-cinza",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": [
+                "adicionar-camarao-qualimar-cinza",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-camarao-qualimar-cinza": {
+        "props": {
+            "blockClass": [
+                "plus-signal-camarao-qualimar-cinza",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+    /* CERVEJA HOENGAARDEN */
+
+    "flex-layout.col#cerveja-hoegaarden-trigo-long-neck-column": {
+        "props": {
+            "blockClass": "cerveja-hoegaarden-trigo-long-neck-column"
+        },  
+        "children": [
+            "link.product#cerveja-hoegaarden-trigo-long-neck-link",
+            "flex-layout.row#button-add-cerveja-hoegaarden-trigo-long-neck"
+        ]
+    },
+    "link.product#cerveja-hoegaarden-trigo-long-neck-link": {
+        "props": {
+            "blockClass": [
+                "cerveja-hoegaarden-trigo-long-neck-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/cerveja-hoegaarden-trigo-long-neck-330ml"
+        },
+        "children": [
+            "flex-layout.row#discount-area-cerveja-hoegaarden-trigo-long-neck",
+            "image#cerveja-hoegaarden-trigo-long-neck",
+            "rich-text#cerveja-hoegaarden-trigo-long-neck",
+            "flex-layout.row#prices-area-cerveja-hoegaarden-trigo-long-neck"
+        ]
+    },
+
+    "flex-layout.row#discount-area-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-cerveja-hoegaarden-trigo-long-neck"
+        ]
+    },
+
+    "rich-text#discout-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "22% off"
+        }
+    },
+    "image#cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": [
+                "cerveja-hoegaarden-trigo-long-neck",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/cerveja-hoegaarden-trigo-long-neck.jpg"
+        }
+    },
+    "rich-text#cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": [
+                "cerveja-hoegaarden-trigo-long-neck",
+                "product-text"
+            ],
+            "text": "Cerveja HOEGAARDEN Trigo Long Neck 330ml"
+        }
+    },
+
+    "flex-layout.row#prices-area-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-cerveja-hoegaarden-trigo-long-neck",
+            "rich-text#cerveja-hoegaarden-trigo-long-neck-preco"
+        ]
+    },
+
+    "rich-text#old-price-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$8,94"
+        }
+    },
+
+    "rich-text#cerveja-hoegaarden-trigo-long-neck-preco": {
+        "props": {
+            "blockClass": [
+                "cerveja-hoegaarden-trigo-long-neck-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$6,99/un"
+        }
+    },
+    "flex-layout.row#button-add-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": [
+                "button-add-cerveja-hoegaarden-trigo-long-neck",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-cerveja-hoegaarden-trigo-long-neck",
+            "rich-text#adicionar-cerveja-hoegaarden-trigo-long-neck",
+            "rich-text#plus-signal-cerveja-hoegaarden-trigo-long-neck"
+        ]
+    },
+    "rich-text#minus-signal-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": [
+                "minus-signal-cerveja-hoegaarden-trigo-long-neck",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": [
+                "adicionar-cerveja-hoegaarden-trigo-long-neck",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-cerveja-hoegaarden-trigo-long-neck": {
+        "props": {
+            "blockClass": [
+                "plus-signal-cerveja-hoegaarden-trigo-long-neck",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    },
+
+    /* HAMBURGUER NOt BURGUER SMASH */
+
+    "flex-layout.col#hamburguer-not-burguer-smash-column": {
+        "props": {
+            "blockClass": "hamburguer-not-burguer-smash-column"
+        },  
+        "children": [
+            "link.product#hamburguer-not-burguer-smash-link",
+            "flex-layout.row#button-add-hamburguer-not-burguer-smash"
+        ]
+    },
+    "link.product#hamburguer-not-burguer-smash-link": {
+        "props": {
+            "blockClass": [
+                "hamburguer-not-burguer-smash-link",
+                "product-link"
+            ],
+            "href": "https://www.marche.com.br/produtos/hamburguer-not-burger-smash-120g"
+        },
+        "children": [
+            "flex-layout.row#discount-area-hamburguer-not-burguer-smash",
+            "image#hamburguer-not-burguer-smash",
+            "rich-text#hamburguer-not-burguer-smash",
+            "flex-layout.row#prices-area-hamburguer-not-burguer-smash"
+        ]
+    },
+
+    "flex-layout.row#discount-area-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": "discount-area"
+        },
+        "children": [
+            "rich-text#discout-hamburguer-not-burguer-smash"
+        ]
+    },
+
+    "rich-text#discout-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": "discount-percentage",
+            "text": "17% off"
+        }
+    },
+    "image#hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": [
+                "hamburguer-not-burguer-smash",
+                "product-carousel"
+            ],
+            "src": "assets/imgs/products/hamburguer-not-burguer-smash.jpg"
+        }
+    },
+    "rich-text#hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": [
+                "hamburguer-not-burguer-smash",
+                "product-text"
+            ],
+            "text": "Hambúrguer NOT BURGER Smash 120g"
+        }
+    },
+
+    "flex-layout.row#prices-area-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": "prices-area"
+        },
+        "children": [
+            "rich-text#old-price-hamburguer-not-burguer-smash",
+            "rich-text#hamburguer-not-burguer-smash-preco"
+        ]
+    },
+
+    "rich-text#old-price-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": "old-price-text",
+            "text": "R$8,94"
+        }
+    },
+
+    "rich-text#hamburguer-not-burguer-smash-preco": {
+        "props": {
+            "blockClass": [
+                "hamburguer-not-burguer-smash-preco",
+                "products-price",
+                "shelf-prices"
+            ],
+            "text": "R$6,99/un"
+        }
+    },
+    "flex-layout.row#button-add-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": [
+                "button-add-hamburguer-not-burguer-smash",
+                "button-add-shelf-products",
+                "button-add"
+            ]
+        },
+        "children": [
+            "rich-text#minus-signal-hamburguer-not-burguer-smash",
+            "rich-text#adicionar-hamburguer-not-burguer-smash",
+            "rich-text#plus-signal-hamburguer-not-burguer-smash"
+        ]
+    },
+    "rich-text#minus-signal-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": [
+                "minus-signal-hamburguer-not-burguer-smash",
+                "minus-signal",
+                "minus-signal-shelf"
+            ],
+            "text": "-"
+        }
+    },
+    "rich-text#adicionar-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": [
+                "adicionar-hamburguer-not-burguer-smash",
+                "adicionar",
+                "add-items-shelf"
+            ],
+            "text": "Adicionar"
+        }
+    },
+    "rich-text#plus-signal-hamburguer-not-burguer-smash": {
+        "props": {
+            "blockClass": [
+                "plus-signal-hamburguer-not-burguer-smash",
+                "plus-signal",
+                "plus-signal-shelf"
+            ],
+            "text": "+"
+        }
+    }
+
+
+    
+}

@@ -6,16 +6,6 @@
     padding: 8px 16px;
 }
 
-/* .trigger--hidden {
-    transition: 1s ease-in-out;
-} */
-
-.trigger--visible {
-    transition: 1s ease-in-out;
-    transition-timing-function: ease;
-    transition-duration: .35s;
-    transition-property: height;
-}
 
 .trigger--butchery {
     border-top: 1px solid #ccc;
@@ -39,3 +29,40 @@
     font-size: 1rem;
 
 }
+
+/* DISCLOSURE HOME */
+
+
+.trigger--disclosure-trigger,
+.content--disclosure-content {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    padding: 0.25rem 0.5rem;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    max-width: 260px;
+}
+
+.trigger--disclosure-trigger {
+    background-color: #F4F7F7;
+}
+
+.trigger--categories-trigger {
+    margin-bottom: 0.5rem;
+}
+
+.content--especial-content,
+.content--disclosure-content {
+    display: flex;
+    padding: 0 0.5rem;
+    position: relative;
+    overflow: hidden;
+    transition: 0.25s ease-in-out;
+}
+
+.trigger--disclosure-trigger-intern {
+    background-color: #fff;
+    margin-bottom: 0;
+}
+

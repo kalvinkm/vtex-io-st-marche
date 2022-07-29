@@ -1,0 +1,142 @@
+{
+    "flex-layout.row#header-navigation-desktop-container": {
+        "props": {
+            "blockClass": "header-navigation-desktop-container",
+            "href": "https://www.marche.com.br/window_displays/nossos-produtos"
+        },
+        "children": [
+            "link.product#our-products-desktop-link",
+            "link.product#beers-desktop-link",
+            "link.product#butchery-desktop-link",
+            "link.product#down-app-desktop-link",
+            "link.product#our-store-desktop-link"
+        ]
+    },
+
+    /* NOSSOS PRODUTOS */
+
+    "link.product#our-products-desktop-link": {
+        "props": {
+            "blockClass": [
+                "our-products-desktop-link",
+                "header-navigation-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/window_displays/nossos-produtos"
+        },
+        "children": [
+            "rich-text#our-products-desktop-paragraph"
+        ]
+    },
+
+    "rich-text#our-products-desktop-paragraph": {
+        "props": {
+            "blockClass":[
+                "our-products-desktop-paragraph",
+                "header-navigation-desktop-paragraph"
+            ],
+            "text": "Nossos Produtos"
+        }
+    },
+
+
+    /* CERVEJAS */
+
+    "link.product#beers-desktop-link": {
+        "props": {
+            "blockClass": [
+                "beers-desktop-link",
+                "header-navigation-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cervejas-premium"
+        },
+        "children": [
+            "rich-text#beers-desktop-paragraph"
+        ]
+    },
+
+    "rich-text#beers-desktop-paragraph": {
+        "props": {
+            "blockClass":[
+                "beers-desktop-paragraph",
+                "header-navigation-desktop-paragraph"
+            ],
+            "text": "Cervejas"
+        }
+    },
+
+    /* AÇOUGUE */
+
+    "link.product#butchery-desktop-link": {
+        "props": {
+            "blockClass": [
+                "butchery-desktop-link",
+                "header-navigation-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/bovinos-congelados"
+        },
+        "children": [
+            "rich-text#butchery-desktop-paragraph"
+        ]
+    },
+
+    "rich-text#butchery-desktop-paragraph": {
+        "props": {
+            "blockClass":[
+                "butchery-desktop-paragraph",
+                "header-navigation-desktop-paragraph"
+            ],
+            "text": "Açougue"
+        }
+    },
+
+
+    /* DOWNLOAD APP */
+
+    "link.product#down-app-desktop-link": {
+        "props": {
+            "blockClass": [
+                "down-app-desktop-link",
+                "header-navigation-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/apps"
+        },
+        "children": [
+            "rich-text#down-app-desktop-paragraph"
+        ]
+    },
+
+    "rich-text#down-app-desktop-paragraph": {
+        "props": {
+            "blockClass":[
+                "down-app-desktop-paragraph",
+                "header-navigation-desktop-paragraph"
+            ],
+            "text": "Baixe o App"
+        }
+    },
+
+    /* NOSSAS LOJAS */
+
+    "link.product#our-store-desktop-link": {
+        "props": {
+            "blockClass": [
+                "our-store-desktop-link",
+                "header-navigation-desktop-link"
+            ],
+            "href": "https://www.marche.com.br/nossas-lojas"
+        },
+        "children": [
+            "rich-text#our-store-desktop-paragraph"
+        ]
+    },
+
+    "rich-text#our-store-desktop-paragraph": {
+        "props": {
+            "blockClass":[
+                "our-store-desktop-paragraph",
+                "header-navigation-desktop-paragraph"
+            ],
+            "text": "Nossas Lojas"
+        }
+    }
+}

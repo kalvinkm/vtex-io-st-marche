@@ -4,174 +4,198 @@
       "blockClass": "store-home"
     },
     "blocks": [
+      "flex-layout.row#home",
+      "flex-layout.row#home-mobile",
+      "flex-layout.row#home-no-disclosure"
+    ]
+  },
+
+  /* ---------- HOME ---------------------- */
+
+  "flex-layout.row#home": {
+    "props": {
+      "blockClass": "home"
+    },
+    "children": [
+      "flex-layout.row#home-container"
+    ]
+  },
+  "flex-layout.row#home-container": {
+    "props": {
+      "blockClass": "home-container"
+    },
+    "children": [
+      "flex-layout.col#home-disclosure",
+      "flex-layout.col#home-content"
+    ]
+  },
+
+  /* ------------ DISCLOSURE ------------ */
+
+
+  "flex-layout.col#home-disclosure": {
+    "props": {
+      "blockClass": "home-disclosure",
+      "width": "25%",
+      "preventVerticalStretch": true,
+      "preventHorizontalStretch": true
+    },
+    "children": [
+      "flex-layout.col#home-disclosure-column"
+    ]
+  },
+
+  "flex-layout.col#home-disclosure-column": {
+    "props": {
+      "preventVerticalStretch": true
+    },
+    "children": [
+      "disclosure-layout#especial-disclosure",
+      "disclosure-layout#categories-disclosure"
+    ]
+  },
+  
+  /*---------- HOME CONTENT ---------------------*/
+
+  "flex-layout.col#home-content": {
+    "props": {
+      "blockClass": "home-content",
+      "preventVerticalStretch": true
+    },
+    "children": [
       "flex-layout.row#carousel-images",
+      "flex-layout.row#carousel-images-mobile",
       "flex-layout.row#primary-banner",
-      "flex-layout.row#products",
-      "flex-layout.row#carousel-products",
-      "flex-layout.row#shelf-row-one",
-      "flex-layout.row#shelf-row-two",
-      "flex-layout.row#shelf-row-three"
+      "flex-layout.row#home-suggestion-banner",
+      "flex-layout.row#home-carousel-products",
+      "flex-layout.col#shelfs-on-home",
+      "flex-layout.col#shelf-three-items",
+      "flex-layout.row#shelf-two-items"
     ]
   },
+ 
 
+   /* SHELF ON HOME */
 
-  /* ------------------------------------------------------- */
-  /* CAROUSEL --------------------------------------------- */
-  "flex-layout.row#carousel-images": {
+   "flex-layout.col#shelfs-on-home": {
     "props": {
-      "blockClass": "carousel-images"
+      "blockClass": "shelfs-on-home"
     },
     "children": [
-      "slider-layout#image-slider"
+      "flex-layout.row#shelf-row-one-tablet",
+      "flex-layout.row#shelf-row-two-tablet",
+      "flex-layout.row#shelf-row-three-tablet"
     ]
-  },
-  "slider-layout#image-slider": {
-    "props": {
-      "itemsPerPage": {
-        "desktop": 1,
-        "tablet": 1,
-        "phone": 1
-      },
-      "autoplay": {
-        "timeout": 3000
-      },
-      "infinite": true,
-      "blockClass": "image-slider",
-      "showNavigationArrows": "always"
-    },
-    "children": [
-      "link.product#frete-gratis-banner-link",
-      "link.product#energetico-mobile-link"
-    ]
-  },
-  "link.product#frete-gratis-banner-link": {
-    "props": {
-      "blockClass": "frete-gratis-banner-link",
-      "href": "https://www.marche.com.br/window_displays/pro-friozinho"
-    },
-    "children": [
-      "image#frete-gratis-banner"
-    ]
-  },
-  "image#frete-gratis-banner": {
-    "props": {
-      "blockClass": "frete-gratis-banner",
-      "src": "assets/imgs/frete-gratis-banner.png"
-    }
-  },
-  "link.product#energetico-mobile-link": {
-    "props": {
-      "blockClass": "energetico-mobile-link",
-      "href": "https://www.marche.com.br/window_displays/pra-ficar-ligado"
-    },
-    "children": [
-      "image#energetico-mobile"
-    ]
-  },
-  "image#energetico-mobile": {
-    "props": {
-      "blockClass": "energetico-mobile",
-      "src": "assets/imgs/energetico-mobile.png"
-    }
-  },
-  /* ------------------------------------------------------------ */
-  /* PRIMARY BANNER */
-  "flex-layout.row#primary-banner": {
-    "props": {
-      "blockClass": "primary-banner"
-    },
-    "children": [
-      "image#image-banner"
-    ]
-  },
-  "image#image-banner": {
-    "props": {
-      "blockClass": "image-banner",
-      "src": "assets/imgs/banner-st-marche-app-mobile.png"
-    }
-  },
-  /* --------------------------------------------------- */
-  /* PRODUCTS TEXT */
-  "flex-layout.row#products": {
-    "props": {
-      "blockClass": "products"
-    },
-    "children": [
-      "rich-text#teste1"
-    ]
-  },
-  "rich-text#teste1": {
-    "props": {
-      "blockClass": "teste1",
-      "text": "SUGESTÕES ESPECIAIS PARA VOCÊ"
-    }
-  },
-  /* --------------------------------------------------- */
-  /* CAROUSEL PRODUCTS */
-  "flex-layout.row#carousel-products": {
-    "props": {
-      "blockClass": "carousel-products"
-    },
-    "children": [
-      "slider-layout#product-slider"
-    ]
-  },
-  "slider-layout#product-slider": {
-    "props": {
-      "itemsPerPage": {
-        "desktop": 1,
-        "tablet": 1,
-        "phone": 2
-      },
-      "autoplay": {
-        "timeout": 3000
-      },
-      "infinite": true,
-      "showNavigationArrows": "never",
-      "blockClass": "product-slider",
-      "showPaginationDots": "never"
-    },
-    "children": [
-      "flex-layout.col#folhado-passas-st-marche-column",
-      "flex-layout.col#croissant-calabresa-queijo-column",
-      "flex-layout.col#pao-gorgonzola-damasco-column",
-      "flex-layout.col#baguete-gergilin-st-marche-column",
-      "flex-layout.col#mini-marchezinho-st-marche-column",
-      "flex-layout.col#pao-italiano-st-marche-column"
-    ]
-  },
+   },
 
-  /* SHELF PRODUCTS */
-
-  "flex-layout.row#shelf-row-one": {
+   "flex-layout.row#shelf-row-one-tablet": {
     "props": {
-      "blockClass": "shelf-row-one"
+      "blockClass": "shelf-row-one-mobile"
     },
     "children": [
       "flex-layout.col#geleia-morango-linea-column",
-      "flex-layout.col#swiss-classic-dark-lindt-column"
+      "flex-layout.col#swiss-classic-dark-lindt-column",
+      "flex-layout.col#tomates-pelados-la-pastina-column",
+      "flex-layout.col#camarao-qualimar-cinza-column"
     ]
   },
 
-  "flex-layout.row#shelf-row-two": {
+  "flex-layout.row#shelf-row-two-tablet": {
     "props": {
-      "blockClass": "shelf-row-two"
+      "blockClass": "shelf-row-two-mobile"
     },
     "children":[
       "flex-layout.col#scotch-whisky-dewars-column",
-      "flex-layout.col#chocolate-choc-chip-labasque-column"
+      "flex-layout.col#chocolate-choc-chip-labasque-column",
+      "flex-layout.col#vinho-italiano-domodo-montepuliano-dabruzo-column",
+      "flex-layout.col#cerveja-hoegaarden-trigo-long-neck-column"
     ]
   },
 
-  "flex-layout.row#shelf-row-three": {
+  "flex-layout.row#shelf-row-three-tablet": {
     "props": {
-      "blockClass": "shelf-row-three"
+      "blockClass": "shelf-row-three-mobile"
     },
     "children":[
       "flex-layout.col#brooklyn-lager-beer-column",
-      "flex-layout.col#jamon-espanol-rar-column"
+      "flex-layout.col#jamon-espanol-rar-column",
+      "flex-layout.col#leite-condensado-moca-nestle-column",
+      "flex-layout.col#hamburguer-not-burguer-smash-column"
+    ]
+  },
+
+  /* HOME NO DISCLOSURE */
+
+  "flex-layout.row#home-no-disclosure": {
+    "props": {
+      "blockClass": "home-no-disclosure",
+      "preventVerticalStretch": true,
+      "preventHorizontalStretch": true
+    },
+    "children": [
+      "flex-layout.col#home-no-disclosure-column"
+    ]
+  },
+
+  "flex-layout.col#home-no-disclosure-column": {
+    "props": {
+      "blockClass": "home-no-disclosure-column"
+    },
+    "children": [
+      "flex-layout.row#carousel-images",
+      "flex-layout.row#primary-banner",
+      "flex-layout.row#home-suggestion-banner",
+      "flex-layout.row#home-carousel-products",
+      "flex-layout.col#shelf-three-items"
+    ]
+  },
+
+
+  //#################################################################
+  //#################################################################
+
+  /* HOME MOBILE */
+
+  "flex-layout.row#home-mobile": {
+    "props": {
+      "blockClass": "home-mobile"
+    },
+    "children": [
+      "flex-layout.row#carousel-images",
+      "flex-layout.row#carousel-images-mobile",
+      "flex-layout.row#primary-banner",
+      "flex-layout.row#home-suggestion-banner",
+      "flex-layout.row#carousel-products-mobile",
+      "flex-layout.row#shelf-two-items",
+      "flex-layout.col#shelf-three-items"
+      // "flex-layout.row#shelf-row-one-mobile",
+      // "flex-layout.row#shelf-row-two-mobile",
+      // "flex-layout.row#shelf-row-three-mobile"
     ]
   }
+
+
+
+
+
+
+
+  /* ------------------------------------------------------ */
+  /* ------------ HOME TABLET -----------------------------*/
+  /* "flex-layout.row#home-tablet": {
+    "props": {
+      "blockClass": "home-tablet"
+    },
+    "children": [
+      "flex-layout.row#carousel-images",
+      "flex-layout.row#primary-banner",
+      "flex-layout.row#product-tablet",
+      "flex-layout.row#home-carousel-products",
+      "flex-layout.col#shelfs-on-home"
+    ]
+  } */
+ 
+  
   // "list-context.image-list#st-marche": {
   //   "children": ["slider-layout#demo-images"],
   //   "props": {

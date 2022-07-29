@@ -1,14 +1,75 @@
-.container {
-    color: #fff;
+
+.imageElement--images-tablet,
+.imageElement--image-mobile {
+    border-radius: 4px;
 }
 
-.imageElement--image-logo {
-    width: 231px;
-    height: 32px;
+@media screen and (max-width: 992px) {
+    .imageElement--search-icon {
+        display: none;
+    }
 }
 
-.imageElement--product-carousel {
-    width: 100px;
-    height: 100px;
-    margin: 0 38px 8px 38px;
+@media screen and (max-width: 767px) {
+    .imageElement--image-logo {
+        display: none;
+    }
+
+    
+}
+
+@media screen and (min-width: 544px ) {
+    .imageElement--product-carousel {
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 1rem;
+        width: 7.1rem;
+        height: 7.1rem;
+    }
+
+}
+
+@media screen and (max-width: 543px) {
+    .container {
+        color: #fff;
+    }
+    
+    .imageElement--image-logo {
+        width: 231px;
+        height: 32px;
+    }
+    
+    .imageElement--search-icon {
+        display: block;
+        width: 22px;
+        height: 24px;
+        padding: 4px 8px;
+    }
+    
+    .imageElement--product-carousel {
+        display: block;
+        width: 100px;
+        height: 100px;
+        margin: 0 auto 2.3rem auto;
+    }
+    
+    .imageElement--american-express-card {
+        width: 30px;
+        height: 30px;
+    }
+    
+    .imageElement--elo-card {
+        width: 40px;
+        height: 40px;
+    }
+    
+    .imageElement--master-card {
+        width: 35px;
+        height: 35px;
+    }
+    
+    .imageElement--visa-card {
+        width: 35px;
+        height: 35px;
+    }
 }

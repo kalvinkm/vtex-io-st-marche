@@ -1,0 +1,140 @@
+{
+    /* COTTAGE, CREAM CHEESE E OUTROS */
+    "link.product#cottage-cream-cheese-e-outros-link": {
+        "props": {
+            "blockClass": [
+                "cottage-cream-cheese-e-outros-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cottage-cream-cheese-e-outros",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#cottage-cream-cheese-e-outros-text"
+        ]
+    },
+    "rich-text#cottage-cream-cheese-e-outros-text": {
+        "props": {
+            "blockClass": [
+                "cottage-cream-cheese-e-outros-text",
+                "categorias-text"
+            ],
+            "text": "Cottage, Cream Cheese e Outros (39)"
+        }
+    },
+    /* CREME DE LEITE DE FRESCO */
+    "link.product#creme-de-leite-fresco-link": {
+        "props": {
+            "blockClass": [
+                "creme-de-leite-fresco-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/creme-de-leite-fresco",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#creme-de-leite-fresco-text"
+        ]
+    },
+    "rich-text#creme-de-leite-fresco-text": {
+        "props": {
+            "blockClass": [
+                "creme-de-leite-fresco-text",
+                "categorias-text"
+            ],
+            "text": "Creme de Leite Fresco (9)"
+        }
+    },
+    /* MANTEIGA */
+    "link.product#manteiga-link": {
+        "props": {
+            "blockClass": [
+                "manteiga-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/manteiga",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#manteiga-text"
+        ]
+    },
+    "rich-text#manteiga-text": {
+        "props": {
+            "blockClass": [
+                "manteiga-text",
+                "categorias-text"
+            ],
+            "text": "Manteiga (58)"
+        }
+    },
+    /* MARGARINA */
+    "link.product#margarina-link": {
+        "props": {
+            "blockClass": [
+                "margarina-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/margarina",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#margarina-text"
+        ]
+    },
+    "rich-text#margarina-text": {
+        "props": {
+            "blockClass": [
+                "margarina-text",
+                "categorias-text"
+            ],
+            "text": "Margarina (19)"
+        }
+    },
+    /* NATA E CHANTILLY */
+    "link.product#nata-e-chantilly-link": {
+        "props": {
+            "blockClass": [
+                "nata-e-chantilly-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/nata-e-chantilly",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#nata-e-chantilly-text"
+        ]
+    },
+    "rich-text#nata-e-chantilly-text": {
+        "props": {
+            "blockClass": [
+                "nata-e-chantilly-text",
+                "categorias-text"
+            ],
+            "text": "Nata e Chantilly (4)"
+        }
+    },
+    /* REQUEIJÃO */
+    "link.product#requeijao-link": {
+        "props": {
+            "blockClass": [
+                "requeijao-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/requeijao",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#requeijao-text"
+        ]
+    },
+    "rich-text#requeijao-text": {
+        "props": {
+            "blockClass": [
+                "requeijao-text",
+                "categorias-text"
+            ],
+            "text": "Requeijão (39)"
+        }
+    }
+}

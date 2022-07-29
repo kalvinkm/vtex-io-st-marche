@@ -13,7 +13,8 @@
             "link.product#shops-link",
             "link.product#work-link",
             "link.product#contacts-link",
-            "link.product#campaign-link"
+            "link.product#campaign-link",
+            "link.product#exchange-returns-link"
         ]
     },
 
@@ -23,7 +24,7 @@
         "props": {
             "blockClass": [
                 "about-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://www.marche.com.br/sobre"
         },
@@ -33,7 +34,10 @@
     },
     "rich-text#about": {
         "props": {
-            "blockClass": "about",
+            "blockClass": [
+                "about",
+                "navigation-footer-text"
+            ],
             "text": "Sobre"
         }
     },
@@ -43,7 +47,7 @@
         "props": {
             "blockClass": [
                 "doubt-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://ajuda.marche.com.br/hc/pt-br"
         },
@@ -53,7 +57,10 @@
     },
     "rich-text#doubt": {
         "props": {
-            "blockClass": "doubt",
+            "blockClass": [
+                "doubt",
+                "navigation-footer-text"
+            ],
             "text": "Dúvidas"
         }
     },
@@ -63,7 +70,7 @@
         "props": {
             "blockClass": [
                 "privacy-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://www.marche.com.br/privacidade"
         },
@@ -73,7 +80,10 @@
     },
     "rich-text#privacy": {
         "props": {
-            "blockClass": "privacy",
+            "blockClass": [
+                "privacy",
+                "navigation-footer-text"
+            ],
             "text": "Privacidade"
         }
     },
@@ -84,7 +94,7 @@
         "props": {
             "blockClass": [
                 "terms-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://www.marche.com.br/termos"
         },
@@ -104,7 +114,7 @@
         "props": {
             "blockClass": [
                 "app-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://www.marche.com.br/apps"
         },
@@ -114,7 +124,7 @@
     },
     "rich-text#app": {
         "props": {
-            "blockClass": "app",
+            "blockClass": ["app","navigation-footer-text"],
             "text": "Apps"
         }
     },
@@ -124,7 +134,7 @@
         "props": {
             "blockClass": [
                 "shops-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://www.marche.com.br/nossas-lojas"
         },
@@ -134,7 +144,7 @@
     },
     "rich-text#shops": {
         "props": {
-            "blockClass": "shops",
+            "blockClass": ["shops","navigation-footer-text"],
             "text": "Lojas"
         }
     },
@@ -144,7 +154,7 @@
         "props": {
             "blockClass": [
                 "work-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://stmarche.pandape.com.br/"
         },
@@ -154,7 +164,7 @@
     },
     "rich-text#work": {
         "props": {
-            "blockClass": "work",
+            "blockClass": ["work","navigation-footer-text"],
             "text": "Trabalhe Conosco"
         }
     },
@@ -164,7 +174,7 @@
         "props": {
             "blockClass": [
                 "contacts-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://www.marche.com.br/contato"
         },
@@ -174,7 +184,7 @@
     },
     "rich-text#contacts": {
         "props": {
-            "blockClass": "contacts",
+            "blockClass": ["contacts","navigation-footer-text"],
             "text": "Contatos"
         }
     },
@@ -182,7 +192,7 @@
         "props": {
             "blockClass": [
                 "campaign-link",
-                "link"
+                "link-footer"
             ],
             "href": "https://campanha.marche.com.br/ofertas-stmarche/"
         },
@@ -192,8 +202,26 @@
     },
     "rich-text#campaign": {
         "props": {
-            "blockClass": "campaign",
+            "blockClass": ["campaign","navigation-footer-text"],
             "text": "Campanhas"
+        }
+    },
+    "link.product#exchange-returns-link": {
+        "props": {
+            "blockClass": [
+                "exchange-returns-link",
+                "link-footer"
+            ],
+            "href": "https://ajuda.marche.com.br/hc/pt-br/sections/5718564243348-Trocas-e-Devolu%C3%A7%C3%B5es"
+        },
+        "children": [
+            "rich-text#exchange-returns"
+        ]
+    },
+    "rich-text#exchange-returns": {
+        "props": {
+            "blockClass": ["exchange-returns","navigation-footer-text"],
+            "text": "Trocas e Devoluções"
         }
     }
 }

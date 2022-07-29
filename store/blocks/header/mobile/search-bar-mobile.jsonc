@@ -1,0 +1,31 @@
+{
+    "flex-layout.row#search-bar-mobile": {
+        "props": {
+            "blockClass": "search-bar-mobile"
+        },
+        "children": [
+            "flex-layout.row#search-mobile"
+        ]
+    },
+
+    "flex-layout.row#search-mobile": {
+        "props": {
+            "blockClass": "search-mobile"
+        },
+        "children": [
+            "search-bar#input-search-mobile"
+        ]
+    },
+
+    "search-bar#input-search-mobile": {
+        "props": {
+            "blockClass": "input-search-mobile",
+            "displayMode": "search-button",
+            "hasIconLeft": false,
+            "inputType": "search",
+            "maxWidth": "275px",
+            "placeholder": "Procure",
+            "compactMode": true
+        }
+    }
+}

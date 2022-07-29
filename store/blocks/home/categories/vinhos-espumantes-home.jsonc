@@ -1,0 +1,117 @@
+{
+     /* BRANCO */
+     "link.product#branco-link": {
+        "props": {
+            "blockClass": [
+                "branco-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/branco",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#branco-text"
+        ]
+    },
+    "rich-text#branco-text": {
+        "props": {
+            "blockClass": [
+                "branco-text",
+                "categorias-text"
+            ],
+            "text": "Branco (137)"
+        }
+    },
+     /* ESPUMANTE */
+     "link.product#espumante-link": {
+        "props": {
+            "blockClass": [
+                "espumante-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/espumante",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#espumante-text"
+        ]
+    },
+    "rich-text#espumante-text": {
+        "props": {
+            "blockClass": [
+                "espumante-text",
+                "categorias-text"
+            ],
+            "text": "Espumante (37)"
+        }
+    },
+     /* ROSE */
+     "link.product#rose-link": {
+        "props": {
+            "blockClass": [
+                "rose-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/rose",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#rose-text"
+        ]
+    },
+    "rich-text#rose-text": {
+        "props": {
+            "blockClass": [
+                "rose-text",
+                "categorias-text"
+            ],
+            "text": "Rosé (42)"
+        }
+    },
+     /* ROSE */
+     "link.product#sobremesa-link": {
+        "props": {
+            "blockClass": [
+                "sobremesa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sobremesa",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sobremesa-text"
+        ]
+    },
+    "rich-text#sobremesa-text": {
+        "props": {
+            "blockClass": [
+                "sobremesa-text",
+                "categorias-text"
+            ],
+            "text": "Sobremesa (8)"
+        }
+    },
+     /* TINTO */
+     "link.product#tinto-link": {
+        "props": {
+            "blockClass": [
+                "tinto-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/tinto",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#tinto-text"
+        ]
+    },
+    "rich-text#tinto-text": {
+        "props": {
+            "blockClass": [
+                "tinto-text",
+                "categorias-text"
+            ],
+            "text": "Tinto (322)"
+        }
+    }
+}

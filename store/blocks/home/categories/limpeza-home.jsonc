@@ -1,0 +1,453 @@
+{
+    /* ÁGUA SANITÁRIA */
+    "link.product#agua-sanitaria-link": {
+        "props": {
+            "blockClass": [
+                "agua-sanitaria-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/agua-sanitaria",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#agua-sanitaria-text"
+        ]
+    },
+    "rich-text#agua-sanitaria-text": {
+        "props": {
+            "blockClass": [
+                "agua-sanitaria-text",
+                "categorias-text"
+            ],
+            "text": "Água Sanitária (2)"
+        }
+    },
+
+    /* ÁGUA SANITÁRIA */
+    "link.product#alcool-gel-e-liquido-link": {
+        "props": {
+            "blockClass": [
+                "alcool-gel-e-liquido-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/alcool-gel-e-liquido",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#alcool-gel-e-liquido-text"
+        ]
+    },
+    "rich-text#alcool-gel-e-liquido-text": {
+        "props": {
+            "blockClass": [
+                "alcool-gel-e-liquido-text",
+                "categorias-text"
+            ],
+            "text": "Álcool Gel e Líquido (2)"
+        }
+    },
+
+    /* ALVEJANTE */
+    "link.product#alvejante-link": {
+        "props": {
+            "blockClass": [
+                "alvejante-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/alvejante",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#alvejante-text"
+        ]
+    },
+    "rich-text#alvejante-text": {
+        "props": {
+            "blockClass": [
+                "alvejante-text",
+                "categorias-text"
+            ],
+            "text": "Alvejante (20)"
+        }
+    },
+
+    /* AMACIANTE */
+    "link.product#amaciante-link": {
+        "props": {
+            "blockClass": [
+                "amaciante-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/amaciante",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#amaciante-text"
+        ]
+    },
+    "rich-text#amaciante-text": {
+        "props": {
+            "blockClass": [
+                "amaciante-text",
+                "categorias-text"
+            ],
+            "text": "Amaciante (22)"
+        }
+    },
+
+    /* CERA E POLIDOR */
+    "link.product#cera-e-polidor-link": {
+        "props": {
+            "blockClass": [
+                "cera-e-polidor-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/cera-e-polidor",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#cera-e-polidor-text"
+        ]
+    },
+    "rich-text#cera-e-polidor-text": {
+        "props": {
+            "blockClass": [
+                "cera-e-polidor-text",
+                "categorias-text"
+            ],
+            "text": "Cera e Polidor (14)"
+        }
+    },
+    /* DESENTUPIDOR */
+    "link.product#desentupidor-link": {
+        "props": {
+            "blockClass": [
+                "desentupidor-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/desentupidor",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#desentupidor-text"
+        ]
+    },
+    "rich-text#desentupidor-text": {
+        "props": {
+            "blockClass": [
+                "desentupidor-text",
+                "categorias-text"
+            ],
+            "text": "Desentupidor (2)"
+        }
+    },
+
+    /* DESENTUPIDOR */
+    "link.product#desinfetante-link": {
+        "props": {
+            "blockClass": [
+                "desinfetante-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/desinfetante",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#desinfetante-text"
+        ]
+    },
+    "rich-text#desinfetante-text": {
+        "props": {
+            "blockClass": [
+                "desinfetante-text",
+                "categorias-text"
+            ],
+            "text": "Desinfetante (34)"
+        }
+    },
+
+    /* DESODORIZADORES E ANTI-MOFO */
+    "link.product#desodorizadores-e-anti-mofo-link": {
+        "props": {
+            "blockClass": [
+                "desodorizadores-e-anti-mofo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/desodorizadores-e-anti-mofo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#desodorizadores-e-anti-mofo-text"
+        ]
+    },
+    "rich-text#desodorizadores-e-anti-mofo-text": {
+        "props": {
+            "blockClass": [
+                "desodorizadores-e-anti-mofo-text",
+                "categorias-text"
+            ],
+            "text": "Desodorizadores e Anti-Mofo (38)"
+        }
+    },
+    
+    /* DETERGENTE LÍQUIDO */
+    "link.product#detergente-liquido-link": {
+        "props": {
+            "blockClass": [
+                "detergente-liquido-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/detergente-liquido",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#detergente-liquido-text"
+        ]
+    },
+    "rich-text#detergente-liquido-text": {
+        "props": {
+            "blockClass": [
+                "detergente-liquido-text",
+                "categorias-text"
+            ],
+            "text": "Detergente Líquido (8)"
+        }
+    },
+
+    /* DETERGENTE PARA LAVAR LOUÇA */
+    "link.product#detergente-para-lava-louca-link": {
+        "props": {
+            "blockClass": [
+                "detergente-para-lava-louca-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/detergente-para-lava-louca",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#detergente-para-lava-louca-text"
+        ]
+    },
+    "rich-text#detergente-para-lava-louca-text": {
+        "props": {
+            "blockClass": [
+                "detergente-para-lava-louca-text",
+                "categorias-text"
+            ],
+            "text": "Detergente para Lavar Louça (18)"
+        }
+    },
+
+    /* INSETICIDAS */
+    "link.product#inseticidas-link": {
+        "props": {
+            "blockClass": [
+                "inseticidas-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/inseticidas",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#inseticidas-text"
+        ]
+    },
+    "rich-text#inseticidas-text": {
+        "props": {
+            "blockClass": [
+                "inseticidas-text",
+                "categorias-text"
+            ],
+            "text": "Inseticidas (26)"
+        }
+    },
+
+    /* LAVA ROUPA */
+    "link.product#lava-roupa-link": {
+        "props": {
+            "blockClass": [
+                "lava-roupa-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/lava-roupa",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#lava-roupa-text"
+        ]
+    },
+    "rich-text#lava-roupa-text": {
+        "props": {
+            "blockClass": [
+                "lava-roupa-text",
+                "categorias-text"
+            ],
+            "text": "Lava Roupa (47)"
+        }
+    },
+
+    /* LIMPADORES */
+    "link.product#limpadores-link": {
+        "props": {
+            "blockClass": [
+                "limpadores-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/limpadores",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#limpadores-text"
+        ]
+    },
+    "rich-text#limpadores-text": {
+        "props": {
+            "blockClass": [
+                "limpadores-text",
+                "categorias-text"
+            ],
+            "text": "Limpadores (78)"
+        }
+    },
+
+    /* LIMPADORES PARA PISO */
+    "link.product#limpador-para-piso-link": {
+        "props": {
+            "blockClass": [
+                "limpador-para-piso-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/limpador-para-piso",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#limpador-para-piso-text"
+        ]
+    },
+    "rich-text#limpador-para-piso-text": {
+        "props": {
+            "blockClass": [
+                "limpador-para-piso-text",
+                "categorias-text"
+            ],
+            "text": "Limpador para Piso (78)"
+        }
+    },
+    /* REMOVEDOR E SOLVENTE */
+    "link.product#removedor-e-solvente-link": {
+        "props": {
+            "blockClass": [
+                "removedor-e-solvente-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/removedor-e-solvente",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#removedor-e-solvente-text"
+        ]
+    },
+    "rich-text#removedor-e-solvente-text": {
+        "props": {
+            "blockClass": [
+                "removedor-e-solvente-text",
+                "categorias-text"
+            ],
+            "text": "Removedor e Solvente (3)"
+        }
+    },
+    /* SABÃO EM BARRA E EM PASTA*/
+    "link.product#sabao-em-barra-e-em-pasta-link": {
+        "props": {
+            "blockClass": [
+                "sabao-em-barra-e-em-pasta-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sabao-em-barra-e-em-pasta",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sabao-em-barra-e-em-pasta-text"
+        ]
+    },
+    "rich-text#sabao-em-barra-e-em-pasta-text": {
+        "props": {
+            "blockClass": [
+                "sabao-em-barra-e-em-pasta-text",
+                "categorias-text"
+            ],
+            "text": "Sabão em Barra e em Pasta (3)"
+        }
+    },
+    /* SACOS PARA LIXO */
+    "link.product#sacos-para-lixo-link": {
+        "props": {
+            "blockClass": [
+                "sacos-para-lixo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sacos-para-lixo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sacos-para-lixo-text"
+        ]
+    },
+    "rich-text#sacos-para-lixo-text": {
+        "props": {
+            "blockClass": [
+                "sacos-para-lixo-text",
+                "categorias-text"
+            ],
+            "text": "Sacos para Lixo (23)"
+        }
+    },
+
+    /* SAPONÁCEO*/
+    "link.product#saponaceo-link": {
+        "props": {
+            "blockClass": [
+                "saponaceo-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/saponaceo",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#saponaceo-text"
+        ]
+    },
+    "rich-text#saponaceo-text": {
+        "props": {
+            "blockClass": [
+                "saponaceo-text",
+                "categorias-text"
+            ],
+            "text": "Saponáceo (4)"
+        }
+    },
+
+    /* UTENSÍLIOS DE LIMPEZA*/
+    "link.product#utensilios-de-limpeza-link": {
+        "props": {
+            "blockClass": [
+                "utensilios-de-limpeza-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/utensilios-de-limpeza",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#utensilios-de-limpeza-text"
+        ]
+    },
+    "rich-text#utensilios-de-limpeza-text": {
+        "props": {
+            "blockClass": [
+                "utensilios-de-limpeza-text",
+                "categorias-text"
+            ],
+            "text": "Utensílios de Limpeza (53)"
+        }
+    }
+}

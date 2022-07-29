@@ -1,0 +1,71 @@
+{
+    /* COMBINADOS */
+    "link.product#combinados-link": {
+        "props": {
+            "blockClass": [
+                "combinados-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/combinados",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#combinados-text"
+        ]
+    },
+    "rich-text#combinados-text": {
+        "props": {
+            "blockClass": [
+                "combinados-text",
+                "categorias-text"
+            ],
+            "text": "Combinados (3)"
+        }
+    },
+    /* SUSHI E SASHIMI */
+    "link.product#sushi-e-sashimi-link": {
+        "props": {
+            "blockClass": [
+                "sushi-e-sashimi-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/sushi-e-sashimi",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#sushi-e-sashimi-text"
+        ]
+    },
+    "rich-text#sushi-e-sashimi-text": {
+        "props": {
+            "blockClass": [
+                "sushi-e-sashimi-text",
+                "categorias-text"
+            ],
+            "text": "Sushi e Sashimi (20)"
+        }
+    },
+    /* TEMAKI E POKE*/
+    "link.product#temaki-e-poke-link": {
+        "props": {
+            "blockClass": [
+                "temaki-e-poke-link",
+                "categorias-link"
+            ],
+            "href": "https://www.marche.com.br/categorias/temaki-e-poke",
+            "target": "_blank"
+        },
+        "children": [
+            "rich-text#temaki-e-poke-text"
+        ]
+    },
+    "rich-text#temaki-e-poke-text": {
+        "props": {
+            "blockClass": [
+                "temaki-e-poke-text",
+                "categorias-text"
+            ],
+            "text": "Temaki e Poke (8)"
+        }
+    }
+}

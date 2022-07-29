@@ -11,10 +11,15 @@
       "header-layout.mobile"
     ]
   },
-  /* HEADER DESKTOP */
+
+
+  //####################################################
+  /*------------- HEADER DESKTOP ---------------------*/
+  
   "header-layout.desktop": {
     "children": [
-      "flex-layout.row#header-desktop"
+       "flex-layout.row#header-desktop",
+      "flex-layout.row#header-navigation-desktop"
     ]
   },
   "flex-layout.row#header-desktop": {
@@ -24,52 +29,23 @@
     "children": [
       "flex-layout.row#header-desktop-container"
     ]
-  },
-  "flex-layout.row#header-desktop-container": {
+ },
+  "flex-layout.row#header-navigation-desktop": {
     "props": {
-      "blockClass": "header-desktop-container"
+      "blockClass": "header-navigation-desktop"
     },
     "children": [
-      "flex-layout.row#logo",
-      "flex-layout.row#search"
+      "flex-layout.row#header-navigation-desktop-container"
     ]
   },
-  "flex-layout.row#logo": {
-    "props": {
-      "blockClass": "logo"
-    },
-    "children": [
-      "image#st-marche-logo"
-    ]
-  },
-  "image#st-marche-logo": {
-    "props": {
-      "blockClass": "image-logo",
-      "src": "assets/imgs/st-marche-logo.svg"
-    }
-  },
-  "flex-layout.row#search": {
-    "props": {
-      "blockClass": "search"
-    },
-    "children": [
-      "rich-text#search-teste",
-      "rich-text#ícone-search"
-    ]
-  },
-  "rich-text#search-teste": {
-    "props": {
-      "blockClass": "search",
-      "text": "INPUT SEARCH AND ICON"
-    }
-  },
-  "rich-text#ícone-search": {
-    "props": {
-      "blockClass": "icone-search",
-      "text": "![serach](https://via.placeholder.com/17x19)"
-    }
-  },
+
+
+  //#####################################################
+  //#####################################################
+
   //----------- HEADER MOBILE ----------------------------
+
+
   "header-layout.mobile": {
     "children": [
       "sticky-layout#1-mobile"
@@ -90,12 +66,26 @@
       "fullWidth": true
     },
     "children": [
-      "link.product#drawer-link",
-      "flex-layout.row#logo-search",
-      "link.product#minicar-link"
+      "flex-layout.row#drawer-row",
+      "flex-layout.row#logo-mobile",
+      "flex-layout.row#search-bar-mobile",
+      "image#search-icon",
+      "minicart.v2"
     ]
   },
+
   /* MENU HAMBÚRGUER _ DRAWER */
+
+  "flex-layout.row#drawer-row": {
+    "props": {
+      "blockClass": "drawer-row"
+    },
+    "children": [
+      "link.product#drawer-link"
+    ]
+  },
+
+
   "link.product#drawer-link": {
     "props": {
       "blockClass": "drawer-link"
@@ -157,8 +147,17 @@
     }
   },
 
-  /* HEADER NAVIGATION */
+  "image#search-icon": {
+    "props": {
+        "blockClass": "search-icon",
+        "src": "assets/imgs/search-icon-header.jpg"
+    }
+},
 
+
+
+
+  /* HEADER NAVIGATION */
   "flex-layout.row#mobile-navigation": {
     "props": {
       "blockClass": "mobile-navigation",

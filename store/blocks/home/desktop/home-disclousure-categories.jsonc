@@ -1,0 +1,1543 @@
+{
+    "disclosure-layout#categories-disclosure": {
+        "props": {
+            "initialVisibility": "visible",
+            "animated": true
+        },
+        "children": [
+            "disclosure-trigger#categories-trigger",
+            "disclosure-content#categories-content"
+        ]
+    },
+    "disclosure-trigger#categories-trigger": {
+        "props": {
+            "blockClass": [
+                "categories-trigger",
+                "disclosure-trigger"
+            ]
+        },
+        "children": [
+            "rich-text#categories-text",
+            "rich-text#trigger-icon"
+        ]
+    },
+    "rich-text#categories-text": {
+        "props": {
+            "blockClass": [
+                "trigger-text"
+            ],
+            "text": "Categorias"
+        }
+    },
+    "rich-text#trigger-icon": {
+        "props": {
+            "blockClass": "trigger-icon",
+            "text": "^"
+        }
+    },
+    "disclosure-content#categories-content": {
+        "props": {
+            "blockClass": [
+                "categories-content",
+                "disclosure-content"
+            ]
+        },
+        "children": [
+            "flex-layout.col#categories-column"
+        ]
+    },
+    "flex-layout.col#categories-column": {
+        "props": {
+            "blockClass": "categories-column"
+        },
+        "children": [
+            "disclosure-layout#acougue-disclosure",
+            "disclosure-layout#bebe-infantil-disclosure",
+            "disclosure-layout#bebidas-disclosure",
+            "disclosure-layout#biscoitos-snacks-chocolates-disclosure",
+            "disclosure-layout#casa-cozinha-disclosure",
+            "disclosure-layout#cervejas-disclosure",
+            "disclosure-layout#confeitaria-disclosure",
+            "disclosure-layout#destilados-disclosure",
+            "disclosure-layout#floricultura-disclosure",
+            "disclosure-layout#frios-disclosure",
+            "disclosure-layout#higiene-e-beleza-disclosure",
+            "disclosure-layout#hortifruti-disclosure",
+            "disclosure-layout#hortifruti-organico-disclosure",
+            "disclosure-layout#iogurte-disclosure",
+            "disclosure-layout#lacticinios-disclosure",
+            "disclosure-layout#limpeza-disclosure",
+            "disclosure-layout#massas-molhos-disclosure",
+            "disclosure-layout#mercearia-disclosure",
+            "disclosure-layout#padaria-disclosure",
+            "disclosure-layout#peixaria-disclosure",
+            "disclosure-layout#prontos-para-comer-disclosure",
+            "disclosure-layout#queijos-disclosure",
+            "disclosure-layout#sorvetes-congelados-disclosure",
+            "disclosure-layout#sushi-disclosure",
+            "disclosure-layout#vinhos-espumantes-disclosure"
+        ]
+    },
+    /* AÇOUGUE */
+    "disclosure-layout#acougue-disclosure": {
+        "children": [
+            "disclosure-trigger#acougue-trigger",
+            "disclosure-content#acougue-content"
+        ]
+    },
+    "disclosure-trigger#acougue-trigger": {
+        "props": {
+            "blockClass": [
+                "acougue-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#acougue-text"
+        ]
+    },
+    "rich-text#acougue-text": {
+        "props": {
+            "blockClass": [
+                "acougue-text",
+                "content-answer"
+            ],
+            "text": "Açougue"
+        }
+    },
+    "disclosure-content#acougue-content": {
+        "props": {
+            "blockClass": "disclosure-content"
+        },
+        "children": [
+            "flex-layout.col#acougue-column"
+        ]
+    },
+    "flex-layout.col#acougue-column": {
+        "props": {
+            "blockClass": [
+                "acougue-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#aves-link",
+            "link.product#aves-congeladas-link",
+            "link.product#baby-beef-link",
+            "link.product#bacon-e-carne-seca-link",
+            "link.product#bovinos-congelados-link",
+            "link.product#contrafile-link",
+            "link.product#coxao-duro-link",
+            "link.product#coxao-mole-link",
+            "link.product#file-mignon-link",
+            "link.product#fraldinha-link",
+            "link.product#lagarto-link",
+            "link.product#linguica-link",
+            "link.product#maminha-link",
+            "link.product#outros-cortes-link",
+            "link.product#patinho-link",
+            "link.product#picanhas-link",
+            "link.product#salsicha-link",
+            "link.product#suino-link",
+            "link.product#suino-congelados-link"
+        ]
+    },
+
+    /* BEBÊ E INFANTIL */
+    "disclosure-layout#bebe-infantil-disclosure": {
+        "children": [
+            "disclosure-trigger#bebe-infantil-trigger",
+            "disclosure-content#bebe-infantil-content"
+        ]
+    },
+    "disclosure-trigger#bebe-infantil-trigger": {
+        "props": {
+            "blockClass": [
+                "bebe-infantil-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#bebe-infantil-text"
+        ]
+    },
+    "rich-text#bebe-infantil-text": {
+        "props": {
+            "blockClass": [
+                "bebe-infantil-text",
+                "content-answer"
+            ],
+            "text": "Bebê e Infantil"
+        }
+    },
+    "disclosure-content#bebe-infantil-content": {
+        "props": {
+            "blockClass": "disclosure-content"
+        },
+        "children": [
+            "flex-layout.col#bebe-infantil-column"
+        ]
+    },
+    "flex-layout.col#bebe-infantil-column": {
+        "props": {
+            "blockClass": [
+                "bebe-infantil-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#formula-infantil-link",
+            "link.product#fraldas-link",
+            "link.product#higiene-link",
+            "link.product#lencos-umedecidos-link",
+            "link.product#papinhas-link"
+        ]
+    },
+
+    /* BEBIDAS*/
+    "disclosure-layout#bebidas-disclosure": {
+        "children": [
+            "disclosure-trigger#bebidas-trigger",
+            "disclosure-content#bebidas-content"
+        ]
+    },
+    "disclosure-trigger#bebidas-trigger": {
+        "props": {
+            "blockClass": [
+                "bebidas-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#bebidas-text"
+        ]
+    },
+    "rich-text#bebidas-text": {
+        "props": {
+            "blockClass": [
+                "bebidas-text",
+                "content-answer"
+            ],
+            "text": "Bebidas"
+        }
+    },
+    "disclosure-content#bebidas-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#bebidas-column"
+        ]
+    },
+    "flex-layout.col#bebidas-column": {
+        "props": {
+            "blockClass": [
+                "bebidas-column",
+                "categorias-column"
+            ]
+            
+        },
+        "children": [
+            "link.product#agua-link",
+            "link.product#agua-de-coco-link",
+            "link.product#bebidas-lacteas-e-achocolatados-link",
+            "link.product#bebidas-vegetal-link",
+            "link.product#cha-pronto-link",
+            "link.product#energeticos-link",
+            "link.product#isotonicos-link",
+            "link.product#kombucha-link",
+            "rich-text#leite-text",
+            "link.product#refrigerante-garrafa-link",
+            "link.product#refrigerante-lata-link",
+            "link.product#sucos-e-refrescos-link",
+            "link.product#sucos-frescos-link",
+            "link.product#tonicas-link"
+        ]
+    },
+
+    /* BISCOITOS, SNACKS E CHOCOLATES */
+    "disclosure-layout#biscoitos-snacks-chocolates-disclosure": {
+        "children": [
+            "disclosure-trigger#biscoitos-snacks-chocolates-trigger",
+            "disclosure-content#biscoitos-snacks-chocolates-content"
+        ]
+    },
+    "disclosure-trigger#biscoitos-snacks-chocolates-trigger": {
+        "props": {
+            "blockClass": [
+                "biscoitos-snacks-chocolates-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#biscoitos-snacks-chocolates-text"
+        ]
+    },
+    "rich-text#biscoitos-snacks-chocolates-text": {
+        "props": {
+            "blockClass": [
+                "biscoitos-snacks-chocolates-text",
+                "content-answer"
+            ],
+            "text": "Biscoitos, Snacks e Chocolates"
+        }
+    },
+    "disclosure-content#biscoitos-snacks-chocolates-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#biscoitos-snacks-chocolates-column"
+        ]
+    },
+    "flex-layout.col#biscoitos-snacks-chocolates-column": {
+        "props": {
+            "blockClass": [
+                "biscoitos-snacks-chocolates-column",
+                "categorias-column"
+            ]
+            
+        },
+        "children": [
+            "link.product#balas-e-chicletes-link",
+            "link.product#barras-de-cereal-link",
+            "link.product#barras-de-frutas-e-nuts-link",
+            "link.product#barras-de-frutas-proteina-link",
+            "link.product#biscoito-doce-link",
+            "link.product#biscoito-salgado-link",
+            "link.product#chips-e-snacks-naturais-link",
+            "link.product#chocolates-link",
+            "link.product#frutas-desidratadas-link",
+            "link.product#nuts-link",
+            "link.product#pipoca-link",
+            "link.product#salgadinho-link",
+            "link.product#torrada-link"
+        ]
+    },
+
+    /* CASA E COZINHA */
+    "disclosure-layout#casa-cozinha-disclosure": {
+        "children": [
+            "disclosure-trigger#casa-cozinha-trigger",
+            "disclosure-content#casa-cozinha-content"
+        ]
+    },
+    "disclosure-trigger#casa-cozinha-trigger": {
+        "props": {
+            "blockClass": [
+                "casa-cozinha-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#casa-cozinha-text"
+        ]
+    },
+    "rich-text#casa-cozinha-text": {
+        "props": {
+            "blockClass": [
+                "casa-cozinha-text",
+                "content-answer"
+            ],
+            "text": "Casa e Cozinha"
+        }
+    },
+    "disclosure-content#casa-cozinha-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#casa-cozinha-column"
+        ]
+    },
+    "flex-layout.col#casa-cozinha-column": {
+        "props": {
+            "blockClass": [
+                "casa-cozinha-column",
+                "categorias-column"
+            ]
+            
+        },
+        "children": [
+            "link.product#filtros-de-papel-link",
+            "link.product#fosforo-e-acendedores-link",
+            "link.product#guardanapos-link",
+            "link.product#papel-aluminio-link",
+            "link.product#pilhas-link",
+            "link.product#pvc-link",
+            "link.product#rolo-adesivo-link",
+            "link.product#sacolas-link",
+            "link.product#sacos-para-freezer-link",
+            "link.product#toalhas-de-papel-link",
+            "link.product#utilidades-link",
+            "link.product#Velas-link"
+        ]
+    },
+
+    /* CERVEJAS */
+    "disclosure-layout#cervejas-disclosure": {
+        "children": [
+            "disclosure-trigger#cervejas-trigger",
+            "disclosure-content#cervejas-content"
+        ]
+    },
+    "disclosure-trigger#cervejas-trigger": {
+        "props": {
+            "blockClass": [
+                "cervejas-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#cervejas-text"
+        ]
+    },
+    "rich-text#cervejas-text": {
+        "props": {
+            "blockClass": [
+                "cervejas-text",
+                "content-answer"
+            ],
+            "text": "Cervejas"
+        }
+    },
+    "disclosure-content#cervejas-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#cervejas-column"
+        ]
+    },
+    "flex-layout.col#cervejas-column": {
+        "props": {
+            "blockClass": [
+                "cervejas-column",
+                "categorias-column"
+            ]
+            
+        },
+        "children": [
+            "link.product#cervejas-tradicionais-link",
+            "link.product#cervejas-especiais-artesanais-link",
+            "link.product#cervejas-premium-link"
+        ]
+    },
+
+    /* CONFEITARIA */
+    "disclosure-layout#confeitaria-disclosure": {
+        "children": [
+            "disclosure-trigger#confeitaria-trigger",
+            "disclosure-content#confeitaria-content"
+        ]
+    },
+    "disclosure-trigger#confeitaria-trigger": {
+        "props": {
+            "blockClass": [
+                "confeitaria-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#confeitaria-text"
+        ]
+    },
+    "rich-text#confeitaria-text": {
+        "props": {
+            "blockClass": [
+                "confeitaria-text",
+                "content-answer"
+            ],
+            "text": "Confeitaria"
+        }
+    },
+    "disclosure-content#confeitaria-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#confeitaria-column"
+        ]
+    },
+    "flex-layout.col#confeitaria-column": {
+        "props": {
+            "blockClass": [
+                "confeitaria-column",
+                "categorias-column"
+            ]
+            
+        },
+        "children": [
+            "link.product#bolos-industrializados-link",
+            "link.product#bolos-recheados-st-marche-link",
+            "link.product#bolos-secos-st-marche-link",
+            "link.product#brownie-pao-de-mel-e-doces-link",
+            "link.product#tortas-e-doces-st-marche-link"
+            
+        ]
+    },
+
+    /* DESTILADOS */
+    "disclosure-layout#destilados-disclosure": {
+        "children": [
+            "disclosure-trigger#destilados-trigger",
+            "disclosure-content#destilados-content"
+        ]
+    },
+    "disclosure-trigger#destilados-trigger": {
+        "props": {
+            "blockClass": [
+                "destilados-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#destilados-text"
+        ]
+    },
+    "rich-text#destilados-text": {
+        "props": {
+            "blockClass": [
+                "destilados-text",
+                "content-answer"
+            ],
+            "text": "Destilados"
+        }
+    },
+    "disclosure-content#destilados-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#destilados-column"
+        ]
+    },
+    "flex-layout.col#destilados-column": {
+        "props": {
+            "blockClass": [
+                "destilados-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#aguardente-e-cachaca-link",
+            "link.product#aperitivo-link",
+            "link.product#conhaque-e-brandy-link",
+            "link.product#gin-link",
+            "link.product#licor-link",
+            "link.product#prontos-para-beber-link",
+            "link.product#rum-e-tequila-link",
+            "link.product#saque-link",
+            "link.product#vermouth-link",
+            "link.product#vodka-link",
+            "link.product#whisky-link"
+        ]
+    },
+
+    /* FLORICULTURA */
+    "disclosure-layout#floricultura-disclosure": {
+        "children": [
+            "disclosure-trigger#floricultura-trigger",
+            "disclosure-content#floricultura-content"
+        ]
+    },
+    "disclosure-trigger#floricultura-trigger": {
+        "props": {
+            "blockClass": [
+                "floricultura-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#floricultura-text"
+        ]
+    },
+    "rich-text#floricultura-text": {
+        "props": {
+            "blockClass": [
+                "floricultura-text",
+                "content-answer"
+            ],
+            "text": "Floricultura"
+        }
+    },
+    "disclosure-content#floricultura-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#floricultura-column"
+        ]
+    },
+    "flex-layout.col#floricultura-column": {
+        "props": {
+            "blockClass": [
+                "floricultura-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#buques-e-macos-link",
+            "link.product#orquideas-link",
+            "link.product#outras-flores-link",
+            "link.product#plantas-link"
+        ]
+    },
+
+    /* FRIOS */
+    "disclosure-layout#frios-disclosure": {
+        "children": [
+            "disclosure-trigger#frios-trigger",
+            "disclosure-content#frios-content"
+        ]
+    },
+    "disclosure-trigger#frios-trigger": {
+        "props": {
+            "blockClass": [
+                "frios-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#frios-text"
+        ]
+    },
+    "rich-text#frios-text": {
+        "props": {
+            "blockClass": [
+                "frios-text",
+                "content-answer"
+            ],
+            "text": "Frios"
+        }
+    },
+    "disclosure-content#frios-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#frios-column"
+        ]
+    },
+    "flex-layout.col#frios-column": {
+        "props": {
+            "blockClass": [
+                "frios-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#mortadela-link",
+            "link.product#outros-embutidos-link",
+            "link.product#peito-de-peru-chester-e-frango-link",
+            "link.product#presunto-cozido-link",
+            "link.product#presunto-cru-e-parma-link",
+            "link.product#rosbife-e-pastrami-link",
+            "link.product#salame-e-copa-link"
+        ]
+    },
+
+    /* HIGIENE E BELEZA */
+    "disclosure-layout#higiene-e-beleza-disclosure": {
+        "children": [
+            "disclosure-trigger#higiene-e-beleza-trigger",
+            "disclosure-content#higiene-e-beleza-content"
+        ]
+    },
+    "disclosure-trigger#higiene-e-beleza-trigger": {
+        "props": {
+            "blockClass": [
+                "higiene-e-beleza-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#higiene-e-beleza-text"
+        ]
+    },
+    "rich-text#higiene-e-beleza-text": {
+        "props": {
+            "blockClass": [
+                "higiene-e-beleza-text",
+                "content-answer"
+            ],
+            "text": "Higiene e Beleza"
+        }
+    },
+    "disclosure-content#higiene-e-beleza-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#higiene-e-beleza-column"
+        ]
+    },
+    "flex-layout.col#higiene-e-beleza-column": {
+        "props": {
+            "blockClass": [
+                "higiene-e-beleza-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#absorvente-link",
+            "link.product#acessorio-para-banho-link",
+            "link.product#acessorio-para-cabelo-link",
+            "link.product#antisseptico-bucal-link",
+            "link.product#barba-link",
+            "link.product#condicionador-link",
+            "link.product#creme-dental-link",
+            "link.product#depilacao-link",
+            "link.product#descartaveis-link",
+            "link.product#desodorante-link",
+            "link.product#escova-dental-link",
+            "link.product#fio-dental-link",
+            "link.product#hidratacao-e-finalizador-para-cabelo-link",
+            "link.product#hidratantes-link",
+            "link.product#higiene-intima-link",
+            "link.product#papel-higienico-link",
+            "link.product#protetor-e-repelente-link",
+            "link.product#sabonetes-link",
+            "link.product#shampoo-link"
+        ]
+    },
+
+    /* HORTIFRUTI*/
+    "disclosure-layout#hortifruti-disclosure": {
+        "children": [
+            "disclosure-trigger#hortifruti-trigger",
+            "disclosure-content#hortifruti-content"
+        ]
+    },
+    "disclosure-trigger#hortifruti-trigger": {
+        "props": {
+            "blockClass": [
+                "hortifruti-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#hortifruti-text"
+        ]
+    },
+    "rich-text#hortifruti-text": {
+        "props": {
+            "blockClass": [
+                "hortifruti-text",
+                "content-answer"
+            ],
+            "text": "Hortifruti"
+        }
+    },
+    "disclosure-content#hortifruti-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#hortifruti-column"
+        ]
+    },
+    "flex-layout.col#hortifruti-column": {
+        "props": {
+            "blockClass": [
+                "hortifruti-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#cogumelo-e-broto-link",
+            "link.product#fruta-link",
+            "link.product#legume-link",
+            "link.product#ovo-link",
+            "link.product#salada-de-fruta-link",
+            "link.product#tempero-link",
+            "link.product#verdura-link"
+        ]
+    },
+
+    /* HORTIFRUTI ORGÂNICO*/
+    "disclosure-layout#hortifruti-organico-disclosure": {
+        "children": [
+            "disclosure-trigger#hortifruti-organico-trigger",
+            "disclosure-content#hortifruti-organico-content"
+        ]
+    },
+    "disclosure-trigger#hortifruti-organico-trigger": {
+        "props": {
+            "blockClass": [
+                "hortifruti-organico-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#hortifruti-organico-text"
+        ]
+    },
+    "rich-text#hortifruti-organico-text": {
+        "props": {
+            "blockClass": [
+                "hortifruti-organico-text",
+                "content-answer"
+            ],
+            "text": "Hortifruti Orgânico"
+        }
+    },
+    "disclosure-content#hortifruti-organico-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#hortifruti-organico-column"
+        ]
+    },
+    "flex-layout.col#hortifruti-organico-column": {
+        "props": {
+            "blockClass": [
+                "hortifruti-organico-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#cogumelo-e-broto-organico-link",
+            "link.product#fruta-organica-link",
+            "link.product#legume-organico-link",
+            "link.product#ovo-organico-link",
+            "link.product#tempero-organico-link",
+            "link.product#verdura-organico-link"
+        ]
+    },
+
+    /* IOGURTE */
+    "disclosure-layout#iogurte-disclosure": {
+        "children": [
+            "disclosure-trigger#iogurte-trigger",
+            "disclosure-content#iogurte-content"
+        ]
+    },
+    "disclosure-trigger#iogurte-trigger": {
+        "props": {
+            "blockClass": [
+                "iogurte-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#iogurte-text"
+        ]
+    },
+    "rich-text#iogurte-text": {
+        "props": {
+            "blockClass": [
+                "iogurte-text",
+                "content-answer"
+            ],
+            "text": "Iogurtes"
+        }
+    },
+    "disclosure-content#iogurte-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#iogurte-column"
+        ]
+    },
+    "flex-layout.col#iogurte-column": {
+        "props": {
+            "blockClass": [
+                "iogurte-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#grego-link",
+            "link.product#leite-fermentado-link",
+            "link.product#liquido-e-polpa-link",
+            "link.product#natural-link",
+            "link.product#petit-suisse-e-sobremesa-link",
+            "link.product#proteina-link",
+            "link.product#zero-lactose-link"
+        ]
+    },
+    /* IOGURTE */
+    "disclosure-layout#lacticinios-disclosure": {
+        "children": [
+            "disclosure-trigger#lacticinios-trigger",
+            "disclosure-content#lacticinios-content"
+        ]
+    },
+    "disclosure-trigger#lacticinios-trigger": {
+        "props": {
+            "blockClass": [
+                "lacticinios-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#lacticinios-text"
+        ]
+    },
+    "rich-text#lacticinios-text": {
+        "props": {
+            "blockClass": [
+                "lacticinios-text",
+                "content-answer"
+            ],
+            "text": "Laticínios"
+        }
+    },
+    "disclosure-content#lacticinios-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#lacticinios-column"
+        ]
+    },
+    "flex-layout.col#lacticinios-column": {
+        "props": {
+            "blockClass": [
+                "lacticinios-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#cottage-cream-cheese-e-outros-link",
+            "link.product#creme-de-leite-fresco-link",
+            "link.product#manteiga-link",
+            "link.product#margarina-link",
+            "link.product#nata-e-chantilly-link",
+            "link.product#requeijao-link"
+        ]
+    },
+    /* LIMPEZA */
+    "disclosure-layout#limpeza-disclosure": {
+        "children": [
+            "disclosure-trigger#limpeza-trigger",
+            "disclosure-content#limpeza-content"
+        ]
+    },
+    "disclosure-trigger#limpeza-trigger": {
+        "props": {
+            "blockClass": [
+                "limpeza-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#limpeza-text"
+        ]
+    },
+    "rich-text#limpeza-text": {
+        "props": {
+            "blockClass": [
+                "limpeza-text",
+                "content-answer"
+            ],
+            "text": "Limpeza"
+        }
+    },
+    "disclosure-content#limpeza-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#limpeza-column"
+        ]
+    },
+    "flex-layout.col#limpeza-column": {
+        "props": {
+            "blockClass": [
+                "limpeza-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#agua-sanitaria-link",
+            "link.product#alcool-gel-e-liquido-link",
+            "link.product#alvejante-link",
+            "link.product#amaciante-link",
+            "link.product#cera-e-polidor-link",
+            "link.product#desentupidor-link",
+            "link.product#desinfetante-link",
+            "link.product#desodorizadores-e-anti-mofo-link",
+            "link.product#detergente-liquido-link",
+            "link.product#detergente-para-lava-louca-link",
+            "link.product#inseticidas-link",
+            "link.product#lava-roupa-link",
+            "link.product#limpadores-link",
+            "link.product#limpador-para-piso-link",
+            "link.product#removedor-e-solvente-link",
+            "link.product#sabao-em-barra-e-em-pasta-link",
+            "link.product#sacos-para-lixo-link",
+            "link.product#saponaceo-link",
+            "link.product#utensilios-de-limpeza-link"
+        ]
+    },
+    /* MASSA E MOLHOS */
+    "disclosure-layout#massas-molhos-disclosure": {
+        "children": [
+            "disclosure-trigger#massas-molhos-trigger",
+            "disclosure-content#massas-molhos-content"
+        ]
+    },
+    "disclosure-trigger#massas-molhos-trigger": {
+        "props": {
+            "blockClass": [
+                "massas-molhos-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#massas-molhos-text"
+        ]
+    },
+    "rich-text#massas-molhos-text": {
+        "props": {
+            "blockClass": [
+                "massas-molhos-text",
+                "content-answer"
+            ],
+            "text": "Massas e Molhos"
+        }
+    },
+    "disclosure-content#massas-molhos-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#massas-molhos-column"
+        ]
+    },
+    "flex-layout.col#massas-molhos-column": {
+        "props": {
+            "blockClass": [
+                "massas-molhos-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#massa-fresca-link",
+            "link.product#massa-link",
+            "link.product#massa-seca-link",
+            "link.product#molho-e-extrato-link",
+            "link.product#molho-fresco-link"
+        ]
+    },
+    /* MERCEARIA */
+    "disclosure-layout#mercearia-disclosure": {
+        "children": [
+            "disclosure-trigger#mercearia-trigger",
+            "disclosure-content#mercearia-content"
+        ]
+    },
+    "disclosure-trigger#mercearia-trigger": {
+        "props": {
+            "blockClass": [
+                "mercearia-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#mercearia-text"
+        ]
+    },
+    "rich-text#mercearia-text": {
+        "props": {
+            "blockClass": [
+                "mercearia-text",
+                "content-answer"
+            ],
+            "text": "Mercearia"
+        }
+    },
+    "disclosure-content#mercearia-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#mercearia-column"
+        ]
+    },
+    "flex-layout.col#mercearia-column": {
+        "props": {
+            "blockClass": [
+                "mercearia-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#aceto-balsamico-link",
+            "link.product#achocolatados-link",
+            "link.product#acucar-link",
+            "link.product#adocante-link",
+            "link.product#arroz-link",
+            "link.product#arroz-especial-e-risoto-link",
+            "link.product#atum-e-sardinha-link",
+            "link.product#aveia-e-mingau-link",
+            "link.product#azeite-link",
+            "link.product#azeitona-link",
+            "link.product#batata-palha-link",
+            "link.product#cacau-e-chocolates-culinarios-link",
+            "link.product#cafe-em-capsula-link",
+            "link.product#cafe-em-graos-link",
+            "link.product#cafe-moido-link",
+            "link.product#cafe-soluvel-e-cappuccino-link",
+            "link.product#cafe-soluvel-e-cappuccino-dois-link",
+            "link.product#caldos-link",
+            "link.product#catchup-e-barbecue-link",
+            "link.product#cebola-e-alho-link",
+            "link.product#cereal-matinal-link",
+            "link.product#cha-link",
+            "link.product#cobertura-e-calda-link",
+            "link.product#cogumelo-link",
+            "link.product#creme-de-avela-amendoim-e-outros-link",
+            "link.product#creme-de-leite-link",
+            "link.product#doces-e-compotas-link",
+            "link.product#etnicos-link",
+            "link.product#farinhas-link",
+            "link.product#fermento-link",
+            "link.product#gelatinas-e-sobremesas-em-po-link",
+            "link.product#geleia-link",
+            "link.product#granola-link",
+            "link.product#graos-e-sementes-link",
+            "link.product#leite-condensado-link",
+            "link.product#leite-de-coco-e-coco-ralado-link",
+            "link.product#leite-em-po-link",
+            "link.product#maionese-link",
+            "link.product#mistura-de-bolo-e-salgado-link",
+            "link.product#molho-de-pimenta-link",
+            "link.product#molho-para-salada-link",
+            "link.product#molho-diversos-link",
+            "link.product#oleo-link",
+            "link.product#outras-conservas-e-enlatados-link",
+            "link.product#palmito-link",
+            "link.product#sal-link",
+            "link.product#suplementos-e-vitaminas-link",
+            "link.product#tapioca-link",
+            "link.product#temperos-secos-link",
+            "link.product#vegetais-link",
+            "link.product#vinagre-link"
+        ]
+    },
+
+     /* PADARIA */
+     "disclosure-layout#padaria-disclosure": {
+        "children": [
+            "disclosure-trigger#padaria-trigger",
+            "disclosure-content#padaria-content"
+        ]
+    },
+    "disclosure-trigger#padaria-trigger": {
+        "props": {
+            "blockClass": [
+                "padaria-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#padaria-text"
+        ]
+    },
+    "rich-text#padaria-text": {
+        "props": {
+            "blockClass": [
+                "padaria-text",
+                "content-answer"
+            ],
+            "text": "Padaria"
+        }
+    },
+    "disclosure-content#padaria-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#padaria-column"
+        ]
+    },
+    "flex-layout.col#padaria-column": {
+        "props": {
+            "blockClass": [
+                "padaria-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#padaria-st-marche-link",
+            "link.product#pao-de-alho-link",
+            "link.product#pao-de-forma-link",
+            "link.product#pao-de-hamburguer-link",
+            "link.product#pao-de-hot-dog-link",
+            "link.product#pao-para-lanche-link",
+            "link.product#pao-sirio-e-outros-link",
+            "link.product#torradas-e-crostatas-artesanais-link"
+        ]
+    },
+
+     /* PEIXARIA */
+     "disclosure-layout#peixaria-disclosure": {
+        "children": [
+            "disclosure-trigger#peixaria-trigger",
+            "disclosure-content#peixaria-content"
+        ]
+    },
+    "disclosure-trigger#peixaria-trigger": {
+        "props": {
+            "blockClass": [
+                "peixaria-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#peixaria-text"
+        ]
+    },
+    "rich-text#peixaria-text": {
+        "props": {
+            "blockClass": [
+                "peixaria-text",
+                "content-answer"
+            ],
+            "text": "Peixaria"
+        }
+    },
+    "disclosure-content#peixaria-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#peixaria-column"
+        ]
+    },
+    "flex-layout.col#peixaria-column": {
+        "props": {
+            "blockClass": [
+                "peixaria-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#bacalhau-link",
+            "link.product#peixes-e-frutos-do-mar-congelados-link"
+        ]
+    },
+
+     /* PRONTOS PARA COMER E COZINHAR */
+     "disclosure-layout#prontos-para-comer-disclosure": {
+        "children": [
+            "disclosure-trigger#prontos-para-comer-trigger",
+            "disclosure-content#prontos-para-comer-content"
+        ]
+    },
+    "disclosure-trigger#prontos-para-comer-trigger": {
+        "props": {
+            "blockClass": [
+                "prontos-para-comer-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#prontos-para-comer-text"
+        ]
+    },
+    "rich-text#prontos-para-comer-text": {
+        "props": {
+            "blockClass": [
+                "prontos-para-comer-text",
+                "content-answer"
+            ],
+            "text": "Prontos para Comer/Cozinhar"
+        }
+    },
+    "disclosure-content#prontos-para-comer-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#prontos-para-comer-column"
+        ]
+    },
+    "flex-layout.col#prontos-para-comer-column": {
+        "props": {
+            "blockClass": [
+                "prontos-para-comer-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#antepasto-link",
+            "link.product#esfiha-e-kibe-link",
+            "link.product#homus-babaganuch-e-coalhada-link",
+            "link.product#pate-e-boursin-link",
+            "link.product#pratos-prontos-link",
+            "link.product#torta-e-quiche-link"
+        ]
+    },
+
+     /* QUEIJOS */
+     "disclosure-layout#queijos-disclosure": {
+        "children": [
+            "disclosure-trigger#queijos-trigger",
+            "disclosure-content#queijos-content"
+        ]
+    },
+    "disclosure-trigger#queijos-trigger": {
+        "props": {
+            "blockClass": [
+                "queijos-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#queijos-text"
+        ]
+    },
+    "rich-text#queijos-text": {
+        "props": {
+            "blockClass": [
+                "queijos-text",
+                "content-answer"
+            ],
+            "text": "Queijos"
+        }
+    },
+    "disclosure-content#queijos-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#queijos-column"
+        ]
+    },
+    "flex-layout.col#queijos-column": {
+        "props": {
+            "blockClass": [
+                "queijos-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#brie-e-camembert-link",
+            "link.product#chancliche-e-boursin-link",
+            "link.product#coalho-link",
+            "link.product#edam-e-gouda-link",
+            "link.product#emmental-estepe-e-gruyere-link",
+            "link.product#fondue-link",
+            "link.product#frescal-e-ricota-link",
+            "link.product#gorgonzola-e-roquefort-link",
+            "link.product#maasdam-e-reino-link",
+            "link.product#mussarela-link",
+            "link.product#outros-queijos-link",
+            "link.product#ovelha-e-cabra-link",
+            "link.product#parmesao-link",
+            "link.product#prato-link",
+            "link.product#provolone-link",
+            "link.product#queijos-artesanais-brasileiros-link"
+        ]
+    },
+
+     /* SORVETES E CONGELADOS */
+     "disclosure-layout#sorvetes-congelados-disclosure": {
+        "children": [
+            "disclosure-trigger#sorvetes-congelados-trigger",
+            "disclosure-content#sorvetes-congelados-content"
+        ]
+    },
+    "disclosure-trigger#sorvetes-congelados-trigger": {
+        "props": {
+            "blockClass": [
+                "sorvetes-congelados-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#sorvetes-congelados-text"
+        ]
+    },
+    "rich-text#sorvetes-congelados-text": {
+        "props": {
+            "blockClass": [
+                "sorvetes-congelados-text",
+                "content-answer"
+            ],
+            "text": "Sorvetes e Congelados"
+        }
+    },
+    "disclosure-content#sorvetes-congelados-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#sorvetes-congelados-column"
+        ]
+    },
+    "flex-layout.col#sorvetes-congelados-column": {
+        "props": {
+            "blockClass": [
+                "sorvetes-congelados-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#acai-fruta-e-polpa-link",
+            "link.product#carnes-exoticas-e-especiais-link",
+            "link.product#hamburguer-congelado-link",
+            "link.product#pao-de-queijo-link",
+            "link.product#petiscos-e-empanados-link",
+            "link.product#pizzas-link",
+            "link.product#plant-based-link",
+            "link.product#prato-pronto-congelado-link",
+            "link.product#sobremesas-congeladas-link",
+            "link.product#sorvetes-link",
+            "link.product#torta-e-quiche-congelado-link",
+            "link.product#vegetais-congelado-link"
+        ]
+    },
+     /* SUSHI */
+     "disclosure-layout#sushi-disclosure": {
+        "children": [
+            "disclosure-trigger#sushi-trigger",
+            "disclosure-content#sushi-content"
+        ]
+    },
+    "disclosure-trigger#sushi-trigger": {
+        "props": {
+            "blockClass": [
+                "sushi-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#sushi-text"
+        ]
+    },
+    "rich-text#sushi-text": {
+        "props": {
+            "blockClass": [
+                "sushi-text",
+                "content-answer"
+            ],
+            "text": "Sushi"
+        }
+    },
+    "disclosure-content#sushi-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#sushi-column"
+        ]
+    },
+    "flex-layout.col#sushi-column": {
+        "props": {
+            "blockClass": [
+                "sushi-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#combinados-link",
+            "link.product#sushi-e-sashimi-link",
+            "link.product#temaki-e-poke-link"
+        ]
+    },
+     /* VINHOS E ESPUMANTES */
+     "disclosure-layout#vinhos-espumantes-disclosure": {
+        "children": [
+            "disclosure-trigger#vinhos-espumantes-trigger",
+            "disclosure-content#vinhos-espumantes-content"
+        ]
+    },
+    "disclosure-trigger#vinhos-espumantes-trigger": {
+        "props": {
+            "blockClass": [
+                "vinhos-espumantes-trigger",
+                "disclosure-trigger",
+                "disclosure-trigger-intern"
+            ]
+        },
+        "children": [
+            "rich-text#vinhos-espumantes-text"
+        ]
+    },
+    "rich-text#vinhos-espumantes-text": {
+        "props": {
+            "blockClass": [
+                "vinhos-espumantes-text",
+                "content-answer"
+            ],
+            "text": "Vinhos e Espumantes"
+        }
+    },
+    "disclosure-content#vinhos-espumantes-content": {
+        "props": {
+            "blockClass": "disclosure-content",
+            "preventVerticalStretch": true
+        },
+        "children": [
+            "flex-layout.col#vinhos-espumantes-column"
+        ]
+    },
+    "flex-layout.col#vinhos-espumantes-column": {
+        "props": {
+            "blockClass": [
+                "vinhos-espumantes-column",
+                "categorias-column"
+            ]
+        },
+        "children": [
+            "link.product#branco-link",
+            "link.product#espumante-link",
+            "link.product#rose-link",
+            "link.product#sobremesa-link",
+            "link.product#tinto-link"
+        ]
+    }
+}
