@@ -82,3 +82,7 @@
     transition: none;
   }
 }
+
+:global(.vtex-minicart-2-x-cartIcon) {
+  color: #fff;
+}

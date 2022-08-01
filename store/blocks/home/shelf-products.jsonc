@@ -81,7 +81,7 @@
     "rich-text#old-price-geleia-morango-linea": {
         "props": {
             "blockClass": "old-price-text",
-            "text": "R$ 21,39"
+            "text": "R$21,39"
         }
     },
 
@@ -215,7 +215,7 @@
     "rich-text#old-price-swiss-classic-dark-lindt": {
         "props": {
             "blockClass": "old-price-text",
-            "text": "R$ 28,99"
+            "text": "R$28,99"
         }
     },
 

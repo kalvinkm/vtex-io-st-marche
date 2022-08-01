@@ -42,7 +42,8 @@
             "blockClass": [
                 "especial-content",
                 "disclosure-content"
-            ]
+            ],
+            "preventHorizontalStretch": true
         },
         "children": [
             "flex-layout.col#especial-column"

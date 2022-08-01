@@ -70,6 +70,7 @@
       "flex-layout.row#logo-mobile",
       "flex-layout.row#search-bar-mobile",
       "image#search-icon",
+      "flex-layout.row#login-desktop",
       "minicart.v2"
     ]
   },

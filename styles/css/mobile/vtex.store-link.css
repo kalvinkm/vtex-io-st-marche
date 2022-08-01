@@ -24,7 +24,7 @@
     padding: 2px 0;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1025px) {
     .link--email-link {
         display: flex;
     }

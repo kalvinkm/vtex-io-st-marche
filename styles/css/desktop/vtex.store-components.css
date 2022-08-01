@@ -92,3 +92,11 @@
     width: 35px;
     height: 35px;
 }
+
+@media screen and (max-width: 991px) {
+    .searchBarInnerContainer--input-search-desktop {
+        width: 360px !important;
+        background-color: #32593B;
+    
+    }
+}

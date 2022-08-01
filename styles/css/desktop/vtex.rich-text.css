@@ -21,7 +21,7 @@
 
 .paragraph--minicar-desktop-paragraph:hover {
     color: #fff;
-    background-color: #839041; 
+    background-color: #839041;
 }
 
 .container--minicar-desktop {
@@ -35,6 +35,8 @@
     color: #1a5632;
     font-size: 18px !important;
     height: 53px;
+    margin-top: 20px !important;
+    font-weight: bold;
 }
 
 .paragraph--header-navigation-desktop-paragraph:hover {
@@ -43,13 +45,15 @@
 
 /* HOME  */
 
+
+
 /* DISCLOSURE */
 
 .paragraph--trigger-icon,
 .paragraph--trigger-text {
     color: #5E696D;
     font-size: 1rem;
-    font-weight: 700;
+    font-weight: 900;
     font-family: "Source Sans Pro";
 }
 

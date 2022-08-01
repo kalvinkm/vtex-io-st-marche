@@ -38,7 +38,8 @@
     "props": {
       "blockClass": [
         "folhado-passas-st-marche",
-        "product-text"
+        "product-text",
+        "product-text-carousel"
       ],
       "text": "Folhado de Passas ST MARCHE"
     }
@@ -47,7 +48,8 @@
     "props": {
       "blockClass": [
         "folhado-passas-st-marche-preco",
-        "products-price"
+        "products-price",
+        "products-price-carousel"
       ],
       "text": "R$ 10,50 /un"
     }
@@ -56,7 +58,8 @@
     "props": {
       "blockClass": [
         "button-add-folhado-passas-st-marche",
-        "button-add"
+        "button-add",
+        "button-add-carousel"
       ]
     },
     "children": [
@@ -132,7 +135,8 @@
     "props": {
       "blockClass": [
         "croissant-calabresa-queijo",
-        "product-text"
+        "product-text",
+        "product-text-carousel"
       ],
       "text": "Croissant  Calabresa E Queijo ST MARCHE 100g"
     }
@@ -141,7 +145,8 @@
     "props": {
       "blockClass": [
         "croissant-calabresa-queijo-preco",
-        "products-price"
+        "products-price",
+        "products-price-carousel"
       ],
       "text": "R$ 9,90 /un"
     }
@@ -150,7 +155,8 @@
     "props": {
       "blockClass": [
         "button-add-croissant-calabresa-queijo",
-        "button-add"
+        "button-add",
+        "button-add-carousel"
       ]
     },
     "children": [
@@ -227,7 +233,8 @@
     "props": {
       "blockClass": [
         "pao-gorgonzola-damasco",
-        "product-text"
+        "product-text",
+        "product-text-carousel"
       ],
       "text": "Pão Gorgonzola e Damasco ST MARCHE"
     }
@@ -236,7 +243,8 @@
     "props": {
       "blockClass": [
         "pao-gorgonzola-damasco-preco",
-        "products-price"
+        "products-price",
+        "products-price-carousel"
       ],
       "text": "R$ 22,41 /un"
     }
@@ -245,7 +253,8 @@
     "props": {
       "blockClass": [
         "button-add-pao-gorgonzola-damasco",
-        "button-add"
+        "button-add",
+        "button-add-carousel"
       ]
     },
     "children": [
@@ -322,7 +331,8 @@
     "props": {
       "blockClass": [
         "baguete-gergilin-st-marche",
-        "product-text"
+        "product-text",
+        "product-text-carousel"
       ],
       "text": "Baguete Com Gergelim Mini ST MARCHE"
     }
@@ -331,7 +341,8 @@
     "props": {
       "blockClass": [
         "baguete-gergilin-st-marche-preco",
-        "products-price"
+        "products-price",
+        "products-price-carousel"
       ],
       "text": "R$ 3,09 /un"
     }
@@ -340,7 +351,8 @@
     "props": {
       "blockClass": [
         "button-add-baguete-gergilin-st-marche",
-        "button-add"
+        "button-add",
+        "button-add-carousel"
       ]
     },
     "children": [
@@ -418,7 +430,8 @@
     "props": {
       "blockClass": [
         "mini-marchezinho-st-marche",
-        "product-text"
+        "product-text",
+        "product-text-carousel"
       ],
       "text": "Mini Marchezinho ST MARCHE"
     }
@@ -427,7 +440,8 @@
     "props": {
       "blockClass": [
         "mini-marchezinho-st-marche-preco",
-        "products-price"
+        "products-price",
+        "products-price-carousel"
       ],
       "text": "R$ 1,24 /un"
     }
@@ -436,7 +450,8 @@
     "props": {
       "blockClass": [
         "button-add-mini-marchezinho-st-marche",
-        "button-add"
+        "button-add",
+        "button-add-carousel"
       ]
     },
     "children": [
@@ -513,7 +528,8 @@
     "props": {
       "blockClass": [
         "pao-italiano-st-marche",
-        "product-text"
+        "product-text",
+        "product-text-carousel"
       ],
       "text": "Pão Italiano ST MARCHE Bola Fatiado"
     }
@@ -522,7 +538,8 @@
     "props": {
       "blockClass": [
         "pao-italiano-st-marche-preco",
-        "products-price"
+        "products-price",
+        "products-price-carousel"
       ],
       "text": "R$ 20,26 /un"
     }
@@ -531,7 +548,8 @@
     "props": {
       "blockClass": [
         "button-add-pao-italiano-st-marche",
-        "button-add"
+        "button-add",
+        "button-add-carousel"
       ]
     },
     "children": [

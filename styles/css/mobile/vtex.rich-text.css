@@ -6,10 +6,8 @@
 
 .paragraph {
     margin: 0;
-    height: 24px;
     padding: 0 0rem;
     font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
-    font-size: 1rem;
     line-height: 1.5;
 }
 
@@ -56,6 +54,11 @@
 
 /* CAROUSEL PRODUCTS */
 
+.container--products-price-carousel,
+.container--product-text-carousel {
+    margin-bottom: 1rem !important;
+}
+
 
 .paragraph--product-text {
     display: -webkit-box;
@@ -69,6 +72,8 @@
     text-align: center;
     margin-top: 0;
     margin-bottom: 8px;
+    height: 24px;
+    font-weight: 900;
 }
 
 /* .container--product-text {
@@ -130,7 +135,9 @@
 }
 
 .container--old-price-text {
-    margin-left: 18px;
+    display: flex;
+    justify-content: center;
+    padding-left: 0.5rem;
 }
 
 .paragraph--old-price-text {
@@ -191,6 +198,18 @@
     font-weight: 300;
     color: #fff;
     font-size: 1.1rem;
+}
+
+@media screen and (max-width: 991px) {
+    .paragraph--mobile-header-nav-itens {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .paragraph--mobile-header-nav-itens {
+        font-size: 0.9rem;
+    }
 }
 
 @media screen and (min-width: 544px) {
