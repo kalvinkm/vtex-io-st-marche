@@ -23,3 +23,21 @@
     position: relative;
     cursor: pointer;
 }
+
+.link--footer-desktop-link,
+.link--email-footer-desktop-link {
+    /* text-decoration animated */
+    width: calc(100%);
+    background-image: linear-gradient(transparent calc(100% - 1px), white 1px);
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    transition: 0.5s;
+}
+
+
+
+
+.link--footer-desktop-link:hover,
+.link--email-footer-desktop-link:hover{
+    background-size: 100% 100%; 
+}

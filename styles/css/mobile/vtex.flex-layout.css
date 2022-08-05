@@ -97,6 +97,7 @@
      }
  
      .flexCol--home-content {
+        /* border: 1px solid black; */
          max-width: 685px;
          width: 100%;
      }
@@ -699,7 +700,6 @@
     /* GREEN HEADER */
 
     .flexRow--mobile-header {
-        border: 1px solid #000;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -712,6 +712,7 @@
         z-index: 100000;
         border-radius: 0;
     }
+    
 
     .flexRowContent--mobile-header {
         display: flex;
@@ -730,7 +731,6 @@
     }
 
     .flexRow--main-header-container-desktop {
-        border: 1px solid #000;
         width: 1140px;
     }
 

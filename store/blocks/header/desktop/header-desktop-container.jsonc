@@ -119,12 +119,5 @@
             "blockClass": "minicar-desktop-paragraph",
             "text": "![minicar](assets/imgs/minicart-icon.jpg) Carrinho"
         }
-    },
-
-    "rich-text#minicar-desktop-hover-paragraph": {
-        "props": {
-            "blockClass": "minicar-desktop-hover-paragraph",
-            "text": "![minicar](assets/imgs/minicart-icon-hover.jpg) Carrinho"
-        }
     }
 }

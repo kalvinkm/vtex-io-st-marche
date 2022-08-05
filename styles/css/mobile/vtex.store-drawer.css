@@ -5,6 +5,10 @@
 
 }
 
+.closeIconContainer {
+    float: right;
+}
+
 .opened {
     background-color: #373a3c;
     position: absolute;

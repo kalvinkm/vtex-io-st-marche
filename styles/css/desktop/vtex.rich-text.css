@@ -3,6 +3,7 @@
 .paragraph--login-desktop-paragraph {
     padding: 0 16px;
     font-size: 1.2rem !important;
+    font-weight: 900 !important;
 }
 
 
@@ -44,6 +45,10 @@
 }
 
 /* HOME  */
+
+.paragraph--adicionar {
+    font-weight: 800;
+}
 
 
 
@@ -117,9 +122,4 @@
 }
 
 
-/* -------------------------------------- */
-
-.paragraph--teste {
-    color: #000;
-}
 

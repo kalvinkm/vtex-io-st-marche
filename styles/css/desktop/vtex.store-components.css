@@ -32,6 +32,10 @@
     color: white;
 }
 
+.searchBarContainer :global(.vtex__icon-search):hover {
+    color: #839041 ;
+}
+
 
 .searchBarInnerContainer--input-search {
     width: 596px;

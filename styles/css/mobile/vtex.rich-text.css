@@ -76,9 +76,6 @@
     font-weight: 900;
 }
 
-/* .container--product-text {
-    margin-bottom: 1rem !important;
-} */
 
 .wrapper--products-price {
     
@@ -200,7 +197,7 @@
     font-size: 1.1rem;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 1025px) {
     .paragraph--mobile-header-nav-itens {
         font-size: 1.2rem;
     }
